@@ -7,15 +7,20 @@ permalink: /
 
 # Welcome! 🌱
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
+This is my attempt to play around with a digital garden.
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+Here I'll be sharing some of the notes that I put together in my various explorations of the interweb.
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). If you need any help, my [DMs are open on Twitter (@vaillancourtmax)](https://twitter.com/vaillancourtmax). Say hi! 👋
+Some of the topics I'm most interested in are [[Meditation]] (particularly I've been following [[Rob Burbea]]'s teachings), [[Ecology]], Communities and Decentralized Organizing.
 
-If this template helps you in any way, [consider buying me a coffee](https://ko-fi.com/maximevaillancourt)! ☕️
+Some other (kinda) polished notes I made:
+- [[Taoism]]
+- [[Planetary Boundaries]]
+
+
+Feel free to dive into any of those rabbit holes, and if there's anything you want to discuss, my [DMs are open on Twitter (@giorgiop_)](https://twitter.com/giorgiop_). Say hi! 👋
+
+If you want to check some of my essays, instead, you can do so on [giorgiop.com](http://giorgiop.com/)
 
 <style>
   .wrapper {
