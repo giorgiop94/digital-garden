@@ -1,3 +1,6 @@
+```
+--- title: Talks Questioning Awakening (1, 2, 3) Rob Burbea ---
+```
 ## Questioning Awakening (Talk 1)
 - Questioning the underlying assumptions that we don't even know we have
 - Are We really Free to Inquire or Are We Blinded by Assumptions we Don't know we Have?
