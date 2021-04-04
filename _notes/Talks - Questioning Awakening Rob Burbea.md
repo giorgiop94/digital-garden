@@ -1,12 +1,12 @@
 ---
-title: Talks - Questioning Awakening (1, 2, 3) Rob Burbea
+title: Talks - Questioning Awakening Rob Burbea
 ---
 
 ## Questioning Awakening (Talk 1)
 - Questioning the underlying assumptions that we don't even know we have
 - Are We really Free to Inquire or Are We Blinded by Assumptions we Don't know we Have?
 
-### Changes in idea of [[Enlightenment]] in Buddhism Today
+### Changes in idea of Enlightenment in Buddhism Today
 - In modern Dharma the term awakening has kind of disappeared
 - The meaning of the term has been lowered
 	- It tends to mean "being in the world without selfing"

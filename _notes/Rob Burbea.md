@@ -12,14 +12,14 @@ title: Rob Burbea
 - **Our Modernist Worldview has impregnated the Dharma with its assumptions and views**
 - We assume we can strip off our beliefs and experience reality as it really is
 	- What if we drop the assumption of what is reality?
-- Dharma as art [[Talks - Questioning Awakening (1, 2, 3) Rob Burbea#Dharma as Art]]
+- Dharma as art [[Talks - Questioning Awakening Rob Burbea#Dharma as Art]]
 	- Creative, Desire, Play, Beauty, Not one truth
 - Insight defined by its capacity to decrease dukkha
 	- Practicing with insight as starting point
 
 ## Notes on Talks
-- [[Talks - Approaching the Dharma (1 & 2) - Rob Burbea]]
-- [[Talks - Questioning Awakening (1, 2, 3) Rob Burbea]]
+- [[Talks - Approaching the Dharma - Rob Burbea]]
+- [[Talks - Questioning Awakening Rob Burbea]]
 
 
 - On [[Samatha-Samadhi]]
