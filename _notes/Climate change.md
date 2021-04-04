@@ -4,7 +4,7 @@
 
 ![[Temperatures in the past 2,000 years.png]]
 
-### [[Second Order Effects]]
+### Second Order Effects
 - Melting of ice packs
 	- Sea levels rise
 	- Increased heat absorption by the Earth

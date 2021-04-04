@@ -1,11 +1,6 @@
-Created on: 2021-03-23
-Inspired by: [[Rob Burbea]]
-Links: 
-- Questioning Awakening: https://dharmaseed.org/teacher/210/talk/26010/
-- Buddhism Beyond Modernism: https://dharmaseed.org/teacher/210/talk/26007/
-- In Praise of Restlessness: https://dharmaseed.org/teacher/210/talk/26009/
-
--------------------
+```
+--- title: Talks - Questioning Awakening (1, 2, 3) - Rob Burbea ---
+```
 
 ## Questioning Awakening (Talk 1)
 - Questioning the underlying assumptions that we don't even know we have
@@ -93,10 +88,6 @@ Links:
 	- Is psychotherapy true?
 - How can we expose the assumptions or ideas we have?
 
-
-
-
-
 ## Buddhism Beyond Modernism (Talk 2)
 ### Our Unconscious Ideas
 - The conscious and subconscious ideas we have impact and circumscribed our perception of
@@ -149,13 +140,11 @@ Links:
 	- God help us from singleness of vision
 - I cannot claim that truth is singular
 - we can entertain different ideas without needing to arrive at a final truth
-
 - What is our fantasy of liberation?
     - Calm sage, simple, no question, no concepts
     - could there be other fantasies? 
 
 ## In Praise of Restlessness (Talk 3)
-
 - Nothing wrong with fantasies of the path
 	- The danger is in having a single fantasy
 - Truth is not singular
@@ -290,3 +279,12 @@ Links:
 
 - A life of non-clinging doesn't make sense
 	- It won't work
+
+-------------------
+## Meta
+- Created on: 2021-03-23
+- Inspired by: [[Rob Burbea]]
+- Links: 
+	- Questioning Awakening: https://dharmaseed.org/teacher/210/talk/26010/
+	- Buddhism Beyond Modernism: https://dharmaseed.org/teacher/210/talk/26007/
+	- In Praise of Restlessness: https://dharmaseed.org/teacher/210/talk/26009/

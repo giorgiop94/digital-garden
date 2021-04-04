@@ -1,3 +1,7 @@
+```
+--- title: Dealing with Pain in Meditation ---
+```
+
 ### From [[Rob Burbea]]'s instructions'
 Link: https://www.dharmaseed.org/talks/audio_player/210/11512.html
 

@@ -1,3 +1,7 @@
+```
+--- title: Talks - Approaching the Dharma (1&2) - Rob Burbea ---
+```
+
 # Approaching the Dharma
 
 ## The Path Beyond Perceptions
@@ -14,7 +18,7 @@
 	- measurement, Comparison with others etc.. 
 - At the root of Papancha (vortex of mind reactions) 
 
-## [[Ways of Looking]] to Liberate Us
+## Ways of Looking to Liberate Us
 - Insight can defined by its capacity to decrease dukkha
     - If it doesn't decrease dukkha, is not insight (one way to see it)
     - Mindfulness may not always decrease dukkha (I know I'm suffering, but continue suffering)
@@ -40,13 +44,14 @@
 	- [[Emptiness]] is the most Liberating way of looking
 - What fabricates the fabrications is not real either, neither is the time in which fabrications happen
 - **if there is no reality, the ways of looking become even more important and relevant**
-    - the malleability of our perception is way beyond what we could imagine [[E. human minds are really malleable]]
+    - the malleability of our perception is way beyond what we could imagine ([[human minds are really malleable]])
 
 -------------------
-Created on: 2021-03-21
-Inspired by: [[Rob Burbea]]
-Links: 
+## Meta
+- Created on: 2021-03-21
+- Inspired by: [[Rob Burbea]]
+- Links: 
 	- Approaching the Dharma: Part One - Unbinding the World: https://dharmaseed.org/teacher/210/talk/17960/
 	- Approaching the Dharma: Part Two - Liberating Ways of Looking: https://dharmaseed.org/teacher/210/talk/17961/
-Related: [[Buddhism]] | 
-#curate #podcast 
+- Related: [[Buddhism]] | 
+- Tags: #curate #podcast 
