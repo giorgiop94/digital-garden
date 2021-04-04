@@ -1,4 +1,4 @@
-### From Rob Burbea's instructions'
+## From Rob Burbea's instructions'
 Link: https://www.dharmaseed.org/talks/audio_player/210/11512.html
 
 1. Make sure the rest of the body is relaxed (open up the awareness)

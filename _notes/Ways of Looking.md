@@ -1,3 +1,6 @@
+---
+title: Ways of Looking
+---
 ### Notes from Podcast on Emerge with Rob Burbea
 Link: https://castbox.fm/vb/90761812
 

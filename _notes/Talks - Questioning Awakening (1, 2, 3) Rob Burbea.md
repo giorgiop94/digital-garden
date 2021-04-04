@@ -1,5 +1,5 @@
 ---
-title: Talks - Questioning Awakening Rob Burbea
+title: Talks - Questioning Awakening (1, 2, 3) Rob Burbea
 ---
 
 ## Questioning Awakening (Talk 1)
