@@ -2,7 +2,7 @@ $color-primary: hsl(0, 0%, 10%);
 $color-text: hsl(0, 0%, 20%);
 $color-subtext: hsl(0, 0%, 30%);
 $color-border: hsl(0, 0%, 85%);
-$color-box-background: #EDFFEC;
+$color-box-background: #F5FBEF;
 $border-radius: 4px;
 $font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
   sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
@@ -99,7 +99,7 @@ a {
 }
 
 *:focus {
-  background: #64E9EE !important;
+  background: #F2B5D4 !important;
   color: black !important;
 }
 
