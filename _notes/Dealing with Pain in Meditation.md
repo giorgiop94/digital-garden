@@ -1,8 +1,4 @@
-```
---- title: Dealing with Pain in Meditation ---
-```
-
-### From [[Rob Burbea]]'s instructions'
+### From Rob Burbea's instructions'
 Link: https://www.dharmaseed.org/talks/audio_player/210/11512.html
 
 1. Make sure the rest of the body is relaxed (open up the awareness)
@@ -25,4 +21,4 @@ Link: https://www.dharmaseed.org/talks/audio_player/210/11512.html
 
 -------------------
 Created on: 2021-02-25
-Related: [[Meditation]]
+Related: [[Meditation]] | [[Rob Burbea]]
