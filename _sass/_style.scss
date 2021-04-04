@@ -82,7 +82,8 @@ a {
   border-bottom: 1px solid $color-border;
   color: $color-primary;
   &:hover {
-    color: #464cfc !important;
+    color: #FFFFFF !important;
+    background: #4785FD !important;
   }
   &:after {
     position: relative;
@@ -99,8 +100,8 @@ a {
 }
 
 *:focus {
-  background: #F2B5D4 !important;
-  color: black !important;
+  color: #FFFFFF !important;
+  background: #0A1045 !important;
 }
 
 nav {
