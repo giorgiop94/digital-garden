@@ -1,6 +1,6 @@
---
+---
 title: Talks - Questioning Awakening Rob Burbea
---
+---
 
 ## Questioning Awakening (Talk 1)
 - Questioning the underlying assumptions that we don't even know we have
