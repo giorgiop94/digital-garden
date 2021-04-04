@@ -1,6 +1,4 @@
-```
 --- title: Talks - Approaching the Dharma (1&2) - Rob Burbea ---
-```
 
 # Approaching the Dharma
 
