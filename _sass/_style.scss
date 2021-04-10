@@ -152,7 +152,7 @@ code {
 
 .toc__content {background: $color-box-background;
 padding: 0.1em;
-text-indent: 0.01em;
+li+ul {padding-left: 0.2px;}
 margin-left: 0em;
 border-radius: $border-radius;
 }
