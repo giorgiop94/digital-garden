@@ -29,3 +29,5 @@ Link: https://castbox.fm/vb/90761812
 Created on: 2021-03-21
 Inspired by: [[Rob Burbea]]
 Related: [[Buddhism]] | [[Meditation]] #curate 
+
+- To add: Raft story, put down the teachings, just like ways of looking                                                                   

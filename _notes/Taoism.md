@@ -75,4 +75,4 @@ The world is a sacred and complicated place, we shouldn't try to tamper with it 
 Created on: 2020-09-02
 Inspired by: [[Daniele Bolelli]]
 Link:
-Topic: [[030 World MOC]] [[Enlightenment]] [[Everything is going exactly as it should]]
+Topic: [[030 Macro MOC]] [[Enlightenment]] [[Everything is going exactly as it should]]

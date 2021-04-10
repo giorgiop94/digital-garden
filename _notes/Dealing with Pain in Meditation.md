@@ -1,5 +1,5 @@
-## From Rob Burbea's instructions'
-Link: https://www.dharmaseed.org/talks/audio_player/210/11512.html
+## From Rob Burbea's Art of Concentration Retreat
+[Link to recording](https://www.dharmaseed.org/talks/audio_player/210/11512.html)
 
 1. Make sure the rest of the body is relaxed (open up the awareness)
 	- We tend to tense the rest of the body in relation to discomfort
