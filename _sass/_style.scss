@@ -151,8 +151,12 @@ code {
 }
 
 .toc__content {background: $color-box-background;
-padding: 0.1em;
+padding: 0.4em;
 li+ul {padding-left: 0.2px;}
 margin-left: 0em;
 border-radius: $border-radius;
+position: -webkit-sticky;
+     position: sticky;
+     top: 2em;
+     float: right;
 }
