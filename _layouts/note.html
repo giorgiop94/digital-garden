@@ -16,13 +16,14 @@ layout: default
       {{ content }}
     </content>
 
-    <div class="dock-header__toc toc">
-              <div class="toc__title text-accepted">Table of contents:</div>
-              <div class="toc__content text-main">
-    {% include toc.html html=content class='menu-list' h_min=2 h_max=3 contents_title=contentsTitle %}
-      </div>
-    </div>
+
     <side style="font-size: 0.9em">
+      <div class="dock-header__toc toc">
+                <div class="toc__title text-accepted">Table of contents:</div>
+                <div class="toc__content text-main">
+      {% include toc.html html=content class='menu-list' h_min=2 h_max=3 contents_title=contentsTitle %}
+        </div>
+      </div>
       <h3 style="margin-bottom: 1em">Notes mentioning this note</h3>
       {% if page.backlinks.size > 0 %}
       <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(1fr);">
