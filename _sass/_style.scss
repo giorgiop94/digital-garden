@@ -144,3 +144,12 @@ code {
   color: #ccc;
   cursor: help;
 }
+
+.toc__title {
+  font-weight: bold;
+}
+
+.toc__content {background: $color-box-background;
+padding: 1em;
+border-radius: $border-radius;
+}
