@@ -31,8 +31,8 @@ Operate and regulate the entire Earth system, and they are the endpoint dependin
 8. Global freshwater use
 9. [[Aerosol Loading]]
 
-![[/assets/Planetary Boundaries 2009.png]]
-![[/assets/Planetary Boundaries 2014.png]]
+!(/assets/Planetary Boundaries 2009.png)
+!(/assets/Planetary Boundaries 2014.png)
 ### How Are Boundaries Measured?
 
 - For each boundary we identify one or more control variable (e.g. GHG concentration)
