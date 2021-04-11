@@ -5,7 +5,7 @@ Some of these boundaries show evidence of planetary scale [[Tipping point (nonli
 There are strong **interactions** among the different boundaries. Transgressing one boundary may cause cascading effects on others
 
 ### CORE BOUNDARIES
-Operate and regulate the entire Earth system, and they are the endpoint depending upon how the other boundaries operate. 
+Operate and regulate the entire Earth system, and they are the endpoint depending upon how the other boundaries operate.
 
 1. [[Climate change]] (**TRANSGRESSED**)
 	- Climate can get into glacial or extremely hot periods
@@ -18,7 +18,7 @@ Operate and regulate the entire Earth system, and they are the endpoint dependin
 
 ### OTHER BOUNDARIES
 4. [[Ocean acidification]]
-	- Ocean can be in an oxygen rich state or oxygen free 
+	- Ocean can be in an oxygen rich state or oxygen free
 5. [[Ozone Depletion]]
 	- Necessary to protect biosphere from harmful radiations
 6. Land and Water Use Change
@@ -31,8 +31,8 @@ Operate and regulate the entire Earth system, and they are the endpoint dependin
 8. Global freshwater use
 9. [[Aerosol Loading]]
 
-![[Planetary Boundaries 2009.png]]
-![[Planetary Boundaries 2014.png]]
+![[/assets/Planetary Boundaries 2009.png]]
+![[/assets/Planetary Boundaries 2014.png]]
 ### How Are Boundaries Measured?
 
 - For each boundary we identify one or more control variable (e.g. GHG concentration)
@@ -40,6 +40,6 @@ Operate and regulate the entire Earth system, and they are the endpoint dependin
 - At which level will the variable cause a regime shift or start affecting other boundaries?
 	- There's high uncertainty on those
 	- The lowest bound of the range is considered (for precaution)
-	
+
 	## Resources:
 - [[Course - Planetary Boundaries]]

@@ -3,20 +3,6 @@ title: Talks - Approaching the Dharma - Rob Burbea
 ---
 # Approaching the Dharma
 
-## The Path Beyond Perceptions
-- We can have "inferior" perceptions
-    - Anger, stress, ego
-- We can have "superior" perceptions
-    - Metta, Samadhi
-- Or we can move beyond Perceptions
-
-### Aviche (ignorance) 
-- False belief in a separate self
-	- Below the level of thought (implied in awareness "I am aware of this")
-	- Causes reactivity
-	- measurement, Comparison with others etc.. 
-- At the root of Papancha (vortex of mind reactions) 
-
 ## Ways of Looking to Liberate Us
 - Insight can defined by its capacity to decrease dukkha
     - If it doesn't decrease dukkha, is not insight (one way to see it)
@@ -29,7 +15,6 @@ title: Talks - Approaching the Dharma - Rob Burbea
 		- Anatta (no self)
 		- [[Metta (Loving Kindness) Meditation]]
 			- what happens if I sustain this way of looking (also in terms of reducing dukkha)
-
 - Insight as a result of practice (no self), can be used as the method of practice.
     - allows to consolidate the insight
     - Original insight becomes a platform for new insights
@@ -44,6 +29,21 @@ title: Talks - Approaching the Dharma - Rob Burbea
 - What fabricates the fabrications is not real either, neither is the time in which fabrications happen
 - **if there is no reality, the ways of looking become even more important and relevant**
     - the malleability of our perception is way beyond what we could imagine ([[human minds are really malleable]])
+
+## Other Notes
+### The Path Beyond Perceptions
+- We can have "inferior" perceptions
+    - Anger, stress, ego
+- We can have "superior" perceptions
+    - Metta, Samadhi
+- Or we can move beyond Perceptions
+
+### Aviche (ignorance) 
+- False belief in a separate self
+	- Below the level of thought (implied in awareness "I am aware of this")
+	- Causes reactivity
+	- measurement, Comparison with others etc.. 
+- At the root of Papancha (vortex of mind reactions) 
 
 -------------------
 ## Meta

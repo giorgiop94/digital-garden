@@ -6,7 +6,7 @@ A blind man can become an expert about the physics and the laws of light and fir
 The tao that can be told 
 is not the eternal Tao 
 
-[[Chuang Tzu]]'s story of the wheelmaker who tells the Duke that the books of the sages are simply the baggage that they left behind. He explains that he cannot teach even his son how to make wheels. It cannot be conveyed in words.
+[[Chuang Tzu]]'s story of the wheelmaker who tells the Duke that the books of the sages are simply the baggage that they left behind. The wheelmaker explains that he cannot teach even his son how to make wheels. Wisdom cannot be conveyed in words.
 
 ![[Taoism#The Tao is unnamable we could see it as the life force of nature]]
 
@@ -23,11 +23,9 @@ is not the eternal Tao
 -------------------
 
 Created on: 2020-08-26
-Inspired by: [[Anthony DeMello]] [[Lao Tzu]]
-Topics: [[Enlightenment]] [[Buddhism]]
-
+Inspired by: [[Anthony DeMello]] | [[Lao Tzu]]
+Topics: [[Enlightenment]] | [[Buddhism]]
 Related to: [[the map is not the territory (menu is not the food)]] 
-
 Resources:
-[[Book - Awareness - Anthony DeMello#Words take us away from reality]]
- [[Tao Te Ching 1 - The tao that can be told is not the eternal Tao.]]
+- [[Book - Awareness - Anthony DeMello#Words take us away from reality]]
+- [[Tao Te Ching 1 - The tao that can be told is not the eternal Tao.]]

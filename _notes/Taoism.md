@@ -15,15 +15,15 @@ It probably originated from shamanic and animist religions (which used to have a
 
 #### The Tao is unnamable, we could see it as the life force of nature
    - [[Truth is never expressed in words]] → Words, concepts can give a direction, but eventually need to be dropped if we want to experience reality
-   - > This is Lao Tzu's basic attitude: that truth cannot be told and truth cannot be taught. The moment you say something about truth, it is no longer true, the very saying falsifies it. You cannot teach it. At the most you can indicate it. And that indication should be your very being, your whole life – it cannot be indicated by words. He was against words. He was against language. Osho
+   - > "*This is Lao Tzu's basic attitude: that truth cannot be told and truth cannot be taught. The moment you say something about truth, it is no longer true, the very saying falsifies it. You cannot teach it. At the most you can indicate it. And that indication should be your very being, your whole life – it cannot be indicated by words. He was against words. He was against language*". Osho
    
-   #### [[Everything is interconnected (interbeing)]] 
+   #### Everything is interconnected
 
-The world is a sacred and complicated place, we shouldn't try to tamper with it because we don't understand all its connections
+- The world is a sacred and complicated place, we shouldn't try to tamper with it because we don't understand all its connections
     - Encourage people to get into different fields of knowledge and find connections, like [[Leonardo Da Vinci]]
 
 #### Paradoxes
-- Taoism refuses the idea of duality that we have in the West of Good vs. Evil. Instead it asserts that opposites contain and complete each other, just like in the [[Yin Yang - Nonduality]] symbol
+- Taoism refuses the idea of duality that we have in the West of Good vs. Evil. Instead it asserts that opposites contain and complete each other, just like in the [[Yin Yang]] symbol
 	- [[Tao Te Ching 5 - The Tao doesn’t take sides]]
 
 #### [[Wu Wei]]
@@ -37,10 +37,10 @@ The world is a sacred and complicated place, we shouldn't try to tamper with it 
 ## Unlike other religions
 - Taoism does not conflict with science. 
     - Taoism is about the laws of the universe so it actually welcomes anything that can help us understand the universe better
-    -  > You cannot worship Tao because Tao does not give you the idea of a person. It is simply a principle, not a person. You cannot worship a principle – you cannot pray to Tao. It will look ridiculous; it will be utterly absurd, praying to a principle. You don’t pray to gravitation, you cannot pray to the theory of relativity [[Osho]]
+    -  > "*You cannot worship Tao because Tao does not give you the idea of a person. It is simply a principle, not a person. You cannot worship a principle – you cannot pray to Tao. It will look ridiculous; it will be utterly absurd, praying to a principle. You don’t pray to gravitation, you cannot pray to the theory of relativity*" [[Osho]]
 - Taoism does not rely on historical accuracy about its origins
     - In Catholicism, if we find out that Jesus was not resurrected it would put into question the whole religion
-    - For Taoism, it doesn't matter whether its foundation is true or a legend. 
+    - **For Taoism, it doesn't matter whether its foundation is true or a legend** 
 - You could be a taoist and not know it. Don't need to believe in anything, just follow the laws of nature.
     - You can burn all the copies of Taoists main texts, and still practice Taoism
 - Taoism does not put man above nature
@@ -60,7 +60,7 @@ The world is a sacred and complicated place, we shouldn't try to tamper with it 
 	- [[what price are you willing to pay]]
 	-  [[you can be happy with very little]]
 		- "knowing what is enough is wealth" 
-		- If you realize that you have enough, you are truly rich.
+		- "*If you realize that you have enough, you are truly rich*" Lao Tzu
 #quotesonMoney #quotesonWealth
 
 ## Qualities emphasized
@@ -68,11 +68,9 @@ The world is a sacred and complicated place, we shouldn't try to tamper with it 
 	- [[Detachment from results makes you more relaxed and better performing]]
 - Kindness towards all (including enemies)
 - True Humbleness
-- 
 
 ------------
 
 Created on: 2020-09-02
 Inspired by: [[Daniele Bolelli]]
-Link:
-Topic: [[030 Macro MOC]] [[Enlightenment]] [[Everything is going exactly as it should]]
+Topic: [[030 Macro MOC]] 
