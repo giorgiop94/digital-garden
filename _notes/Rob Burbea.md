@@ -20,8 +20,9 @@ title: Rob Burbea
 ## Notes on Talks
 - [[Talks - Approaching the Dharma - Rob Burbea]]
 - [[Talks - Questioning Awakening Rob Burbea]]
+- [[Talks - Samatha Retreat - Rob Burbea]]
 - [[Talks - The Art of Concentration Retreat - Rob Burbea]]
-- [[Talks - Vajra Music Exercises]]
+- [[Talks - Beauty of Desire - Rob Burbea]]
 
 ### On Emerge Podcast
 - Podcast #1: https://castbox.fm/vb/85859434

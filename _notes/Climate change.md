@@ -1,8 +1,8 @@
 - In the past 2000 years, during the [[Geological Ages#Holocene 10 000 years| Holocene]] temperatures varied a maximum of +/- 1 degrees
 - Over the past 150 years there was a stark increase in global temperatures
-	- We already increased temperatures by over ~1 degree
+	- We already increased temperatures by over ~1 degree 
 
-!(/assets/Temperatures in the past 2,000 years.png)
+![[Temperatures in the past 2,000 years.png]]
 
 ### Second Order Effects
 - Melting of ice packs
