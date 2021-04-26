@@ -143,12 +143,11 @@ code {
   cursor: help;
 }
 
-.toc__content {background: $color-box-background;
+.toc__content {background: #4785FD;
 width: calc(100% - #{$right-sidebar-width});
-   padding-right: $right-sidebar-width;
+color: white;
 padding: 0.2em;
 text-align: left;
-border-radius: $border-radius;
 position: sticky;
 list-style: upper-roman;
 top: 2em;
