@@ -144,10 +144,13 @@ code {
 }
 
 .toc__content {background: $color-box-background;
-padding: 0.4em;
+width: calc(100% - #{$right-sidebar-width});
+   padding-right: $right-sidebar-width;
+padding: 0.2em;
+text-align: left;
 border-radius: $border-radius;
 position: sticky;
-list-style: none;
+list-style: upper-roman;
 top: 2em;
 float: right;
 }
