@@ -144,11 +144,15 @@ code {
 }
 
 .toc__content {background: #4785FD;
-color: white;
-padding: 0.2em;
-text-align: left;
-position: sticky;
-list-style: upper-roman;
-top: 2em;
-float: right;
+  width: 100%;
+  border: 1px solid $color-border;
+  border-radius: $border-radius;
+  a {color: white}
+  color: white;
+  padding: 0.2em;
+  text-align: left;
+  position: sticky;
+  list-style: upper-roman;
+  top: 2em;
+  float: right;
 }
