@@ -4,16 +4,16 @@ layout: default
 
 <article>
   <div>
+    <div style="padding-left: 240px">
     <h1>{{ page.title }}</h1>
     <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
       Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }}
       {% endif %}
     </time>
   </div>
-
   <div id="notes-entry-container">
 
-  <div style="max-width: 800px; padding-left: 240px;" 
+  <div style="max-width: 800px">
     <content>
     {{ content }}
     </content>
@@ -45,6 +45,7 @@ layout: default
       </div>
       {% endif %}
     </side>
+  </div>
   </div>
 </article>
 
