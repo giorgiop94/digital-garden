@@ -121,12 +121,10 @@ nav {
 
 .backlink-box {
   float: right;
-  background: #4785FD;
+  background: $color-box-background;
   max-width: 360px;
   padding: 1em;
   border-radius: $border-radius;
-  a {color: white}
-  color: white;
 }
 
 code {
