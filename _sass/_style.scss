@@ -119,11 +119,12 @@ nav {
 }
 
 .backlink-box {
-  float: right;
+  float: left;
   background: $color-box-background;
-  max-width: 360px;
+  max-width: 320px;
   padding: 1em;
   border-radius: $border-radius;
+  position: sticky;
 }
 
 code {
@@ -145,7 +146,7 @@ code {
 }
 
 .toc__content {background: #4785FD;
-  width: 100%;
+  max-width: 320px;
   border: 1px solid $color-border;
   border-radius: $border-radius;
   a {color: white}
@@ -155,5 +156,5 @@ code {
   position: sticky;
   list-style: upper-latin;
   top: 2em;
-  float: right;
+  float: left;
 }
