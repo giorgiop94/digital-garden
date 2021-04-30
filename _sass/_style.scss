@@ -15,7 +15,7 @@ body {
   overflow-x: hidden;
   color: $color-text;
   font-size: 1.25em;
-  max-width: 63;
+  max-width: 64%;
 
   @media (min-width: 820px) {
     font-size: 1.2rem;
@@ -121,7 +121,7 @@ nav {
 .backlink-box {
   float: left;
   background: $color-box-background;
-  max-width: 320px;
+  max-width: 16%;
   padding: 1em;
   border-radius: $border-radius;
   position: sticky;
@@ -146,7 +146,7 @@ code {
 }
 
 .toc__content {background: #4785FD;
-  max-width: 320px;
+  max-width: 16%;
   border: 1px solid $color-border;
   border-radius: $border-radius;
   a {color: white}
