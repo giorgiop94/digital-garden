@@ -3,7 +3,7 @@ layout: default
 ---
 
 <article>
-<div style="padding-left: 240px">
+<div style="padding-left: 120px">
   <div>
   <h1>{{ page.title }}</h1>
     <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
@@ -22,7 +22,7 @@ layout: default
 
     <side style="font-size: 0.9em">
                   <div class="toc__content text-main">
-                    <h4 style="margin-bottom: 1em">On this page</h4>
+                    <h4 style="margin-bottom: 1em; margin-left: 0.5em">On this page</h4>
       {% include toc.html html=content class='menu-list' h_min=2 h_max=3 contents_title=contentsTitle %}
         </div>
       </div>
@@ -45,8 +45,7 @@ layout: default
         </p>
       </div>
       {% endif %}
-    </side>
-  </div>
+      </div>
   </div>
 </article>
 
