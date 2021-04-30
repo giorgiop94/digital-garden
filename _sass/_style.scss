@@ -121,7 +121,7 @@ nav {
 .backlink-box {
   float: left;
   background: $color-box-background;
-  max-width: 100%;
+  width: 10%;
   padding: 1em;
   border-radius: $border-radius;
   position: sticky;
@@ -146,7 +146,7 @@ code {
 }
 
 .toc__content {background: #4785FD;
-  max-width: 100%;
+  width: 10%;
   border: 1px solid $color-border;
   border-radius: $border-radius;
   a {color: white}
@@ -156,5 +156,4 @@ code {
   position: sticky;
   list-style: upper-latin;
   top: 2em;
-  float: left;
 }
