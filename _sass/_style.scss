@@ -110,6 +110,7 @@ nav {
 
 #notes-entry-container {
   display: grid;
+  max-width: 920px;
   grid-gap: 2em;
   grid-template-areas: "content side";
 
@@ -121,6 +122,7 @@ nav {
 
 .backlink-box {
   background: #4785FD;
+  max-width: 360px;
   padding: 1em;
   border-radius: $border-radius;
   a {color: white}

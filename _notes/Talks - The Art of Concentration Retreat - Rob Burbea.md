@@ -15,6 +15,7 @@ title: Talks - The Art of Concentration Retreat - Rob Burbea
 	- Bringing play to practice every moment
 	- Playing with the breath 
 		- Our conception of the breath (feeling the breath coming out of our chest etc...)
+		- Making breath as pleasurable as possible
 - Patience
 - Appreciation and gratitude
 	- Happiness leads to samadhi and viceversa
@@ -29,7 +30,7 @@ title: Talks - The Art of Concentration Retreat - Rob Burbea
 		- Because we have enough
 - The idea of renunciation is not scary anymore
 
-### Not Being with What Is
+### Not "Being with What Is"
 - This practice encourages us to play with and manipulate the breath
 	- This may feel not spiritual or not correct
 	- Strong emphasis on being with what is

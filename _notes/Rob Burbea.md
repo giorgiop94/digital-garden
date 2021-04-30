@@ -23,6 +23,9 @@ title: Rob Burbea
 - [[Talks - Samatha Retreat - Rob Burbea]]
 - [[Talks - The Art of Concentration Retreat - Rob Burbea]]
 - [[Talks - Beauty of Desire - Rob Burbea]]
+- [[Talk - The Boundless Heart - Rob Burbea]]
+- [[Talks - Ending the Inner Critic - Rob Burbea]]
+- [[Talks - Metta and Emptiness - Rob Burbea and Catherine McGee]]
 
 ### On Emerge Podcast
 - Podcast #1: https://castbox.fm/vb/85859434
