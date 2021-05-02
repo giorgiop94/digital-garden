@@ -121,7 +121,7 @@ nav {
 
 .backlink-box {
   background: $color-box-background;
-  max-width: 90%;
+  max-width: 100%;
   padding: 1em;
   border-radius: $border-radius;
 }
@@ -145,7 +145,7 @@ code {
 }
 
 .toc__content {background: #4785FD;
-  max-width: 90%;
+  max-width: 100%;
   border: 1px solid $color-border;
   border-radius: $border-radius;
   a {color: white}
