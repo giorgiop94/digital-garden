@@ -25,7 +25,7 @@ Created by: [[Stockholm Resilience Center]]
 - All these exponential curves put us at risk of abrupt tipping points
 - The extend and adoption of solutions is also following an exponential curve
 
-![World Energy Use](World Energy Use.png)
+![World Energy Use](assets/World Energy Use.png)
 
 ## 9 Planetary Boundaries
 - The boundaries that should not be crossed for us to keep the Earth in its currently desirable state (Holocene)
@@ -112,7 +112,7 @@ Four approaches that can start out independently but can evolve and combine with
 
 ## Energy Transition
 ### Energy Trends
-![World Energy Use and Source](World Energy Use and Source.png)
+![World Energy Use and Source](assets/World Energy Use and Source.png)
 
 - To date increased growth has been correlated to higher energy use
 	- We still expect higher demand for energy in the future

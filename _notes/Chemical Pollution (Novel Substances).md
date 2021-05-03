@@ -1,3 +1,6 @@
+---
+title: Chemical Pollution (Novel Substances)
+---
 - Humans engineered new chemical compounds that did not exist before and that no ecosystem has adapted to
 	- These can be toxic substances that are not easily dissipated in the environment
 	- They are often transported in long distances affecting a variety of ecosystems

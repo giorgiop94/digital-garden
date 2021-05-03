@@ -1,6 +1,9 @@
+---
+title: Tipping point (nonlinear) effects
+---
 When a system fundamentally changes structure and function, settling into a new stable state.
 
-![Tipping point effects](Tipping point effects - Regime Shifts.png)
+![Tipping point effects](assets/Tipping point effects - Regime Shifts.png)
 
 - Nonlinear effects
 	- Can have very big consequences
@@ -13,7 +16,7 @@ When a system fundamentally changes structure and function, settling into a new 
 	- As feedback loops change direction or if the feedback loop of the alternate regime become increasingly strong they can create sudden changes
 	- Systems that have higher [[Resilience]] will be more resistant to regime shifts
 
-![Feedback loops and regime shifts](Feedback loops and regime shifts.png)
+![Feedback loops and regime shifts](assets/Feedback loops and regime shifts.png)
 
 ### Example of Rainforests
 - Water-generating feedback loop
@@ -26,7 +29,7 @@ When a system fundamentally changes structure and function, settling into a new 
 
 ## Global Tipping Elements
 
-![Global Tipping Points](Global Tipping Points.png)
+![Global Tipping Points](assets/Global Tipping Points.png)
 
 ## Example of Coral Reefs
 - shifts from diverse coral reefs
