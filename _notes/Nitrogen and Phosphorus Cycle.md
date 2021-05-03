@@ -1,5 +1,5 @@
 # Nitrogen
-![Nitrogen Cycle](http://www.industrytap.com/wp-content/uploads/2013/03/nitrogen-cycle.jpg)
+![Nitrogen Cycle](assets/Nitrogen Cycle.png)
 
 - We draw nitrogen from the atmosphere and transform it into reactive forms (nitrate and ammonia)
 	- Part of it goes to the biosphere 
