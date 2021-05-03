@@ -20,6 +20,7 @@ title: Talks - Samatha Retreat - Rob Burbea
 	- **Calmness, like other mindstates, is developable**
 		- We are not victim of our environment for our mindstates
 - The Buddha placed a strong emphasis on the 5 ethical precepts
+
 ### Questioning assumptions
 - Why is there such an emphasis to not control the breath?
 	- Is it to let go of the need of control?
@@ -82,12 +83,12 @@ title: Talks - Samatha Retreat - Rob Burbea
 	- It can also be very expansive awareness
 
 - Not giving in urges in practice we develop non-reactivity in life
-- Samatha creates fertile soil in our mind for insights
+- **Samatha creates fertile soil in our mind for insights**
 
 ### What Helps to Develop Samatha
 - [[Happiness]] is what helps most to develop Samatha
 	- It is also the fruit of Samatha, creating [[Reinforcing Feedback Loops]]
-	- Feeling gratitude and appreciation to develop happiness
+	- **Feeling gratitude and appreciation to develop happiness [[gratitude is a superpower (and gratitude practices)]]**
 - Receptivity, again is both a fruit and a cause of Samatha
 - Learning [[Talks - Samatha Retreat - Rob Burbea#Talk 2 - How to Work with Hindrances]]
 	- Learning to expect and ride the waves and ups and downs

@@ -2,32 +2,32 @@
 title: Talks - The Art of Concentration Retreat - Rob Burbea
 ---
 [Link to retreat](https://www.dharmaseed.org/retreats/1183/)
-## Talk One
 
+## Talk One
 - As Samadhi deepens it is supposed to lead to a sense of happiness, well-being and pleasure
 	- Buddha placed large emphasis on it
+- **Happiness leads to samadhi and viceversa** ([[Reinforcing Feedback Loops]])
 - Meditation as an Art
 	- No strict rules of how to respond
 	- Sense of play
 
 ### Key Attitudes
-- Play
+- **Play**
 	- Bringing play to practice every moment
 	- Playing with the breath 
 		- Our conception of the breath (feeling the breath coming out of our chest etc...)
 		- Making breath as pleasurable as possible
-- Patience
+- **Patience**
 - Appreciation and gratitude
-	- Happiness leads to samadhi and viceversa
 - Generosity
 	- Reminding ourselves that we are practicing for the good of all beings
 
 ### For the Good of all Beings
-- Creating a reservoir of pleasure and well being in practice allows us to let go and renounce material things
-	- We need less to be satisfied (food, entertainment, stuff)
-	- No need to be comfortable or security
-	- We become more available to others
-		- Because we have enough
+- **==Creating a reservoir of pleasure and well being in practice allows us to let go and renounce material things==**
+- We need less to be satisfied (food, entertainment, stuff)
+- No need to be comfortable or security
+- We become more available to others
+	- Because we have enough
 - The idea of renunciation is not scary anymore
 
 ### Not "Being with What Is"
@@ -36,44 +36,12 @@ title: Talks - The Art of Concentration Retreat - Rob Burbea
 	- Strong emphasis on being with what is
 		- That kind of practice is not preparing us for daily life	
 - In life we are constantly shaping and responding to things, we are not passively going through it
-- We manipulate the breath to make it as pleasurable as possible
-
-
-
-
+- **We manipulate the breath to make it as pleasurable as possible**
 
 ## Talk Four
-- Link: https://dharmaseed.org/talks/audio_player/210/11515.html
-- [[Jhanas]] are different states arising from practice
-- They are more available than one might think [[Rob Burbea]]
+- Description of [[Jhanas]]
 
-### Jhanas Description
-1. **Pleasurable** sensations spreading throughout the body
-	- Happiness in the background, goes unnoticed
-	- Thoughts may still be there
-2. Pleasurable sensations continue, **happiness** pervades the being
-	- Mind can't follow thoughts (**thoughts are gone**)
-3. Happiness becomes mellow, **contentment** arises
-	- Profound sense of peaceful satisfaction
-4. **Peacefulness** expands further, pervading everything
-	- Mind and body dissolved in bright stillness
-	- Sense of great aliveness in the moment
-5. **Infinity of space** - Mystical sense of [[Oneness]]
-6. **Infinity of consciousness**
-7. **No-thingness**
-	- Mind is still perceiving nothingness 
-8. **Neither perception nor non-perception**
-9. **Cessation** 
-
-### Tips
-- Not getting attached to any of it is really important
-	- The ego can often get in the way, wants to wear it as a badge
-	- [[Goals in Spiritual Practice]]
-- To be considered as a lifetime commitment
-- [[Rob Burbea]] usually introduces these ideas later in his student's practices
-- Sometimes these states feel effortless, sometimes there is some tweaking that needs to be done
-
-#### Risk of Escapism?
+### Risk of Escapism?
 - Pleasure in practice can be seen as an escape
 - It needs to be seen as one part of practice
 	- Other parts involve being with one's negative feelings
@@ -81,7 +49,6 @@ title: Talks - The Art of Concentration Retreat - Rob Burbea
 	- We realize we can be happy without needing anything
 	- Helps us [[avoid greed and compulsive consumption]]
 - Buddha talked about practicing Samadhi leads to [[Enlightenment]]
-
 
 ## Talk Five
 - Concentration practices, can be seen as preparation for insight practices (vipassana)
@@ -99,3 +66,5 @@ title: Talks - The Art of Concentration Retreat - Rob Burbea
 	- Willingness to renunciation (because you see you don't need anything to feel good)
 - Sense of self ([[Ego]]) gets weaker
 - Practice non-fabrication of stories by the mind
+
+Related: [[Meditation]]

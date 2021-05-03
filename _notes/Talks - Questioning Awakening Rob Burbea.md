@@ -27,7 +27,6 @@ title: Talks - Questioning Awakening Rob Burbea
 - **All these views are popular and common because in line with Modernist view**
 	- None of them are hard to understand or explain
 	- Not much is needed in terms of meditative skill
-
 - Advaita
 	- There's nothing to do
 	- Samadhi is not an option as it involves doing
@@ -152,8 +151,6 @@ title: Talks - Questioning Awakening Rob Burbea
 	- **Awakening is open-ended, it never ends**
 		- You can be liberated in terms of ideas, or fantasies
 		- In some traditions, awakening is demarcated very clearly, in different stages
-
-
 - Sometimes, shattering happens to us in life (change, relationships, circumstances)
 	- Leads us to inquiry
 - Other times we shatter things, we're on fire and shatter our old beliefs etc...

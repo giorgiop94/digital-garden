@@ -1,0 +1,31 @@
+Aerosol = liquid droplets or particles suspended in the atmosphere
+
+Changing the atmosphere's chemistry risks creating unexpected [[Tipping point (nonlinear) effects]]
+
+Not one general boundary defined, but a strong case to define sub-boundaries for different types of aerosol 
+
+## Functions of Aerosol
+- Absorb and reflect light
+	- Regulate heat balance
+- Help condensation
+	- Affect cloud formation and rainfall
+- Influence atmosphere chemistry
+
+## Sources of Aerosol
+### Natural Sources
+- Ocean waves bubble bursting
+	- microcrystals of salt ejected in the air
+- Fire
+- Volacanoes
+- Vegetation emits tiny compounds that react in the atmosphere
+
+### Human Sources
+- Industrial smoke emissions
+- Urban emissions
+- Land use change and deforestation
+
+
+-------------------
+Created on: 2021-01-22
+Inspired by: [[Course - Planetary Boundaries]]
+Related: [[Planetary Boundaries]]

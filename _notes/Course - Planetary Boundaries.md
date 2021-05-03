@@ -1,4 +1,3 @@
-Link: https://www.youtube.com/watch?v=_V8eKsto3Ug
 Created by: [[Stockholm Resilience Center]]
 
 ## The Quadruple Squeeze
@@ -26,18 +25,19 @@ Created by: [[Stockholm Resilience Center]]
 - All these exponential curves put us at risk of abrupt tipping points
 - The extend and adoption of solutions is also following an exponential curve
 
-World Energy Use
-![[World Energy Use.png]]
+![World Energy Use](World Energy Use.png)
 
-## [[Planetary Boundaries]]
+## 9 Planetary Boundaries
+- The boundaries that should not be crossed for us to keep the Earth in its currently desirable state (Holocene)
 
+[[Planetary Boundaries]]
 1. [[Climate change]] (**TRANSGRESSED**)
 2. Biodiversity loss (**TRANSGRESSED**)
 3. [[Chemical Pollution (Novel Substances)]]
 4. [[Ocean acidification]]
 5. [[Ozone Depletion]]
 6. Land and Water Use Change
-7. Biogeochemical loading: Global [[Nitrogen and Phosphorus Cycle]] & [[Phosphorus Cycle]]
+7. Biogeochemical loading: Global [[Nitrogen and Phosphorus Cycle]]
 8. Global freshwater use
 9. [[Aerosol Loading]]
 
@@ -45,12 +45,24 @@ World Energy Use
 - 40% of land area is now food production land
 
 
-## Geological Ages
+## Geological Ages and the Anthropocene
+[[Geological Ages]]
 
-![[Geological Ages#Anthropocene]]
+### Anthropocene 
+the period in which humans are the dominant force of geological change on Earth
+
+- We're heading to 3C increase in temperature by the end of the century
+
+#### What would make a good anthropocene?
+- Fairness
+	- No matter who your parents are, you'll have the same opportunities as everyone else
+- Prosperity
+- Sustainability
+
+We need to research to see how we can integrate these three and how they can support one another
 
 ## Resilience
-![[Resilience#Resilience 101]]
+Resilience 101 → [[Resilience]]
 
 [[Resilience#Course - Planetary Boundaries]]
 
@@ -100,7 +112,8 @@ Four approaches that can start out independently but can evolve and combine with
 
 ## Energy Transition
 ### Energy Trends
-![[World Energy Use and Source.png]]
+![World Energy Use and Source](World Energy Use and Source.png)
+
 - To date increased growth has been correlated to higher energy use
 	- We still expect higher demand for energy in the future
 - Energy return on investment on oil has gone down dramatically
@@ -126,7 +139,6 @@ Four approaches that can start out independently but can evolve and combine with
 	- Tokyo is a great example of productive fields around the city area
 	- Copenhagen and Canberra instead decided to import their food and leave surrounding areas more pristine
 	- We already saw in the past how countries became reluctant to export food during droughts
-
 
 -------------------
 #course 

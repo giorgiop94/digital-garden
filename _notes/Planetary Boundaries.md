@@ -29,8 +29,7 @@ Operate and regulate the entire Earth system, and they are the endpoint dependin
 		- All biodiversity depends on water
 9. [[Aerosol Loading]]
 
-![[Planetary Boundaries 2009.png]]
-![[Planetary Boundaries 2014.png]]
+![Planetary Boundaries 2014](https://www.stockholmresilience.org/images/18.1939e4a15356be76add8/1459560222901/planetary-boundaries.jpg)
 
 ### How Are Boundaries Measured?
 - For each boundary we identify one or more control variable (e.g. GHG concentration)

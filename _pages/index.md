@@ -13,9 +13,10 @@ Here I'll be sharing some of the notes that I put together in my various explora
 
 Some of the topics I'm most interested in right now are [[Meditation]] (particularly I've been following [[Rob Burbea]]'s teachings), [[Ecology]], Communities and Decentralized Organizing.
 
-Some other (kinda) polished notes I made:
+Some other (kinda) major subtopics that could be fun to explore:
 - [[Taoism]]
 - [[Planetary Boundaries]]
+- [[Resilience]]
 
 
 If there's anything you want to discuss, or you have any feedback, feel free to [DM me](https://twitter.com/giorgiop_). Say hi! 👋
