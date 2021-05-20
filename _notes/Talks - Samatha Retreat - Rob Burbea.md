@@ -67,7 +67,7 @@ title: Talks - Samatha Retreat - Rob Burbea
 	- Focus on outbreath (calming)
 - With time practicing, worry naturally decreases
 - Too focused attention can bring agitation, too little focus can bring torpor
-	- Finding [[everything in moderation including moderation#The Middle Path]]
+	- Finding [[Not too tight, not too loose#The Middle Path]]
 
 ### Doubt
 - Doubting is good in practice
@@ -111,3 +111,5 @@ title: Talks - Samatha Retreat - Rob Burbea
 		-  Attachment to enjoying meditation is not?
 4. Risk of suppressing difficult emotions
 5. Doubt of usefulness of feeling pleasure
+
+[[Samadhi]]

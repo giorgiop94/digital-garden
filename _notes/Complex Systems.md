@@ -35,6 +35,9 @@
 	- Food Webs
 	- Social Networks
 
+### Tools
+- [Loopy](https://ncase.me/loopy/)
+- [Kumu](https://www.kumu.io/)
 
 -------------------
 Created on: 2020-11-28

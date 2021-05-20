@@ -9,7 +9,7 @@ title: Rob Burbea
 	- Insight defined by its capacity to decrease dukkha
 		- Practicing with insight as starting point
 	- Any way of looking is fabricating reality
-- Dharma as art [[Talks - Questioning Awakening Rob Burbea#Dharma as Art]]
+- Dharma as art → [[Talks - Questioning Awakening Rob Burbea]]
 	- Creative, Desire, Play, Beauty, Not one truth
 - [[Goals in Spiritual Practice]]
 - [[Pitfalls of Spiritual Frameworks]]
@@ -26,9 +26,13 @@ title: Rob Burbea
 - [[Talk - The Boundless Heart - Rob Burbea]]
 - [[Talks - Ending the Inner Critic - Rob Burbea]]
 - [[Talks - Metta and Emptiness - Rob Burbea and Catherine McGee]]
+- [[Talks - Freedom From Fear and Anxiety - Rob Burbea]]
+- [[Talks - Emotional Healing - Rob Burbea]]
+- [[Talks - Mirrored Gates - Rob Burbea]]
 - [[Podcast - Rob Burbea on Emerge]]
 
 
 -------------------
 
 Topics: [[Buddhism]]
+#MOC 

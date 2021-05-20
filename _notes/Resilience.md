@@ -51,6 +51,32 @@ Basins of attraction represent different possible regimes that a system may end 
 	- Capacity to self-organize
 - Talking about optimizing or maximizing is usually moving away from resilience thinking
 
+## Assessing Resilience
+
+### No Set Methodology
+- Resilience does not lend itself to measurement
+- You can assess, not measure resilience, but there is not set methodology
+	- Adaptive and flexible method
+- Assessments tend to be
+	- Context specific
+	- Interdisciplinary
+	- Participatory (include different perspectives)
+
+### Framework
+- Resilience of What?
+	- What social-ecological system?
+		- Structure, key actors etc...
+	- Where do you draw boundaries (time, space, governance)
+- Resilience to What?
+	- Is there a specific shock we are interested in?
+	- How did the system respond to change in the past (timelining)?
+- Resilience for whom?
+	- Who is going to be affected by shocks?
+
+Resources:
+- [For assessment information](https://wayfinder.earth/)
+- [For mapping complex systems](https://www.kumu.io/) 
+
 ## Meta
 -------------------
 Created on: 2020-12-20

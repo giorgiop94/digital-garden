@@ -5,7 +5,7 @@ https://dharmaseed.org/retreats/1466/
 
 ## Talk 1
 
-Is it helpful to see practice as sacred?
+Is it helpful to see **practice as sacred**?
 
 - On one end yes, set it as a holy part of the day
 - On the other, trying to make it special can make it counterproductive, creating expectations etc...
@@ -27,17 +27,17 @@ Is it helpful to see practice as sacred?
 
 ### What do we want from working with our emotions?
 - Maybe I want the fullness of my being (an open heart)
-    - Open to joy, touched by beauty
-    - Open to pain and work with difficult emotions
+    - Open to joy, **touched by beauty**
+    - **Open to pain** and work with difficult emotions
 - Not in the business of only feeling positive emotions, or don't feel emotions at all
     - Do we really want to be free of desire? 
-- Developing confidence in our emotional life
+- **Developing confidence** in our emotional life
     - often there's fear of our emotionality
     - we're in the habit of distracting ourselves from emotions
 
 - Not just about being aware
  - not just about being with whatever feeling
- - Also about being able to work skilfully, experiment, explore, look at the context (what are the assumptions?) 
+ - Also about **being able to work skillfully, experiment, explore, look at the context (what are the assumptions?) **
      - Brings understanding of our emotional life
 
 ### Emotions and Mindstates
@@ -46,7 +46,7 @@ Is it helpful to see practice as sacred?
     - Emotions are a subset of mindstates
 - If we're not aware of Mindstates we become more reactive
 
-### Practice
+## Practice
 - Paying attention to mindstates by focusing on the body
     - There might also be certain thoughts with each mindstate
     - Texture of the mind (spacious, energized, depressed)
@@ -68,7 +68,7 @@ Is it helpful to see practice as sacred?
     - In reality it is often blurry and goes in waves (of being clear, being present being caught up in thought) 
         - recognize that waves are impermanent
         - watch them come and go like a kid in the water
-        - realize you don't drown and learn to trust these waves
+        - **realize you don't drown and learn to trust these waves**
 - Can we let go of the demands and expectations?
 
 - Emotions sometimes feel like they take us over
@@ -80,7 +80,7 @@ Is it helpful to see practice as sacred?
 - **When labeling emotions sometimes we fabricate them**
     - We label a feeling in the chest as fear and it becomes fear
     - Other times labeling can be useful
-    - Not good not bad, it's a tool
+    - Not good, not bad, it's a tool
 
 
 ### Mind
@@ -94,9 +94,9 @@ Is it helpful to see practice as sacred?
 - Instead of seeing them as a problem, it's good to see them and come up
     - These judgments come up and affect us in daily life 
     - **Good for them to come in during practice **
-    - Better if we can insert a little feeling of doubt
+    - Better if we can**insert a little feeling of (great) doubt ([[The 5 Heroic Motivations]]**
 - We can be aware of what the mind is doing
-- Or we can consciously introduce skillful thoughts
+- Or we can **consciously introduce skillful thoughts**
     - The view of the mind affects our physical experience 
     - We can think, "What I'm experiencing right now is exactly what I need to, what I should be experiencing" 
 
@@ -112,14 +112,13 @@ Is it helpful to see practice as sacred?
     - not judging thoughts as beautiful or ugly
 
 ## Meditator as a revolutionary
-
 - Developing the capacity and courage to feel the pain of our times
     - hold and respond to the pain
 - Practice reduces some kinds of suffering but opening the heart opens us to different kinds
 - James Hillman - Psychotherapy as anesthesia
 - **Fear is not the same as concern** [[Fear]]
     - The latter has a sense of stability 
-- Part of practice is about taking risk
+- **Part of practice is about taking risk**
     - Risk and insight reinforce each other
     - Do I have fear of speaking out?
         - Can I overcome that?
@@ -135,14 +134,14 @@ Is it helpful to see practice as sacred?
 - It's not that hard to have mystical experiences through meditation (e. G. Oneness etc) 
     - If we don't cling too tight to them, we can allow them to unfold and evolve 
 - There's always a way of looking 
-    - We assume that being with "what is", being mindful is being with reality
+    - **We assume that being with "what is", being mindful is being with reality**
          - We don't realize that this is based on a scientific materialist view
 - We might dismiss God and Soul
     - Saying that those would also be impermanent
     - Impermanence is eventually not ultimate reality
     - Not permanent, not impermanent
 - The problem is entrenchnent in a view 
-- The more we let go, the more love, or the more we get insight into Emptiness -> the smaller our sense of self, the more we experience oneness and have othrt mystical experiences
+- The more we let go, the more love, or the more we get insight into Emptiness → the smaller our sense of self, the more we experience oneness and have othrt mystical experiences
 - we cling less to perception 
 
 ## Working on Emotional Body (Day 6)
@@ -151,11 +150,11 @@ Is it helpful to see practice as sacred?
     - Soften up experience, releasing tension
 - Open up to all experience
 - Notice aversion creeping in
-    - Notice that anger, fear and pain are driven by aversion
+    - **Notice that anger, fear and pain are driven by aversion**
     - Notice it 1,000 times to really internalize
 - Beware of aversion dressed as "fake" allowing 
     - I want to allow to let the experience fade
-- Practice with aversion in life
+- **Practice with aversion in life**
     - Take a walk under the rain
 
 ## Am I free to Inquire Talk

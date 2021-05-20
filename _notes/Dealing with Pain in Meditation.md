@@ -21,4 +21,4 @@
 
 -------------------
 Created on: 2021-02-25
-Related: [[Meditation]] | [[Rob Burbea]]
+Related: [[Meditation]] | [[Rob Burbea]] | [[Talks - The Art of Concentration Retreat - Rob Burbea]]

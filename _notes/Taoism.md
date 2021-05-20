@@ -10,7 +10,7 @@ It probably originated from shamanic and animist religions (which used to have a
 ## Key Concepts
 
 - Tao means the Way, and its core idea is to follow the laws of the Universe.
-    - In the Universe [[everything constantly changes]]. 
+    - In the Universe [[everything constantly changes (impermanence)]]. 
     - Taoism is about **==adapting and being flexible, just like Nature==**
 
 ### Everything is interconnected
@@ -46,7 +46,7 @@ Dogma gives the illusion of certainty. **==Taoism is about embracing doubt and u
     - **Different from other religions, man is not above nature and not encouraged to control it**
 
 ## Qualities emphasized
-- Moderation [[everything in moderation including moderation]] and Balance 
+- Moderation [[Not too tight, not too loose]] and Balance 
 	- [[Detachment from results makes you more relaxed and better performing]]
 - Kindness towards all (including enemies)
 - True Humbleness
@@ -65,8 +65,9 @@ Dogma gives the illusion of certainty. **==Taoism is about embracing doubt and u
 - [[what price are you willing to pay]]
 -  [[you can be happy with very little]]
 	- "knowing what is enough is wealth" 
-	- "*If you realize that you have enough, you are truly rich*" Lao Tzu
-#quotesonMoney #quotesonWealth
+> "*If you realize that you have enough, you are truly rich*" Lao Tzu
+		
+#quotesonMoney
 
 
 ------------

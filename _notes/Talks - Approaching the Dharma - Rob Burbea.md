@@ -11,7 +11,7 @@ title: Talks - Approaching the Dharma - Rob Burbea
     - Practicing with impermanence decreases grasping, attachment etc...
         - Look at all sensations coming up as impermanent
     - Mindfulness is another way of looking, it decreases Papancha
-    - Other ways of looking
+    - Other [[ways of looking]]
 		- Anatta (no self)
 		- [[Metta (Loving Kindness) Meditation]]
 			- what happens if I sustain this way of looking (also in terms of reducing dukkha)
@@ -21,7 +21,7 @@ title: Talks - Approaching the Dharma - Rob Burbea
 
 ### Everything is Fabricated
 - All perception is fabricated (including the sense of "self" perceiving, the sense of [[Oneness]]) 
-- That things exist is one extreme, that things don't exist is another. The Buddhist path is the middle way
+- That things exist is one extreme, that things don't exist is another. The Buddhist path is the middle way ([[Not too tight, not too loose]])
 - Any way of looking is fabricating reality
 	- Mindfulness says to be with "what is"
 		- the underlying assumption is that what is, is real

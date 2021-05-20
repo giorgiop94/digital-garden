@@ -29,7 +29,7 @@ title: Talks - Questioning Awakening Rob Burbea
 	- Not much is needed in terms of meditative skill
 - Advaita
 	- There's nothing to do
-	- Samadhi is not an option as it involves doing
+	- Samadhi is not an option as it involves "doing"
 - Other packaged goals
 	- You are awareness 
 	- Everything is empty
@@ -49,13 +49,15 @@ title: Talks - Questioning Awakening Rob Burbea
 	- Once that is done, then what?
 		- Isn't there some kind of beauty that attracts us to practice?
 		- Each teacher doesn't only talk about the end of suffering, they all have their own *ethos*
-- **Goals** [[Goals in Spiritual Practice]]
-	- Some people like having them, it gives a sense of nobility
+
+[[Goals in Spiritual Practice]]
+
+- Some people like having them, it gives a sense of nobility
 	- For others, goals are only related to the ego
 - If someone practice with mindfulness, how different will their results be from someone who practices emptiness?
 - Are we free to inquire into freedom, or do we have to accept the "package" of freedom we receive?
-	- Are there different kinds of freedom?
-	- Is freedom ever-expanding (break the box you're in and find there's another box, and keep expanding)
+- Are there different kinds of freedom?
+- Is freedom ever-expanding (break the box you're in and find there's another box, and keep expanding)
 
 ### Questioning the Mindfulness Goal
 - Mindfulness
@@ -74,7 +76,7 @@ title: Talks - Questioning Awakening Rob Burbea
 		- Even Hollywood affected our culture and also the Dharma
 - **What if we drop the assumption of what is reality?**
 - Can we separate mindfulness as a strategy from mindfulness as a religion (affected by modernist worldview)?
-- Is Reducing Suffering Enough?
+- **==Is Reducing Suffering Enough?==**
 - Is it enough for the soul and psyche?
 	- What happens to eros and passion?
 
@@ -189,7 +191,7 @@ title: Talks - Questioning Awakening Rob Burbea
 
 ### Awakening is open-ended, it never ends (Hermetic Style)
 - Doesn't mean that there is no goal
-	- The goal is important only as an idea, the essential thing is the work that brings us towards the goal. [[Carl Jung]]
+	> The goal is important only as an idea, the essential thing is the work that brings us towards the goal. [[Carl Jung]]
 - Role of the teacher: Communicate a restlessness, different roads to try
 
 ### Dharma as Science, Religion or Art? 
@@ -229,7 +231,7 @@ title: Talks - Questioning Awakening Rob Burbea
 	- We could see Dharma as art, and make beauty an important part of it
 		- Not the art of peace, calmness or freedom, just Art
 			- Then reducing suffering becomes less important
-	- Is it possible that we want to be enchanted?
+	**- Is it possible that we want to be enchanted?**
 	- Sense of life would be liberated by the malleability of vision of the artist
 		- **Different ways of looking open up different cosmoses**
 			- Heaven becomes a possibility
@@ -240,20 +242,19 @@ title: Talks - Questioning Awakening Rob Burbea
 	- Seeing life as art
 
 ##### Consequences of Seeing Dharma as Art
-1. Practice and perception become creative
-	1. It could become improvisation or not, playful
-	2. It is inexaustible, no limit to reach
-	3. Not wholly describable
+1. Practice and perception become **creative**
+	- It could become improvisation or not, **playful**
+	- It is inexaustible, **no limit to reach**
+	- Not wholly describable
 2. Not religious
-	1. Not looking backward for truth or authority
-		1. We recognize past masters in art, but we look forward
+	- Not looking backward for truth or authority
+	- We recognize past masters in art, but we look forward
 3. Not like science
-	1. Not attempting to reach one single truth
-	2. Opening up to knowing the cosmos poetically
-		1. Poet knows his poem is his creation, not a fact
-			1. Metaphors in poetry not meant to be true in one sense, but they have an aspect of truthfulness, but also beauty (e.g. heart as a garden, you don't go look for grass)
-		2. Many possible meanings and interpretations
-			1. Cosmos as having a multiplicity of interpretations
+	- Not attempting to reach one single truth
+		- Cosmos as having a multiplicity of meanings and interpretations
+	- Opening up to knowing the cosmos poetically
+		- Poet knows his poem is his creation, not a fact
+		- Metaphors in poetry not meant to be true in one sense, but they have an aspect of truthfulness, but also beauty (e.g. heart as a garden, you don't go look for grass)
 4. Not about reducing suffering
 5. Not only about my daily life
 	1. They also have their own dimension
@@ -271,7 +272,7 @@ title: Talks - Questioning Awakening Rob Burbea
 
 - Today the common idea of awakening is that of someone who's always in the present
 	- After some liberation is achieved, that idea doesn't even sound that amazingly attractive
-	- Don't we want some enchantment?
+	- **Don't we want some enchantment?**
 
 
 - A life of non-clinging doesn't make sense
@@ -281,7 +282,7 @@ title: Talks - Questioning Awakening Rob Burbea
 ## Meta
 - Created on: 2021-03-23
 - Inspired by: [[Rob Burbea]]
-- Links: 
-	- Questioning Awakening: https://dharmaseed.org/teacher/210/talk/26010/
-	- Buddhism Beyond Modernism: https://dharmaseed.org/teacher/210/talk/26007/
-	- In Praise of Restlessness: https://dharmaseed.org/teacher/210/talk/26009/
+- Links to talk 
+	- [Questioning Awakening](https://dharmaseed.org/teacher/210/talk/26010/)
+	- [Buddhism Beyond Modernism](https://dharmaseed.org/teacher/210/talk/26007/)
+	- [In Praise of Restlessness](https://dharmaseed.org/teacher/210/talk/26009/)
