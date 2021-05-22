@@ -9,6 +9,7 @@ title: Rob Burbea
 	- Insight defined by its capacity to decrease dukkha
 		- Practicing with insight as starting point
 	- Any way of looking is fabricating reality
+- Soulmaking Dharma
 - Dharma as art → [[Talks - Questioning Awakening Rob Burbea]]
 	- Creative, Desire, Play, Beauty, Not one truth
 - [[Goals in Spiritual Practice]]
@@ -35,4 +36,4 @@ title: Rob Burbea
 -------------------
 
 Topics: [[Buddhism]]
-#MOC 
+#MOC
