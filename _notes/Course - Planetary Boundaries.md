@@ -1,10 +1,13 @@
+---
+title: Course - Planetary Boundaries
+---
 Created by: [[Stockholm Resilience Center]]
 
 ## The Quadruple Squeeze
 1. Population increase
 	- Set to reach 9B by 2050
 	- Most of damage to the Earth is being done by 20% of population (rich)
-		- As more people enter the middle class this pressure will increase	
+		- As more people enter the middle class this pressure will increase
 2. Climate Change
 	- 450 ppm (GHG concentration) is what's normally described as the danger zone
 		- We entered it in 2014
@@ -48,7 +51,7 @@ Created by: [[Stockholm Resilience Center]]
 ## Geological Ages and the Anthropocene
 [[Geological Ages]]
 
-### Anthropocene 
+### Anthropocene
 the period in which humans are the dominant force of geological change on Earth
 
 - We're heading to 3C increase in temperature by the end of the century
@@ -87,7 +90,7 @@ part of the World to affect another one
 	- Complex interactions
 
 ### Increase in Multilateral Environmental Agreements
-- Rapid increase of international agreements and more actors agreeing to them 
+- Rapid increase of international agreements and more actors agreeing to them
 	- Fragmentation (too many agreements to keep count and keep a system view)
 	- Increasing complexity of agreements
 		- **GRIDLOCK** too many actors involved, no ability to make changes
@@ -141,6 +144,6 @@ Four approaches that can start out independently but can evolve and combine with
 	- We already saw in the past how countries became reluctant to export food during droughts
 
 -------------------
-#course 
+#course
 
 Related: [[Ecology]] | [[Complex Systems]]
