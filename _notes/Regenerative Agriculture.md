@@ -2,7 +2,7 @@
 - Regenerative Agriculture helps to build soils
 - Regenerative Agriculture is a continuum → From very degenerative (destructive) to more regenerative
 
-![Regenerative Agriculture](Regenerative Agriculture.png)
+![Regenerative Agriculture](assets/Regenerative Agriculture.png)
 
 #### Regenerative Agriculture Practices
 From [[Paper - Food in the Anthropocene the EAT–Lancet Commission]]
