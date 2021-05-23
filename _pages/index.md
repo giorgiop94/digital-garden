@@ -13,7 +13,7 @@ Here I'll be sharing some of the notes that I put together in my various explora
 
 I put my notes together using my own undefined variation of [Nick Milo's LYT (Linking Your Thinking) framework](https://www.linkingyourthinking.com/).
 
-Some of the topics I'm most interested in right now are [[Meditation]] (particularly I've been following [[Rob Burbea]]'s teachings), [[Ecology]], Regenerative Communities and Decentralized Organizing.
+Some of the topics I'm most interested in right now are [[Meditation]] (particularly I've been following [[Rob Burbea]]'s teachings), [[Regeneration]], Communities and Decentralized Organizing.
 
 Below are some rudimentary MOCs (Maps of Content) that could be fun to explore:
 - [[Taoism]]
