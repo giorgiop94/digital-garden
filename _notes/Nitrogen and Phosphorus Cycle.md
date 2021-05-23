@@ -8,7 +8,7 @@
 	- Part of it goes back to oceans and rivers
 		- Goes algae to bloom
 
-![[Global Nitrogen Cycle.png]]
+![Global Nitrogen Cycle](assets/Global Nitrogen Cycle.png)
 
 # Phosphorus
 [Phosphorus Cycle](https://biologydictionary.net/wp-content/uploads/2017/06/Simple-phosphorus-cycle.jpg)
@@ -19,7 +19,7 @@ Caused by fertilizer application
 	- Algae bloom, then die, causing
 		- Ocean Dead Zones (potentially irreversible)
 
-![[Global Phosphorus Cycle.png]]
+![Global Phosphorus Cycle](assets/Global Phosphorus Cycle.png)
 
 -------------------
 Created on: 2021-01-18

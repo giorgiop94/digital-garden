@@ -28,4 +28,4 @@ We need to research to see how we can integrate these three and how they can sup
 -------------------
 Created on: 2020-12-20
 Inspired by: [[Course - Planetary Boundaries]]
-Related: [[Ecology]]
+Related: [[Regeneration]]

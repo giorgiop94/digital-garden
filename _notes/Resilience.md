@@ -5,16 +5,19 @@ A system's ability to maintain its self-organizing capacity, its identity, or it
 
 **Diversity is the bedrock of resilience**
 
-![[Resilience Ball Graph.png]]
+![Resilience Ball Graph](assets/Resilience Ball Graph.png)
 
 Basins of attraction represent different possible regimes that a system may end up in (some will be more resilient than others)
 
-![[Basins of Attraction.png]]
+![Basins of Attraction](assets/Basins of Attraction.png)
 
 > **Resilience arises from a rich structure of many feedback loops that can work in different ways to restore a system even after a large perturbation. A single balancing loop brings a system stock back to its desired state** [[Book - Thinking in Systems - Donella Meadows]]
 
 
 ## Course - Planetary Boundaries
+
+[[Earth System Resilience]]
+
 ### Three Core Dimensions of Resilience
 1) The amount of disturbance a system can absorb and still remain in the same state. 
 	- The lower the resilience of a system, the more likely it is that small shocks will cause [[Tipping point (nonlinear) effects]]
@@ -38,7 +41,7 @@ Basins of attraction represent different possible regimes that a system may end 
 		- If you overprotect them they become fragile
 - Usually there are feedback loops in place to prevent a system to go over its boundary of resilience (e.g. human body doesn't go above 42 degrees)
 
-![[Resilience Thinking.png]]
+![Resilience Thinking.png](assets/Resilience Thinking.png)
 
 #### More on Making Systems more Resilient
 - **Continuous Learning**
@@ -81,4 +84,4 @@ Resources:
 -------------------
 Created on: 2020-12-20
 Inspired by: [[Course - Planetary Boundaries]]
-Related: [[Ecology]] | [[Complex Systems]] | [[Earth System Resilience]]
+Related: [[Regeneration]] | [[Complex Systems]] | [[Earth System Resilience]]

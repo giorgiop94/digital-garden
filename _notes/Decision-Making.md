@@ -1,3 +1,6 @@
+---
+title: Decision-Making
+---
 ## Principles
 - Do not take rushed decision (if decision requires you to be rushed and you can avoid taking the decision, avoid it) 
 - [[Decision Journals]] help us mitigate some of the biases in our decisions

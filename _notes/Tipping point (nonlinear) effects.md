@@ -43,4 +43,4 @@ When a system fundamentally changes structure and function, settling into a new 
 -------------------
 Created on: 2020-12-28
 Inspired by: [[Course - Planetary Boundaries]]
-Related: [[Complex Systems]] | [[Ecology]]
+Related: [[Complex Systems]] | [[Regeneration]]

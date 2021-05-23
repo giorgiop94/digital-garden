@@ -13,4 +13,4 @@ Services that the Earth's ecosystem provide to humans and to other forms of life
 4. Other Services
 	- Ozone layer formation (filter UV), Ice sheets (regulating temperature)
 
-Related: [[Ecology]]
+Related: [[Regeneration]]

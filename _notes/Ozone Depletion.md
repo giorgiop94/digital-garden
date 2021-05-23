@@ -19,4 +19,4 @@ One of the [[Planetary Boundaries]].
 -------------------
 Created on: 2021-01-08
 Inspired by: [[Course - Planetary Boundaries]]
-Related: [[Ecology]] |
+Related: [[Regeneration]] |

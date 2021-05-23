@@ -1,7 +1,7 @@
 The Earth has systems in place to remain in its current Holocenic state
 through regulating [[Ecosystem Services]]
 
-![Earth System Resilience](Earth System Resilience.png)
+![Earth System Resilience](assets/Earth System Resilience.png)
 
 ### Feedback Loops Keep The Earth Resilient
 - [[Balancing Feedback Loops]]
@@ -25,7 +25,7 @@ through regulating [[Ecosystem Services]]
 ![Tipping Elements Lenton et al](https://gedb.se/upl/images/560628.jpg)
 
 
-![[Earth System Resilience in Difficult times.png]]
+![Earth System Resilience in Difficult times](Earth System Resilience in Difficult times.png)
 
 -------------------
 ## Meta
