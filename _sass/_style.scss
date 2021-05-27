@@ -33,6 +33,11 @@ time {
   margin: 0.5em 0 1em;
 }
 
+article {
+ display: flex;
+ justify-content: space-between;
+}
+
 footer {
   margin: 2em 0;
   font-size: 0.8em;
@@ -162,6 +167,10 @@ code {
   padding: 0.2em;
   text-align: left;
   list-style: upper-latin;
-  top: 2em;
+}
+
+#toc {
+  position: -webkit-sticky;
   position: sticky;
+  top: 2em;
 }

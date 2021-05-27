@@ -2,30 +2,27 @@
 layout: default
 ---
 
-<article style="display:flex; justify-content: space-between">
-<div style="padding-left: 10%, margin: auto">
-  <div id="note-header">
-    <h1>{{ page.title }}</h1>
-    <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">
-      {% if page.type != 'pages' %}
-      Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }}
-      {% endif %}
-    </time>
-  </div>
-
-  <div id="notes-content" style="width: 90%">
-    <content>{{ content }}</content>
-  </div>
-</div>
-
-  <aside id="note-sidebar" style="font-size: 0.9em; padding-left: 10%">
-    <div>
-      <h3 style="margin-bottom: 1em; margin-left: 0.5em">On this page</h3>
-      <div class="toc__content text-main">
-        {% include toc.html html=content class='menu-list' %}
-      </div>
+<article>
+  <div style="padding-left: 10%, margin: auto">
+    <div id="note-header">
+      <h1>{{ page.title }}</h1>
+      <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">
+        {% if page.type != 'pages' %}
+        Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }}
+        {% endif %}
+      </time>
     </div>
 
+    <div id="note-content" style="width: 90%">
+      <content>{{ content }}</content>
+    </div>
+  </div>
+
+  <aside id="note-sidebar" style="font-size: 0.9em; padding-left: 10%">
+    <h3 style="margin-bottom: 1em; margin-left: 0.5em">On this page</h3>
+    <div class="toc__content text-main">
+      {% include toc.html html=content class='menu-list' %}
+    </div>
   </aside>
 </article>
 
