@@ -3,7 +3,7 @@ layout: default
 ---
 
 <article>
-  <div style="padding-left: 10%, margin: auto">
+  <div>
     <div id="note-header">
       <h1>{{ page.title }}</h1>
       <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">
@@ -13,13 +13,13 @@ layout: default
       </time>
     </div>
 
-    <div id="note-content" style="width: 90%">
+    <div id="note-content">
       <content>{{ content }}</content>
     </div>
   </div>
 
-  <aside id="note-sidebar" style="font-size: 0.9em; padding-left: 10%">
-    <h3 style="margin-bottom: 1em; margin-left: 0.5em">On this page</h3>
+  <aside id="note-sidebar">
+    <h3>On this page</h3>
     <div class="toc__content text-main">
       {% include toc.html html=content class='menu-list' %}
     </div>
@@ -28,11 +28,11 @@ layout: default
 
 <footer>
   <div id="note-mentions">
-    <h3 style="margin-bottom: 1em">Notes mentioning this note</h3>
+    <h3>Notes mentioning this note</h3>
     {% if page.backlinks.size > 0 %}
-    <ul class="backlink-box" style="list-style: none">
+    <ul class="backlink-box">
     {% for backlink in page.backlinks %}
-    <li style="margin-bottom: 1em"><a class="internal-link" href="{{ site.baseurl }}{{ backlink.url }}{%- if site.use_html_extension -%}.html{%- endif -%}">
+    <li><a class="internal-link" href="{{ site.baseurl }}{{ backlink.url }}{%- if site.use_html_extension -%}.html{%- endif -%}">
         {{ backlink.title }}
     </a></li>
       {{ strip_html | truncatewords: 20 }}
@@ -43,7 +43,7 @@ layout: default
     {% endif %}
   </div>
   <div id="note-garden">
-    <h3 style="margin-bottom: 1em">Garden of notes</h3>
+    <h3>Garden of notes</h3>
     <p>Here are all the notes in this garden, along with their links, visualized as a graph.</p>
     {% include notes_graph.html %}
   </div>
