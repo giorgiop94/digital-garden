@@ -26,11 +26,11 @@ layout: default
   </aside>
 </article>
 
-<footer>
+<div id="note-footer">
   <div id="note-mentions">
     <h3>Notes mentioning this note</h3>
     {% if page.backlinks.size > 0 %}
-    <ul class="backlink-box">
+    <ul >
     {% for backlink in page.backlinks %}
     <li><a class="internal-link" href="{{ site.baseurl }}{{ backlink.url }}{%- if site.use_html_extension -%}.html{%- endif -%}">
         {{ backlink.title }}
@@ -42,9 +42,10 @@ layout: default
     <p>There are no notes linking to this note.</p>
     {% endif %}
   </div>
+
   <div id="note-garden">
     <h3>Garden of notes</h3>
     <p>Here are all the notes in this garden, along with their links, visualized as a graph.</p>
     {% include notes_graph.html %}
   </div>
-</footer>
+</div>

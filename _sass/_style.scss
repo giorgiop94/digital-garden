@@ -36,12 +36,6 @@ article {
  justify-content: space-between;
 }
 
-footer {
-  margin: 2em 0;
-  color: mix($color-text, white, 80%);
-  padding-top: 1em;
-}
-
 img {
   max-width: 100%;
   display: block;
@@ -112,42 +106,6 @@ a {
   //background: #0A1045 !important;
 //}
 
-nav {
-  @media (min-width: 820px) {
-    margin: 1em 0 3em;
-  }
-}
-
-#note-content {
-  max-width: 80%;
-  @media (min-width: 820px) {
-    max-width: 90%;
-    width: 100%;
-  }
-}
-
-#note-sidebar {
-  font-size: 90%;
-  @media (max-width: 900px) { display: none; }
-  h3 {
-    margin-left: 0.5em;
-    margin-bottom: 1em;
-  }
-}
-
-#note-mentions {
-  ul {
-    list-style: none;
-  }
-}
-
-.backlink-box {
-  background: $color-box-background;
-  max-width: 100%;
-  padding: 1em;
-  border-radius: $border-radius;
-}
-
 code {
   background: #f5f5f5;
   padding: 0.1em 0.2em;
@@ -182,4 +140,62 @@ code {
   position: -webkit-sticky;
   position: sticky;
   top: 2em;
+}
+
+nav {
+  @media (min-width: 820px) {
+    margin: 1em 0 3em;
+  }
+}
+
+#note-content {
+  max-width: 80%;
+  @media (min-width: 820px) {
+    max-width: 90%;
+    width: 100%;
+  }
+}
+
+#note-sidebar {
+  font-size: 90%;
+  @media (max-width: 900px) { display: none; }
+  h3 {
+    margin-left: 0.5em;
+    margin-bottom: 1em;
+  }
+}
+
+#note-footer {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-start;
+  flex-direction: row;
+  @media (max-width: 820px) { flex-direction: column; }
+  color: mix($color-text, white, 80%);
+  padding-top: 1em;
+}
+
+#note-garden {
+  #graph-wrapper {
+    background: $color-box-background;
+    padding: 1em 0 0 1em;
+    border-radius: $border-radius;
+    max-width: 90%;
+    svg {
+      max-width: 100%;
+    }
+  }
+}
+
+#note-mentions {
+  @media (min-width: 820px) { max-width: 20vw; }
+  margin: 0;
+  padding-right: 1em;
+  ul {
+    list-style: none;
+    padding-left: -1em;
+  }
+  li {
+    padding-bottom: 2em;
+  }
 }
