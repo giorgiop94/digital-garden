@@ -15,8 +15,12 @@ body {
   overflow-x: hidden;
   color: $color-text;
   font-size: 120%;
-  @media (max-width: 820px) { font-size: 100%; }
-  @media (min-width: 820px) { max-width: 75%; }
+  @media (max-width: 820px) {
+    font-size: 100%;
+  }
+  @media (min-width: 820px) {
+    max-width: 75%;
+  }
   ul {
     margin-left: 0.5em;
   }
@@ -150,6 +154,9 @@ article {
     "2 s"
     "3 3";
   grid-template-columns: 6fr 1fr;
+  @media (max-width: 820px) {
+    grid-template-columns: 1fr 0fr;
+  }
 }
 
 #note-header {
@@ -159,9 +166,10 @@ article {
 #note-content {
   grid-area: 2;
   max-width: 80%;
-  @media (min-width: 820px) {
-    max-width: 90%;
-    width: 100%;
+  @media (max-width: 820px) {
+    max-width: 100%;
+    padding-left: 1.5em;
+    padding-right: 1em;
   }
 }
 
