@@ -184,12 +184,18 @@ article {
   padding-top: 2em;
   color: mix($color-text, white, 80%);
   @media (min-width: 820px) { max-width: 320px; }
-  ul {
-    list-style: none;
-    padding-left: -1em;
+
+  .backlink-wrapper {
+    display: flex;
   }
-  li {
-    padding-bottom: 2em;
+
+  .backlink {
+    font-size: 0.9rem;
+    background: $color-box-background;
+    border-radius: $border-radius;
+    width: 100%;
+    margin: 1em;
+    padding: 1em;
   }
 }
 
