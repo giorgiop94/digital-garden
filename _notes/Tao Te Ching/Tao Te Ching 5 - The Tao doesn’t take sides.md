@@ -1,3 +1,6 @@
+[[Book - Tao Te Ching - Lao Tzu]]
+
+## Stephen Mitchell Translation
 The Tao doesn’t take sides;
 it gives birth to both good and evil.
 The Master doesn’t take sides;
@@ -10,10 +13,8 @@ the more you talk of it, the less you understand.
 
 Hold on to the center. 
 
-- Stephen Mitchell
-
 -----------------
-
+## Other translations I like
 Heaven and Earth are not kind: 
 The ten thousand things are straw dogs to them.
 The Sage is not kind: 
@@ -26,4 +27,4 @@ Stephen Addiss & Stanley Lombardo
 
 -------------------
 
-Related: [[Shadow Integration]] [[Yin Yang]]
+Related: [[Emptiness]] | [[Yin Yang]]

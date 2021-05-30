@@ -1,3 +1,6 @@
+[[Book - Tao Te Ching - Lao Tzu]]
+
+## Stephen Mitchell Translation
 Can you coax your mind from its wandering
 and keep to the original oneness?
 
@@ -23,7 +26,7 @@ leading and not trying to control:
 this is the supreme virtue.
 
 -------------------
-
+## Other translations I like
 Can you keep your soul in its body,
 hold fast to the one,
 and so learn to be whole?

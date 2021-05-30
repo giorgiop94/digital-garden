@@ -1,6 +1,9 @@
 ---
 title: Ways of Looking
 ---
+
+- [[non-clinging]] in Buddhism not as a way of living, but non-clinging to any one way of looking
+
 ### Notes from Podcast on Emerge with Rob Burbea
 Link: https://castbox.fm/vb/90761812
 

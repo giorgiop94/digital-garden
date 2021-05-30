@@ -2,13 +2,12 @@
 title: Rob Burbea
 ---
 ## Main Concepts
-- [[Ways of Looking]]
+- **[[Meditation]] as an infinite playground of infinite [[ways of looking]] at experience**
 	- There are different ways of looking available to us which unfold different existences
-	- **[[Meditation]] as an infinite playground of infinite ways of looking at experience**
-	- [[Emptiness]]
-	- Insight defined by its capacity to decrease dukkha
-		- Practicing with insight as starting point
 	- Any way of looking is fabricating reality
+- [[Emptiness]]
+	- Insight defined by its capacity to decrease dukkha
+	- Practicing with insight as starting point
 - [[SoulMaking Dharma]]
 - Dharma as art → [[Talks - Questioning Awakening Rob Burbea]]
 	- Creative, Desire, Play, Beauty, Not one truth
@@ -18,19 +17,29 @@ title: Rob Burbea
 - We assume we can strip off our beliefs and experience reality as it really is
 	- What if we drop the assumption of what is reality?
 
-## Notes on Talks
+## Notes on Talks/Retreats
 - [[Talks - Approaching the Dharma - Rob Burbea]]
 - [[Talks - Questioning Awakening Rob Burbea]]
+- [[Podcast - Rob Burbea on Emerge]]
+
+### Samadhi
 - [[Talks - Samatha Retreat - Rob Burbea]]
 - [[Talks - The Art of Concentration Retreat - Rob Burbea]]
+
+### Emotions/Desire
 - [[Talks - Beauty of Desire - Rob Burbea]]
 - [[Talk - The Boundless Heart - Rob Burbea]]
 - [[Talks - Ending the Inner Critic - Rob Burbea]]
-- [[Talks - Metta and Emptiness - Rob Burbea and Catherine McGee]]
 - [[Talks - Freedom From Fear and Anxiety - Rob Burbea]]
 - [[Talks - Emotional Healing - Rob Burbea]]
+
+### Insight
+- [[Talks - Metta and Emptiness - Rob Burbea and Catherine McGee]]
+- [[Talks - Theater of Selves - Rob Burbea]]
+
+### Imaginal
 - [[Talks - Mirrored Gates - Rob Burbea]]
-- [[Podcast - Rob Burbea on Emerge]]
+- [[Talks - Path of the Imaginal - Rob Burbea]]
 
 
 -------------------

@@ -12,6 +12,9 @@ Space and bodies in the space are two aspects of the same continuum, you cannot 
 
 [Cosmic Eye Video](<iframe width="560" height="315" src="https://www.youtube.com/embed/8Are9dDbW24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
 
+From [[Book - Thinking in Systems - Donella Meadows]]
+> You can see some things through the lens of the human eye, other things through the lens of a microscope, others through the lens of a telescope, and still others through the lens of systems theory. Everything seen through each kind of lens is actually there. Each way of seeing allows our knowledge of the wondrous world in which we live to become a little more complete.
+
 ## Different Views
 
 ### Self As Consciousness

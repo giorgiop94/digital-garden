@@ -1,3 +1,6 @@
+[[Book - Tao Te Ching - Lao Tzu]]
+
+## Stephen Mitchell Translation
 Stop thinking, and end your problems.<sup>1</sup>
 What difference between yes and no?<sup>2</sup>
 What difference between success and failure?

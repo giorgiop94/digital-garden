@@ -1,3 +1,6 @@
+[[Book - Tao Te Ching - Lao Tzu]]
+
+## Stephen Mitchell Translation
 The ancient Masters were profound and subtle.
 Their wisdom was unfathomable.
 There is no way to describe it<sup>1</sup>;
@@ -21,7 +24,12 @@ Not seeking, not expecting,<sup>4</sup>
 she is present, and can welcome all things.
 
 -------------------
+1: [[Truth is never expressed in words]]
+2: [[Mindfulness]]
+3: [[Wu Wei]]
+4: [[Happiness is Absence of Desire]]
 
+## Other translations I like
 The ancients who followed Tao: Dark, wondrous, profound, penetrating. 
 Deep beyond knowing. Because they cannot be known, 
 They can only be described. 
@@ -41,8 +49,3 @@ Those who sustain Tao Do not wish to be full.
 Because they do not wish to be full They can fade away Without further effort.
 
 -------------------
-
-1: [[Truth is never expressed in words]]
-2: [[Mindfulness]]
-3: [[Wu Wei]]
-4: [[Happiness is Absence of Desire]]

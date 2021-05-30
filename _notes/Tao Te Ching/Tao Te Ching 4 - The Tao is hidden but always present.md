@@ -1,3 +1,7 @@
+[[Book - Tao Te Ching - Lao Tzu]]
+
+## Stephen Mitchell Translation
+
 The Tao is like a well:
 used but never used up.
 It is like the eternal void:
@@ -8,6 +12,9 @@ I don’t know who gave birth to it.
 It is older than God. - Stephen Mitchell
 
 ---------------------
+
+## Other Translations I like
+
 Tao is empty- its use never exhausted.
 Bottomless - the origin of all things.
 It blunts sharp edges, Unties knots, Softens glare, Becomes one with the dusty world.

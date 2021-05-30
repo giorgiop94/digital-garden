@@ -1,3 +1,6 @@
+[[Book - Tao Te Ching - Lao Tzu]]
+
+## Stephen Mitchell Translation
 Empty your mind of all thoughts.
 Let your heart be at peace.
 Watch the turmoil of beings,
@@ -20,6 +23,10 @@ and when death comes, you are ready.
 
 -------------------
 
+1: [[Death MOC]]
+2: [[Face and Accept Death]] and the [[Ego]] drops
+
+## Other translations I like
 Attain complete emptiness, Hold fast to stillness.
 The ten thousand things stir about; I only watch for their going back. Things grow and grow, But each goes back to its root.
 Going back to the root is stillness. This means returning to what is. Returning to what is Means going back to the ordinary.
@@ -57,6 +64,3 @@ The self perishes,
 released from peril.
 
 -------------------
-
-1: [[Death MOC]]
-2: [[Face and Accept Death]] and the [[Ego]] drops

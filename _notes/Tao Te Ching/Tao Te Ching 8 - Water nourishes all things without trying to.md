@@ -1,3 +1,6 @@
+[[Book - Tao Te Ching - Lao Tzu]]
+
+## Stephen Mitchell Translation
 The supreme good is like water,
 which nourishes all things without trying to.
 It is content with the low places that people disdain.
@@ -15,7 +18,7 @@ and don’t compare or compete,
 everybody will respect you - Stephen Mitchell
 
 -------------
-
+## Other translations I like
 The highest goodness resembles water
 Water greatly benefits myriad things without contention
 It stays in places that people dislike

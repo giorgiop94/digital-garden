@@ -8,7 +8,7 @@
 3. Stay with the area of comfort (pay attention to it more), wherever it is
 	- The mind gets pulled into discomfort (we re-train it)
 	- We can open and connect the area of comfort with that of discomfort
-		- Try to get comfortable feelings to spread over the uncomfortable ones
+	- Try to get comfortable feelings to spread over the uncomfortable ones
 4. Play with the breath
 	- Fill the body with breath
 5. Breathe into the pain, or make it flow through it (don't be afraid to use imagination)
@@ -17,7 +17,7 @@
 	- Is the fear building the pain?
 7. Move the body
 	- Don't go beyond your limits
-
+8. Imagine Metta or bright light originating from the area of discomfort
 
 -------------------
 Created on: 2021-02-25

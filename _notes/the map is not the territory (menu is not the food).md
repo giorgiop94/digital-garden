@@ -1,18 +1,24 @@
-	
-### Zen
+## Systems Thinking
+From [[Book - Thinking in Systems - Donella Meadows]]
+> Everything we think we know about the world is a model. Every word and every language is a model. All maps and statistics, books and databases, equations and computer programs are models. So are the ways I picture the world in my head
+
+> our models fall far short of representing the world fully. That is why we make mistakes and why we are regularly surprised. In our heads, we can keep track of only a few variables at one time. We often draw illogical conclusions from accurate assumptions, or logical conclusions from inaccurate assumptions.
+
+## Alan Watts
 [[Alan Watts]] talks about a similar example saying that the menu is not the food, the images and names of the food are not IT
 
 > **We became so fascinated with words and concepts that we confuse the world as it is, with the world as it is described (talked about, thought about).**
 
 We're like people eating menus instead of dinners
 
-[VIDEO](https://www.youtube.com/watch?v=0K5M0hIXP00&ab_channel=BrandonHale)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0K5M0hIXP00" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 - We confuse happiness with status
 - We confuse ourselves with our personality, our idea of ourselves, [[Ego]] (while we are living organisms at one with the World) [[What is the Self (identity)]]
 
-[VIDEO](https://www.youtube.com/watch?v=_LXiSPpfM54&ab_channel=TheCanuckdian)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_LXiSPpfM54?start=170" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Decision Making
+## Decision Making
 - The map of reality is not reality. Even the best maps are imperfect. 
 	- That’s because they are reductions of what they represent. If a map were to represent the territory with perfect fidelity, it would no longer be a reduction and thus would no longer be useful to us. 
 	- [[Truth is never expressed in words]]

@@ -1,3 +1,6 @@
+[[Book - Tao Te Ching - Lao Tzu]]
+
+## Stephen Mitchell Translation
 Throw away holiness and wisdom,
 and people will be a hundred times happier.
 

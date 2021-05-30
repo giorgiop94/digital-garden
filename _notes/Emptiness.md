@@ -8,4 +8,7 @@
 -------------------
 ## Meta
 - Created on: 2020-10-24
-- Related: [[Buddhism]] | [[Zen]] | [[Enlightenment]] | [[Taoism]] | [[Talks - Metta and Emptiness - Rob Burbea and Catherine McGee]]
+- Related: [[Buddhism]] | [[Enlightenment]] |
+
+Resources:
+-  [[Talks - Metta and Emptiness - Rob Burbea and Catherine McGee]]

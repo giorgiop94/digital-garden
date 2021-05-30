@@ -1,3 +1,7 @@
+[[Book - Tao Te Ching - Lao Tzu]]
+
+## Stephen Mitchell Translation
+
 When the Master governs, the people
 are hardly aware that he exists.
 Next best is a leader who is loved.

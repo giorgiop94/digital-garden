@@ -1,3 +1,6 @@
+[[Book - Tao Te Ching - Lao Tzu]]
+
+## Stephen Mitchell Translation
 Colors blind the eye.
 Sounds deafen the ear.
 Flavors numb the taste.
@@ -10,7 +13,7 @@ He allows things to come and go.
 His heart is open as the sky.
 
 -------------------
-
+## Other translations I like
 Five colors blind the eyes.
 Five tones deafen the ears.
 Five flavors dull the palate.

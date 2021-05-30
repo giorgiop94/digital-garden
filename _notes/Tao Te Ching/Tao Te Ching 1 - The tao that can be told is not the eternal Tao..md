@@ -1,5 +1,7 @@
 [[Book - Tao Te Ching - Lao Tzu]]
 
+## Stephen Mitchell Translation
+
 The tao that can be told
 is not the eternal Tao.
 The name that can be named
@@ -25,7 +27,7 @@ The gateway to all understanding
 
 -------------------
 
-## Other translations 
+## Other translations I like
 
 ### -  [[Ursula Le Guin]]
 

@@ -1,3 +1,7 @@
+[[Book - Tao Te Ching - Lao Tzu]]
+
+## Stephen Mitchell Translation
+
 When people see some things as beautiful,
 other things become ugly.
 When people see some things as good,
@@ -27,7 +31,7 @@ That is why it lasts forever.
 
 -------------------
 
-## Other translations 
+## Other translations I like
 
 ### - [[Sam Hamill]]
 

@@ -1,3 +1,6 @@
+[[Book - Tao Te Ching - Lao Tzu]]
+
+## Stephen Mitchell Translation
 If you overesteem great men,
 people become powerless.
 If you overvalue possessions,
@@ -24,7 +27,7 @@ and everything will fall into place.
 
 -------------------
 
-## Other translations 
+## Other translations I like
 
 ### - [[Stephen Addiss & Stanley Lombardo]]
 

@@ -4,7 +4,7 @@ Some of these boundaries show evidence of planetary scale [[Tipping point (nonli
 
 There are strong **interactions** among the different boundaries. Transgressing one boundary may cause cascading effects on others
 
-### CORE BOUNDARIES
+## CORE BOUNDARIES
 Operate and regulate the entire Earth system, and they are the endpoint depending upon how the other boundaries operate. 
 
 1. [[Climate change]] (**TRANSGRESSED**)
@@ -38,9 +38,9 @@ Operate and regulate the entire Earth system, and they are the endpoint dependin
 	- There's high uncertainty on those
 	- The lowest bound of the range is considered (for precaution)
 	
-	## Boundaries Co-evolution
-	- Planetary boundaries co-evolve with Humans and technology
-		- The ozone depletion boundary co-evolved from humans' emission of ozone-depleting substances
+## Boundaries Co-evolution
+- Planetary boundaries co-evolve with Humans and technology
+	- The ozone depletion boundary co-evolved from humans' emission of ozone-depleting substances
 	
-	## Resources:
+## Resources:
 - [[Course - Planetary Boundaries]]

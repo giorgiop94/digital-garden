@@ -1,3 +1,6 @@
+[[Book - Tao Te Ching - Lao Tzu]]
+
+## Stephen Mitchell Translation
 Fill your bowl to the brim
 and it will spill.
 
@@ -14,7 +17,7 @@ Do your work, then step back.
 The only path to serenity. - Stephen Mitchell
 
 ---------
-
+## Other translations I like
 Brim-fill the bowl, it’ll spill over.
 Keep sharpening the blade, you’ll soon blunt it.
 Nobody can protect a house full of gold and jade.

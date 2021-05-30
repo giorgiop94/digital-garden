@@ -11,7 +11,14 @@ Many fears comes from a lack of [[Self Love]] and from aversion
 - Fear doesn't only affect us, it affects reality as we experience it ([[Everything is interconnected (interbeing)]])
 	- The thing we're afraid of looks more scary when we're afraid
 
-> Fear likes to wear masks, showing up in other forms like [[stress]] and [[anxiety]].  What is stress if not the fear of failing to live up to expectations?  Similarly, anxiety is the abstract form of stress, in which you are in a constant state of fearful anticipation.  The harsher your [[Inner Critic]] punishes you for not meeting expectations, the more stress and anxiety you will feel. 
+### Fear likes to wear masks
+- it shows up in forms like [[stress]] and [[anxiety]]
+	- stress is the fear of failing to live up to expectations?
+	- anxiety is a state of constant fearful anticipation.  
+	- The harsher your [[Inner Critic]] punishes you for not meeting expectations, the more stress and anxiety you will feel.
+- Sometimes, the fear of acting towards your goal may **masks itself as non-attachment to a goal** ([[Detachment from results makes you more relaxed and better performing]])
+	- It manages to prevent you from acting
+	- You don't even realize you're not acting out of fear
 
 ### Physical Reactions
 - sparks cortisol levels

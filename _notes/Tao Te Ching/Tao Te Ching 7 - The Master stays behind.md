@@ -1,3 +1,6 @@
+[[Book - Tao Te Ching - Lao Tzu]]
+
+## Stephen Mitchell Translation
 The Tao is infinite, eternal.
 Why is it eternal?
 It was never born;
@@ -14,7 +17,7 @@ Because she has let go of herself,
 she is perfectly fulfilled. - Stephen Mitchell
 
 ---------
-
+## Other translations I like
 Heaven will last, earth will endure.
 How can they last so long?
 They don’t exist for themselves

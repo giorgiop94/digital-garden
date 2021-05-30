@@ -29,7 +29,7 @@ title: Talks - Samatha Retreat - Rob Burbea
 	- The goal is something much deeper, more radical than that
 
 ## Talk 2 - How to Work with Hindrances
-- Finding calmness involves working with non-calm states
+- **Finding calmness involves working with non-calm states**
 - Hindrances affect us in meditation like in our life
 	- Expect hindrances to come, they will
 	- Working with hindrances in meditation as opportunity to free ourselves from them in our life
@@ -38,7 +38,7 @@ title: Talks - Samatha Retreat - Rob Burbea
 - Hindrances may come as a way to distract us from difficult emotions
 	- Check in with yourself for that
 
-### Craving for Physical Pleasure
+### Craving
 - We often don't even realize our cravings
 	- We think "I need this or that"
 - It's not a pleasurable state to be in

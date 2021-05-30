@@ -1,3 +1,6 @@
+[[Book - Tao Te Ching - Lao Tzu]]
+
+## Stephen Mitchell Translation
 We join spokes together in a wheel,
 but it is the center hole
 that makes the wagon move.
@@ -14,7 +17,7 @@ that makes it livable.
 but non-being is what we use.**
 
 -------------------
-
+## Other translations I like
 Thirty spokes meet in the hub.
 Where the wheel isn’t is where it’s useful.
 

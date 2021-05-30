@@ -1,3 +1,6 @@
+[[Book - Tao Te Ching - Lao Tzu]]
+
+## Stephen Mitchell Translation
 When the great Tao is forgotten,
 goodness and piety appear<sup>1</sup>.
 
