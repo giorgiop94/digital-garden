@@ -123,7 +123,7 @@ code {
   cursor: help;
 }
 
-.toc__content {background: #4785FD;
+.toc__content {background: #FFFFFF;
   width: 320px;
   max-width: 320px;
   font-family: $font-family;
@@ -131,8 +131,8 @@ code {
   text-transform: uppercase;
   border: 1px solid $color-border;
   border-radius: $border-radius;
-  a {color: white}
-  color: white;
+  a {color: $color-subtext}
+  color: $color-subtext;
   padding: 0.2em;
   text-align: left;
   list-style: upper-latin;
