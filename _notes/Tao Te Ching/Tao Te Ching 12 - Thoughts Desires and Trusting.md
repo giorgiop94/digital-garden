@@ -29,4 +29,4 @@ choosing one, not the other. [[Sam Hamill]]
 Related: 
 - Excess of anything hurts → [[Not too tight, not too loose]]
 - [[Happiness is Absence of Desire]]
-- Trusting that [[Everything is going exactly as it should]]
+- Trusting that [[the Universe is unfolding exactly as it should]]

@@ -28,7 +28,7 @@ title: Talks - Approaching the Dharma - Rob Burbea
 	- [[Emptiness]] is the most Liberating way of looking
 - What fabricates the fabrications is not real either, neither is the time in which fabrications happen
 - **if there is no reality, the ways of looking become even more important and relevant**
-    - the malleability of our perception is way beyond what we could imagine ([[human minds are really malleable]])
+    - the malleability of our perception is way beyond what we could imagine ([[human minds are awfully malleable]])
 
 ## Other Notes
 ### The Path Beyond Perceptions

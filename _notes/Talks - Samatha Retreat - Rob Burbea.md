@@ -90,7 +90,7 @@ title: Talks - Samatha Retreat - Rob Burbea
 	- It is also the fruit of Samatha, creating [[Reinforcing Feedback Loops]]
 	- **Feeling gratitude and appreciation to develop happiness [[gratitude is a superpower (and gratitude practices)]]**
 - Receptivity, again is both a fruit and a cause of Samatha
-- Learning [[Talks - Samatha Retreat - Rob Burbea#Talk 2 - How to Work with Hindrances]]
+- Learning [[Working with the Hindrances]]
 	- Learning to expect and ride the waves and ups and downs
 
 ### Resistance to Practicing Samatha

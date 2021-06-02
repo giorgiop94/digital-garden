@@ -1,14 +1,14 @@
 ---
 title: Talks - Beauty of Desire - Rob Burbea
 ---
-
+Talks by [[Rob Burbea]]
 [Link to talks](https://dharmaseed.org/retreats/1518/?page=2)
 [Link to Transcripts](https://airtable.com/shr9OS6jqmWvWTG5g/tblHlCKWIIhZzEFMk/viw3k0IfSo0Dve9ZJ/recJzwE1V0cawyyVE/fldJfzyMJCDaGCKom/attCvs3fqCezDe0gI)
 
 ## Should We Let go of All Desire?
 - Desire is infinite in its mystery
 	- Can be explored by so many angles
-	- Many we can't exhaust the exploration of desire
+	- We can't exhaust the exploration of desire
 - Our idea of enlightened people is that of someone who has dropped all desire
 	- Just perfectly happy with what is
 - A common teaching is "Let go of all desire"
@@ -21,7 +21,7 @@ title: Talks - Beauty of Desire - Rob Burbea
 	- Particularly desire of "deep" things, like God or enlightenment
 	- Yet many other small desires go unnoticed and accepted. Desire for comfort, convenience etc...
 
-#### Exercise
+### Exercise
 - Imagining ourselves on our deathbed and asking ourselves (~ min 20-40?):
 	- What did I want in my life
 	- What do I regret not doing
@@ -35,7 +35,7 @@ title: Talks - Beauty of Desire - Rob Burbea
 - **Is it possible that a lack of desire or non-nourishing of desire also brings suffering?**
 - **Is it possible that desire creates depth, energy, inner power into our heart or being?**
 
-- > *"maybe conversely, not desiring, letting go of what I desire, maybe something in me gets disempowered, becomes weak (over time; I’m talking about years and longer), becomes flaccid or impotent, even, maybe, especially if I’m not desiring because there’s fear of desire"*
+- > *"maybe conversely, not desiring, letting go of what I desire, maybe something in me gets disempowered, becomes weak (over time; I’m talking about years and longer), becomes flaccid or impotent, even, maybe, especially if I’m not desiring because there’s [[fear of desire]]"*
 
 ## Opening to Desire
 

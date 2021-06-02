@@ -134,13 +134,12 @@ title: Talks - The Art of Concentration Retreat - Rob Burbea
 - Letting go and preventing unwholesome qualities 
 
 #### 2. What's involved in Wise effort?
-
 - Wise Attachment is involved
 	- We actually need to get attached (with balance) to Ethics, Samadhi etc...
 	- Is denying any attachment the most skillful way? Is it even possible?
 		- A baby needs to get attached to his mother, that's healthy
 	- Then we can let go of our attachment to these things
-		- We need to reach the other shore before letting go of the raft
+		- **We need to reach the other shore before letting go of the raft**
 	- We often are afraid of getting attached to Samadhi while our lives are already full of attachments (to certain foods, our house etc....)
 
 - The Buddha's Four Bases of Success

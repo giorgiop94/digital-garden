@@ -1,6 +1,6 @@
 In the midst of uncertainty, we can choose to fear the future of to have faith in it.
 
-We can trust that [[Everything is going exactly as it should]]. [[Embrace Uncertainty]]
+We can trust that [[the Universe is unfolding exactly as it should]]. [[Embrace Uncertainty]]
 
 ---------
 

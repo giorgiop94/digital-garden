@@ -2,7 +2,7 @@
 title: Rob Burbea
 ---
 ## Main Concepts
-- **[[Meditation]] as an infinite playground of infinite [[ways of looking]] at experience**
+- **[[Meditation]] as an infinite playground of [[ways of looking]] at experience**
 	- There are different ways of looking available to us which unfold different existences
 	- Any way of looking is fabricating reality
 - [[Emptiness]]

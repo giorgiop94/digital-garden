@@ -1,6 +1,12 @@
 ---
 title: Talks - Questioning Awakening Rob Burbea
 ---
+Talks by [[Rob Burbea]]
+Links to talks
+- [Questioning Awakening](https://dharmaseed.org/teacher/210/talk/26010/)
+- [Buddhism Beyond Modernism](https://dharmaseed.org/teacher/210/talk/26007/)
+- [In Praise of Restlessness](https://dharmaseed.org/teacher/210/talk/26009/)
+
 
 ## Questioning Awakening (Talk 1)
 - Questioning the underlying assumptions that we don't even know we have
@@ -29,7 +35,7 @@ title: Talks - Questioning Awakening Rob Burbea
 	- Not much is needed in terms of meditative skill
 - Advaita
 	- There's nothing to do
-	- Samadhi is not an option as it involves "doing"
+	- [[Samadhi]] is not an option as it involves "doing"
 - Other packaged goals
 	- You are awareness 
 	- Everything is empty
@@ -51,10 +57,9 @@ title: Talks - Questioning Awakening Rob Burbea
 		- Each teacher doesn't only talk about the end of suffering, they all have their own *ethos*
 
 [[Goals in Spiritual Practice]]
-
 - Some people like having them, it gives a sense of nobility
 	- For others, goals are only related to the ego
-- If someone practice with mindfulness, how different will their results be from someone who practices emptiness?
+- **If someone practice with mindfulness, how different will their results be from someone who practices emptiness?**
 - Are we free to inquire into freedom, or do we have to accept the "package" of freedom we receive?
 - Are there different kinds of freedom?
 - Is freedom ever-expanding (break the box you're in and find there's another box, and keep expanding)
@@ -277,12 +282,3 @@ title: Talks - Questioning Awakening Rob Burbea
 
 - A life of non-clinging doesn't make sense
 	- It won't work
-
--------------------
-## Meta
-- Created on: 2021-03-23
-- Inspired by: [[Rob Burbea]]
-- Links to talk 
-	- [Questioning Awakening](https://dharmaseed.org/teacher/210/talk/26010/)
-	- [Buddhism Beyond Modernism](https://dharmaseed.org/teacher/210/talk/26007/)
-	- [In Praise of Restlessness](https://dharmaseed.org/teacher/210/talk/26009/)

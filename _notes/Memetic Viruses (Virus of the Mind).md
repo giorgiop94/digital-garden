@@ -1,4 +1,4 @@
-Ideas can infect people just like viruses and create some sort of psychological pandemic. As more people get infected it becomes easier and easier for the virus to spread as [[human minds are really malleable]]
+Ideas can infect people just like viruses and create some sort of psychological pandemic. As more people get infected it becomes easier and easier for the virus to spread as [[human minds are awfully malleable]]
 
 Large scale examples are:
 - Slavery (and the fact that everyone was ok with it)

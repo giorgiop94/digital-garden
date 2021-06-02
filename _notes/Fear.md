@@ -7,6 +7,10 @@ Many fears comes from a lack of [[Self Love]] and from aversion
 - **Fear is not the same as concern**
     - The latter has a sense of stability
 
+Fear and attachment
+> Attachment creates a dependency, and dependency, because of its nature, intrinsically carries with it a fear of loss. 
+> From [[Book - Letting Go - David Hawkins]]
+
 ## What Fear Does
 - Fear doesn't only affect us, it affects reality as we experience it ([[Everything is interconnected (interbeing)]])
 	- The thing we're afraid of looks more scary when we're afraid
@@ -30,6 +34,7 @@ Many fears comes from a lack of [[Self Love]] and from aversion
 	- Physical
 	- Mental
 		- [[fear of death]]
+		- [[fear of desire]]
 		- [[fear of success]]
 		- [[fear of being ourselves]]
 		- [[fear of the unknown]]

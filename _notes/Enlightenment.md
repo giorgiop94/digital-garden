@@ -31,7 +31,7 @@
  - idea of playing a video game and thinking it's real (life is the same)
 
 #### Wrongness is another idea of the mind
- - [[Everything is going exactly as it should]]
+ - [[the Universe is unfolding exactly as it should]]
 		 - [[wrongness makes life more interesting]] 
 
 -------------------

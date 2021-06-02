@@ -20,7 +20,7 @@ title: Decision-Making
 		- The problem is that we tend to mistake a good outcome with a good decision and viceversa
 
 ## Frameworks
-- [[Hell Yeah or No]] vs. [[Say yes to everything]]
+- [[Hell Yeah or No]] vs. [[just say yes]]
 - [[the map is not the territory (menu is not the food)]]
 - [[What you want now vs what you want most]] 
 - [[Collective Decision-Making]]

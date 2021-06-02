@@ -297,7 +297,7 @@ You keep **pointing at the anomalies and failures in the old paradigm**. You kee
 Systems modelers say that we change paradigms by **building a model of the system, which takes us outside the system and forces us to see it whole**. I say that because my own paradigms have been changed that way.
 
 ### 1. Transcending Paradigms
- There is yet one leverage point that is even higher than changing a paradigm. That is to **keep oneself unattached in the arena of paradigms, to stay flexible, to realize that no paradigm is “true,” that every one, including the one that sweetly shapes your own worldview, is a tremendously limited understanding of an immense and amazing universe that is far beyond human comprehension** ([[Ways of Looking]])
+ There is yet one leverage point that is even higher than changing a paradigm. That is to **keep oneself unattached in the arena of paradigms, to stay flexible, to realize that no paradigm is “true,” that every one, including the one that sweetly shapes your own worldview, is a tremendously limited understanding of an immense and amazing universe that is far beyond human comprehension** 
 
 If no paradigm is right, you can choose whatever one will help to achieve your purpose. If you have no idea where to get a purpose, you can listen to the universe. 
 It is in this space of mastery over paradigms that people throw off addictions, live in constant joy, bring down empires, get locked up or burned at the stake or crucified or shot, and have impacts that last for millennia.
