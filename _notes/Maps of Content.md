@@ -1,7 +1,7 @@
 ---
-title: Maps of Content (MOCs)
+title: Maps of Content
 ---
-
+ 	
 *Maps of Content are Evolving, Fluid, Idea Incubators*
 
 *Maps of Content are Emerging Ecosystems for Better Thinking*

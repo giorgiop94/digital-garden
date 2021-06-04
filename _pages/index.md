@@ -15,7 +15,7 @@ I put my notes together using my own undefined variation of [Nick Milo's LYT (Li
 
 Some of the topics I'm most interested in right now are [[Meditation]] (particularly I've been following [[Rob Burbea]]'s teachings), [[Regeneration]], Communities and Decentralized Organizing.
 
-Below are some rudimentary [[Maps of Content (MOCs)]] that could be fun to explore:
+Below are some rudimentary [[Maps of Content]] (MOCs) that could be fun to explore:
 - [[Taoism]]
 - [[Planetary Boundaries]]
 - [[Resilience]]
@@ -25,7 +25,7 @@ Below are some rudimentary [[Maps of Content (MOCs)]] that could be fun to explo
 
 If there's anything you want to discuss, or you have any feedback, feel free to [DM me](https://twitter.com/giorgiop_). Say hi! 👋
 
-If you want to check some of my essays, instead, you can do so on [giorgiop.com](http://giorgiop.com/)
+If instead you want to check some of my essays or subscribe to my newsletter, you can do so on [giorgiop.com](https://giorgiop.com/)
 
 <style>
   .wrapper {
