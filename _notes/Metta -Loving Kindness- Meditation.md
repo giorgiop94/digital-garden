@@ -1,3 +1,6 @@
+---
+title: Metta -Loving Kindness- Meditation 
+---
 Metta can cultivate important insights. Its power is often underestimated in traditional circles.
 
 If practiced over time, Metta becomes a [[mental habit]]. 

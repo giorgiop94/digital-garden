@@ -1,3 +1,6 @@
+---
+title: Tao Te Ching 20 - Stop Thinking and End Your Problems
+---
 [[Book - Tao Te Ching - Lao Tzu]]
 
 ## Stephen Mitchell Translation

@@ -28,4 +28,4 @@ Culture influences:
 -------------------
 
 Inspired by: [[Daniele Bolelli]] | [[Daniel Schmachtenberger]]
-Topics: [[Biology]] | [[Psychology]] | [[Persuasion]] | [[Memetic Viruses (Virus of the Mind)]]
+Topics: [[Biology]] | [[Psychology]] | [[Persuasion]] | [[Memetic Viruses -Virus of the Mind-]]

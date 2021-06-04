@@ -43,7 +43,7 @@ title: Talks - Ending the Inner Critic - Rob Burbea
 
 ### Metta
 - **The IC is just a mental habit of negative thinking**
-- Practicing [[Metta (Loving Kindness) Meditation]] we create new habits of thinking
+- Practicing [[Metta -Loving Kindness- Meditation]] we create new habits of thinking
 	- Sow the seeds of kindness towards ourselves and all beings
 - When IC is very strong, the Metta phrases may seem ridiculous, fake
 	- Over time this has tremendous effects

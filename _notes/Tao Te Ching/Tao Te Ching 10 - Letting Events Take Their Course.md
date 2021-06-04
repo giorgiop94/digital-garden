@@ -1,3 +1,6 @@
+---
+title: Tao Te Ching 10 - Letting Events Take Their Course
+---
 [[Book - Tao Te Ching - Lao Tzu]]
 
 ## Stephen Mitchell Translation

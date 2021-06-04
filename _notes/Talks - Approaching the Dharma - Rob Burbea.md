@@ -13,7 +13,7 @@ title: Talks - Approaching the Dharma - Rob Burbea
     - Mindfulness is another way of looking, it decreases Papancha
     - Other [[ways of looking]]
 		- Anatta (no self)
-		- [[Metta (Loving Kindness) Meditation]]
+		- [[Metta -Loving Kindness- Meditation]]
 			- what happens if I sustain this way of looking (also in terms of reducing dukkha)
 - Insight as a result of practice (no self), can be used as the method of practice.
     - allows to consolidate the insight

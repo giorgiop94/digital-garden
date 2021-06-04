@@ -16,26 +16,35 @@ Talks by [[Rob Burbea]]
 	- Subtle desires will probably remain
 	- **Even the Buddha *desired* to share his teachings**
 
+- We have to be careful that the path we are on doesn't shrink something within us that might be a blessing
+
 ### Do We Fear Desire?
 - We often have a fear of deep desire	
 	- Particularly desire of "deep" things, like God or enlightenment
 	- Yet many other small desires go unnoticed and accepted. Desire for comfort, convenience etc...
 
-### Exercise
+### Connecting with Desire (Exercise)
+Minute 14:00 - 40:00 of talk 1
+
 - Imagining ourselves on our deathbed and asking ourselves (~ min 20-40?):
 	- What did I want in my life
 	- What do I regret not doing
 - Asking "what do I want" may bring up a sense of lack
 - The [[Inner Critic]] may come up and shut our desires down ("you can't never do that!")
 	- That doesn't give the desire a chance to grow
-		- **==Maybe we need to protect desire like we protect a small plant that needs to grow==**
-		- **The inner critic inhibits desire and desire inhibits the inner critic**
+	- Some of the reasoning of the IC may even be right
+		- But if we're too quick to allow the IC to tell us why we won't be able to do something, we don't give desire a chance to grow 
+- **==Maybe we need to protect desire like we protect a small plant that needs to grow==**
+- **The inner critic inhibits desire and desire inhibits the inner critic**
+	- 
+
 ### Another Side of Desire
 - Have we proven it empirically that desire brings suffering?
 - **Is it possible that a lack of desire or non-nourishing of desire also brings suffering?**
-- **Is it possible that desire creates depth, energy, inner power into our heart or being?**
+- **Is it possible that allowing desire creates depth, energy, dynamism and inner power into our heart or being?**
 
 - > *"maybe conversely, not desiring, letting go of what I desire, maybe something in me gets disempowered, becomes weak (over time; I’m talking about years and longer), becomes flaccid or impotent, even, maybe, especially if I’m not desiring because there’s [[fear of desire]]"*
+- Just following superficial desires also brings a weakening of the being
 
 ## Opening to Desire
 

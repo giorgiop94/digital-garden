@@ -2,7 +2,9 @@
 title: Book - Tao Te Ching - Lao Tzu
 ---
 
-- [[Tao Te Ching 1 - The tao that can be told is not the eternal Tao.]]
+Putting together the collection of poems in my notes, all include Stephen Mitchell's (my favorite) translation, plus some others I enjoyed depending on the poem
+
+- [[Tao Te Ching 1 - The tao that can be told is not the eternal Tao]]
 - [[Tao Te Ching 2 - Nonduality]]
 - [[Tao Te Ching 3 - Practice not-doing and everything will fall into place]]
 - [[Tao Te Ching 4 - The Tao is hidden but always present]]

@@ -5,7 +5,7 @@
    - [[Amor Fati]]
 
 ## Practices
-- [[mentally rehearse fears (negative visualization)]]
+- [[mentally rehearse fears -negative visualization-]]
 - [[Practice Discomfort]]
 	- [[Move towards fears]]
 

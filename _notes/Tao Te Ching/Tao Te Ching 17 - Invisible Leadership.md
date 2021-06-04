@@ -1,3 +1,6 @@
+---
+title: Tao Te Ching 17 - Invisible Leadership
+---
 [[Book - Tao Te Ching - Lao Tzu]]
 
 ## Stephen Mitchell Translation

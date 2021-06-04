@@ -1,3 +1,6 @@
+---
+title: Tao Te Ching 1 - The tao that can be told is not the eternal Tao
+---
 [[Book - Tao Te Ching - Lao Tzu]]
 
 ## Stephen Mitchell Translation
@@ -23,7 +26,7 @@ The gateway to all understanding
 -------------------
 
 1: [[Truth is never expressed in words]]
-2: [[the map is not the territory (menu is not the food)]]
+2: [[the map is not the territory -menu is not the food-]]
 
 -------------------
 

@@ -1,3 +1,6 @@
+---
+title: Tao Te Ching 19 - Morality
+---
 [[Book - Tao Te Ching - Lao Tzu]]
 
 ## Stephen Mitchell Translation

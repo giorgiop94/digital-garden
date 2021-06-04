@@ -1,3 +1,6 @@
+---
+title: Tao Te Ching 18 - When the Tao is forgotten
+---
 [[Book - Tao Te Ching - Lao Tzu]]
 
 ## Stephen Mitchell Translation

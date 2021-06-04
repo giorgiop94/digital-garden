@@ -1,6 +1,6 @@
 The boundaries that should not be crossed for us to keep the Earth in its currently desirable state (Holocene)
 
-Some of these boundaries show evidence of planetary scale [[Tipping point (nonlinear) effects]] and some do not. Those that don't show evidence of tipping points, however, are helpful in regulating and preventing tipping points of other boundaries.
+Some of these boundaries show evidence of planetary scale [[Tipping point -nonlinear- effects]] and some do not. Those that don't show evidence of tipping points, however, are helpful in regulating and preventing tipping points of other boundaries.
 
 There are strong **interactions** among the different boundaries. Transgressing one boundary may cause cascading effects on others
 
@@ -14,7 +14,7 @@ Operate and regulate the entire Earth system, and they are the endpoint dependin
 	- Biodiversity is key to regulating the Earth's functions and provision of [[Ecosystem Services]]
 		- Pollinating bees and agriculture
 		- Plant carbon sequestration
-3. [[Chemical Pollution (Novel Substances)]]
+3. [[Chemical Pollution -Novel Substances-]]
 4. [[Ocean acidification]]
 	- Ocean can be in an oxygen rich state or oxygen free 
 5. [[Ozone Depletion]]

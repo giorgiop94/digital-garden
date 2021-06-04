@@ -1,3 +1,6 @@
+---
+title: Tao Te Ching 7 - The Master stays behind 
+---
 [[Book - Tao Te Ching - Lao Tzu]]
 
 ## Stephen Mitchell Translation

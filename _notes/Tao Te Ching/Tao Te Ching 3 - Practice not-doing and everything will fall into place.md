@@ -1,3 +1,6 @@
+---
+title: Tao Te Ching 3 - Practice not-doing and everything will fall into place 
+---
 [[Book - Tao Te Ching - Lao Tzu]]
 
 ## Stephen Mitchell Translation

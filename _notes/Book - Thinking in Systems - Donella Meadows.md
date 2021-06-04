@@ -103,7 +103,7 @@ When there are long delays in feedback loops, some sort of **foresight is essent
 You can see some things through the lens of the human eye, other things through the lens of a microscope, others through the lens of a telescope, and still others through the lens of systems theory. Everything seen through each kind of lens is actually there. Each way of seeing allows our knowledge of the wondrous world in which we live to become a little more complete. ([[Ways of Looking]])
 
 #### Map is Not the Territory
-- [[the map is not the territory (menu is not the food)]]
+- [[the map is not the territory -menu is not the food-]]
 
 Everything we think we know about the world is a model. Every word and every language is a model. All maps and statistics, books and databases, equations and computer programs are models. So are the ways I picture the world in my head
 
@@ -111,7 +111,7 @@ our models fall far short of representing the world fully. That is why we make m
 
 #### Forgetting that Boundaries are Fabricated
  systems rarely have real boundaries. **Everything, as they say, is connected to everything else**, and not neatly. There is no clearly determinable boundary between the sea and the land, between sociology and anthropology, between an automobile’s exhaust and your nose. There are only boundaries of word, thought, perception, and social agreement—artificial, mental-model boundaries.
-- [[Everything is interconnected (interbeing)]]
+- [[Everything is interconnected -interbeing-]]
  
  If we’re to understand anything, we have to simplify, which means **we have to make boundaries**. Often that’s a safe thing to do
 
@@ -328,7 +328,7 @@ But there it was, the message emerging from every computer model we made. Living
 	-  Intrinsic responsibility” means that the system is designed to send feedback about the consequences of decision making directly and quickly and compellingly to the decision makers. (Intrinsic responsibility seems like something to strive for. So decision makers have feedback on their action and can quickly learn and correct. Example of central university thermostat vs one thermostat in each room)
 -  Stay Humble and [[Embrace Uncertainty]]
 	-  In a world of complex systems, it is not appropriate to charge forward with rigid, undeviating directives. “Stay the course” is only a good idea if you’re sure you’re on course. **Pretending you’re in control even when you aren’t is a recipe not only for mistakes, but for not learning from mistakes.**
--  [[Everything is interconnected (interbeing)]]
+-  [[Everything is interconnected -interbeing-]]
 	-  The real system is interconnected. No part of the human race is separate either from other human beings or from the global ecosystem. It will not be possible in this integrated world for your heart to succeed if your lungs fail, or for your company to succeed if your workers fail, or for the rich in Los Angeles to succeed if the poor in Los Angeles fail, or for Europe to succeed if Africa fails, or for the global economy to succeed if the global environment fails.
 -  **At any given time, the input that is most important to a system is the one that is most limiting.**
 

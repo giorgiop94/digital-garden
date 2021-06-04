@@ -16,7 +16,7 @@ through regulating [[Ecosystem Services]]
 - The conventional approach in Environmental Management has been one of efficiency and optimization
 	- This view only works if we know how the World works and if it works in linear ways
 - When the impact show the characteristics below the conventional approach doesn't work
-	- [[Tipping point (nonlinear) effects]]
+	- [[Tipping point -nonlinear- effects]]
 	- unpredictability
 	- [[Uncertainty]]
 	- Uncontrollability 

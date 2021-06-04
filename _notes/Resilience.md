@@ -20,7 +20,7 @@ Basins of attraction represent different possible regimes that a system may end 
 
 ### Three Core Dimensions of Resilience
 1) The amount of disturbance a system can absorb and still remain in the same state. 
-	- The lower the resilience of a system, the more likely it is that small shocks will cause [[Tipping point (nonlinear) effects]]
+	- The lower the resilience of a system, the more likely it is that small shocks will cause [[Tipping point -nonlinear- effects]]
 2) The degree to which the system is capable of self-organization. 
 3) The degree to which the system can build up and increase the capacity for learning and adaptation.
 

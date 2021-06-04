@@ -1,3 +1,6 @@
+---
+title: Tao Te Ching 4 - The Tao is hidden but always present 
+---
 [[Book - Tao Te Ching - Lao Tzu]]
 
 ## Stephen Mitchell Translation

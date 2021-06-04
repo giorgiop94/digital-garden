@@ -1,3 +1,6 @@
+- To assume we don't hold assumptions and concepts is not only wrong but dangerous
+	- Unconscious assumptions that we don't even know we hold are the most powerful 
+
 > “Our beliefs control our minds,
 our minds control our bodies,
 and thus belief controls our lives...” - [[Bruce Lipton]]

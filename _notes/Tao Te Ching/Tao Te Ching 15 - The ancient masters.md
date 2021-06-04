@@ -1,3 +1,6 @@
+---
+title: Tao Te Ching 15 - The ancient masters 
+---
 [[Book - Tao Te Ching - Lao Tzu]]
 
 ## Stephen Mitchell Translation

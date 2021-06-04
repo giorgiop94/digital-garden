@@ -44,7 +44,7 @@ Your aspirations create your understanding of the path
 	- [[Energy Body]]
 - Insight
 	- [[Emptiness Practice]]
-	- [[Metta (Loving Kindness) Meditation]]
+	- [[Metta -Loving Kindness- Meditation]]
 
 - [[Mindfulness]]
 	- Bringing full [[Awareness]] of the present moment. Aware of your body sensations, of your thoughts and emotions.

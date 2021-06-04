@@ -1,3 +1,6 @@
+---
+title: Everything is interconnected -interbeing-
+---
 This is strongly connected to [[Regeneration]] and the fact that believing that we are separate from Nature causes us to abuse it, destroy it
 
 - Our health is connected to the health of the Earth (and soil)

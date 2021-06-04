@@ -1,3 +1,6 @@
+---
+title: Tao Te Ching 14 - You can't know the Tao but you can Be it
+---
 [[Book - Tao Te Ching - Lao Tzu]]
 
 ## Stephen Mitchell Translation
@@ -25,7 +28,7 @@ this is the essence of wisdom.
 2: [[Emptiness]]
 
 Related poems:
-- [[Tao Te Ching 1 - The tao that can be told is not the eternal Tao.]]
+- [[Tao Te Ching 1 - The tao that can be told is not the eternal Tao]]
 - [[Tao Te Ching 4 - The Tao is hidden but always present]]
 - [[Tao Te Ching 6 - empty yet inexhaustible]]
 - [[Tao Te Ching 11 - Empitness and Non-Being]]

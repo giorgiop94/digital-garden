@@ -6,8 +6,8 @@
 	- [[Climate change]]
 		- We are now seeing the effects of GHGs emitted in the 90s
 		- Even if we start regenerating now, we are going to see catastrophes happening
-- [[Everything is interconnected (interbeing)]]
-	- The idea of separation, that humans are separate from Nature is a [[Memetic Viruses (Virus of the Mind)]] that our culture spreads, encouraging domination over nature
+- [[Everything is interconnected -interbeing-]]
+	- The idea of separation, that humans are separate from Nature is a [[Memetic Viruses -Virus of the Mind-]] that our culture spreads, encouraging domination over nature
 	- > We think we have to conquer Nature because we don't realize that we are Nature's children [[Alan Watts]]
 - [[Regenerative Agriculture]]
 

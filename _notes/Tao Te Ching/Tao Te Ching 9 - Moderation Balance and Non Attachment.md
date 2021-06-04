@@ -1,3 +1,7 @@
+---
+title: Tao Te Ching 9 - Moderation Balance and Non Attachment
+---
+
 [[Book - Tao Te Ching - Lao Tzu]]
 
 ## Stephen Mitchell Translation

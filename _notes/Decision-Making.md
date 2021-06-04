@@ -21,7 +21,7 @@ title: Decision-Making
 
 ## Frameworks
 - [[Hell Yeah or No]] vs. [[just say yes]]
-- [[the map is not the territory (menu is not the food)]]
+- [[the map is not the territory -menu is not the food-]]
 - [[What you want now vs what you want most]] 
 - [[Collective Decision-Making]]
 

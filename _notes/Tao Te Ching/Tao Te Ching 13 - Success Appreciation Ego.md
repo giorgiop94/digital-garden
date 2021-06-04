@@ -1,3 +1,6 @@
+---
+title: Tao Te Ching 13 - Success Appreciation Ego
+---
 [[Book - Tao Te Ching - Lao Tzu]]
 
 ## Stephen Mitchell Translation
@@ -24,7 +27,7 @@ then you can care for all things.
 -------------------
 
 1: [[Hope is as hollow as fear]]
-2: [[What is the Self (identity)]]
+2: [[What is the Self -identity-]]
 3: [[the Universe is unfolding exactly as it should]]
 
 Related: [[success]] | [[Failure]]

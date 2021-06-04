@@ -11,7 +11,7 @@ Subject: [[Food Systems]] | [[Planetary Boundaries]] | [[Global Financial System
 ## Tipping Elements in the Climate
 - We tend to only think of GHG reduction
 	- This is important, but definitely not sufficient
-- We need to take into account Tipping Elements that can create [[Tipping point (nonlinear) effects]] with tremendous climate instability
+- We need to take into account Tipping Elements that can create [[Tipping point -nonlinear- effects]] with tremendous climate instability
 	- Amazon rainforest and boreal forest
 		- Close to tipping already
 

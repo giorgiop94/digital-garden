@@ -15,7 +15,7 @@ Created by: [[Stockholm Resilience Center]]
 	- Carbon remains in the atmosphere for 1,000 years
 3. Ecosystem Crisis
 	- We've lost 60% of the Earth's [[Ecosystem Services]] that support human life and the Earth's ability to cope with climate change
-4. [[Tipping point (nonlinear) effects]]
+4. [[Tipping point -nonlinear- effects]]
 	- This is reducing the resilience of the Earth
 		- So negative impact may become increasingly stronger (through [[Reinforcing Feedback Loops]])
 		- For example: Rainforest rain is mostly self-generated, the more you destroy it, the less rain it will generate, the weaker the forest becomes.
@@ -37,7 +37,7 @@ Created by: [[Stockholm Resilience Center]]
 [[Planetary Boundaries]]
 1. [[Climate change]] (**TRANSGRESSED**)
 2. Biodiversity loss (**TRANSGRESSED**)
-3. [[Chemical Pollution (Novel Substances)]]
+3. [[Chemical Pollution -Novel Substances-]]
 4. [[Ocean acidification]]
 5. [[Ozone Depletion]]
 6. Land and Water Use Change

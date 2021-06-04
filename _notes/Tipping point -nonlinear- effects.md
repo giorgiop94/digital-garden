@@ -1,5 +1,5 @@
 ---
-title: Tipping point (nonlinear) effects
+title: Tipping point -nonlinear- effects
 ---
 When a system fundamentally changes structure and function, settling into a new stable state.
 
