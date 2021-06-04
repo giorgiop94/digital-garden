@@ -17,6 +17,7 @@ Some of the topics I'm most interested in right now are [[Meditation]] (particul
 
 Below are some rudimentary [[Maps of Content]] (MOCs) that could be fun to explore:
 - [[Taoism]]
+  - [[Book - Tao Te Ching - Lao Tzu]]
 - [[Planetary Boundaries]]
 - [[Resilience]]
 - [[Decision-Making]]
