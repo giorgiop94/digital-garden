@@ -9,7 +9,7 @@ permalink: /
 
 This is my attempt to play and experiment with a digital garden.
 
-Here I'll be sharing some of the notes that I put together in my various explorations. Most of these notes are dynamic and ever-evolving, they also are mostly meant for my personal use on [Obsidian](https://obsidian.md/), so they might not be super polished.
+Here I'll be sharing some of the notes that I put together in my various explorations. Most of these notes are dynamic and ever-evolving, they also are mostly meant for my personal use on [Obsidian](https://obsidian.md/), so they might not be polished or to be considered as my ultimate thoughts (they are just explorations).
 
 I put my notes together using my own undefined variation of [Nick Milo's LYT (Linking Your Thinking) framework](https://www.linkingyourthinking.com/).
 
@@ -21,11 +21,6 @@ Below are some rudimentary [[Maps of Content]] (MOCs) that could be fun to explo
 - [[Resilience]]
 - [[Decision-Making]]
 - [[Fear]]
-
-
-If there's anything you want to discuss, or you have any feedback, feel free to [DM me](https://twitter.com/giorgiop_). Say hi! 👋
-
-If instead you want to check some of my essays or subscribe to my newsletter, you can do so on [giorgiop.com](https://giorgiop.com/)
 
 <style>
   .wrapper {
