@@ -29,19 +29,6 @@ Fear and attachment
 - Immune system dysfunction
 - Endocrine system dysfunction
 
-## Different Fears
-- [[Two kinds of fears]]
-	- Physical
-	- Mental
-		- [[fear of death]]
-		- [[fear of desire]]
-		- [[fear of success]]
-		- [[fear of being ourselves]]
-		- [[fear of the unknown]]
-		- [[fear of judgment]]
-		
-
-
 ## Practices
 - [[Move towards fears]]
 	- **Consistently confront fear to calibrate your fear GPS.** 
