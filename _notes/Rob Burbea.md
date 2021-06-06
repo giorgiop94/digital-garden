@@ -35,11 +35,11 @@ title: Rob Burbea
 
 ### Insight
 - [[Talks - Metta and Emptiness - Rob Burbea and Catherine McGee]]
-- [[Talks - Theater of Selves - Rob Burbea]]
 
 ### Imaginal
 - [[Talks - Mirrored Gates - Rob Burbea]]
 - [[Talks - Path of the Imaginal - Rob Burbea]]
+- [[Talks - Theater of Selves - Rob Burbea]]
 
 
 -------------------
