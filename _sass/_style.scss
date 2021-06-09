@@ -15,10 +15,10 @@ body {
   overflow-x: hidden;
   color: $color-text;
   font-size: 120%;
-  @media (max-width: 820px) {
+  @media (max-width: 900px) {
     font-size: 100%;
   }
-  @media (min-width: 820px) {
+  @media (min-width: 900px) {
     max-width: 75%;
   }
   ul {
@@ -123,39 +123,23 @@ code {
   cursor: help;
 }
 
-.toc__content {background: #FFFFFF;
-  width: 320px;
-  max-width: 320px;
-  font-family: $font-family;
-  font-weight: 200;
-  text-transform: uppercase;
-  border: 0px solid $color-border;
-  border-radius: $border-radius;
-  a {color: $color-text}
-  color: $color-subtext;
-  padding: 0.2em;
-  text-align: left;
-  list-style: upper-latin;
-  position: -webkit-sticky;
-  position: sticky;
-  top: 2em;
-}
-
 nav {
-  @media (min-width: 820px) {
+  @media (min-width: 900px) {
     margin: 1em 0 3em;
   }
 }
 
-article {
+#note-main {
   display: grid;
   grid-template-areas:
     "1 s"
     "2 s"
     "3 3";
   grid-template-columns: 6fr 1fr;
-  @media (max-width: 820px) {
+  column-gap: 2em;
+  @media (max-width: 900px) {
     grid-template-columns: 1fr 0fr;
+    column-gap: 0em;
   }
 }
 
@@ -165,17 +149,59 @@ article {
 
 #note-content {
   grid-area: 2;
-  max-width: 80%;
-  @media (max-width: 820px) {
-    max-width: 100%;
-    padding-left: 1.5em;
-    padding-right: 1em;
+  width: 90%;
+  @media (max-width: 900px) {
+  width: 100%;
+    padding-left: 0.7em;
+    padding-right: 0.5em;
   }
+}
+
+#note-sidebar {
+  grid-area: s;
+  will-change: min-height;
+  font-size: 90%;
+  @media (max-width: 900px) {
+    display: none;
+  }
+
+  h3 {
+    margin-left: 0.5em;
+    margin-bottom: 1em;
+  }
+}
+
+#dummy-sidebar {
+  margin-left: 3em;
+  width: 250px;
+  @media (max-width: 900px) {
+    display: none;
+  }
+}
+
+.sidebar__inner {
+  transform: translate(0, 0); /* For browsers don't support translate3d. */
+  transform: translate3d(0, 0, 0);
+  will-change: position, transform;
+}
+
+.toc__content {
+  font-family: $font-family;
+  font-weight: 200;
+  text-transform: uppercase;
+  a {color: $color-text}
+  color: $color-subtext;
+  top: 2em;
+}
+
+#note-footer {
+  display: grid;
+  grid-template-columns: 6fr 1fr;
 }
 
 #note-garden {
   grid-area: 3;
-  padding-top: 2em;
+  margin-top: 5em;
   color: mix($color-text, white, 80%);
   @media (max-width: 820px) { display: none; }
   #graph-wrapper {
@@ -189,9 +215,8 @@ article {
 
 #note-mentions {
   grid-area: 3;
-  padding-top: 2em;
+  margin-top: 5em;
   color: mix($color-text, white, 80%);
-  @media (min-width: 820px) { max-width: 320px; }
 
   .backlink-wrapper {
     display: flex;
@@ -204,15 +229,5 @@ article {
     width: 100%;
     margin: 1em;
     padding: 1em;
-  }
-}
-
-#note-sidebar {
-  grid-area: s;
-  font-size: 90%;
-  @media (max-width: 900px) { display: none; }
-  h3 {
-    margin-left: 0.5em;
-    margin-bottom: 1em;
   }
 }
