@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<article>
+<article id="note-main">
   <div id="note-header">
     <h1>{{ page.title }}</h1>
     <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">
@@ -16,31 +16,42 @@ layout: default
     <content>{{ content }}</content>
   </div>
 
-  <div id="note-garden">
-    <h3>Digital Garden</h3>
-    <p>Here are all the notes in this garden, along with their links, visualized as a graph.</p>
-    {% include notes_graph.html %}
+  <div id="note-sidebar">
+    <div id="dummy-sidebar">
+    </div>
+    <div class="sidebar">
+      {% include toc.html html=content class='toc__content.sidebar__inner' %}
+    </div>
   </div>
 
-  <div id="note-mentions">
-    <h3>Notes mentioning this note</h3>
-    {% if page.backlinks.size > 0 %}
-    {% for backlink in page.backlinks %}
-    <div class="backlink-wrapper">
-      <div class="backlink"><a class="internal-link" href="{{ site.baseurl }}{{ backlink.url }}{%- if site.use_html_extension -%}.html{%- endif -%}">
-        {{ backlink.title | strip_html | truncatewords: 20 }}
-      </a></div>
-    </div>
-    {% endfor %}
-    {% else %}
-    <p>There are no notes linking to this note.</p>
-    {% endif %}
-  </div>
+<div id="note-garden">
+  <h3>Digital Garden</h3>
+  <p>Here are all the notes in this garden, along with their links, visualized as a graph.</p>
+  {% include notes_graph.html %}
+</div>
 
-  <aside id="note-sidebar">
-    <h3>Note Contents</h3>
-    <div class="toc__content text-main">
-      {% include toc.html html=content class='menu-list' %}
-    </div>
-  </aside>
+<div id="note-mentions">
+  <h3>Notes mentioning this note</h3>
+  {% if page.backlinks.size > 0 %}
+  {% for backlink in page.backlinks %}
+  <div class="backlink-wrapper">
+    <div class="backlink"><a class="internal-link" href="{{ site.baseurl }}{{ backlink.url }}{%- if site.use_html_extension -%}.html{%- endif -%}">
+      {{ backlink.title | strip_html | truncatewords: 20 }}
+    </a></div>
+  </div>
+  {% endfor %}
+  {% else %}
+  <p>There are no notes linking to this note.</p>
+  {% endif %}
+</div>
 </article>
+
+<script type="text/javascript" src="js/sticky-sidebar.min.js"></script>
+<script type="text/javascript">
+  const sidebar = new StickySidebar('.sidebar', { 
+    containerSelector: '#note-sidebar',
+    innerWrapperSelector: '.sidebar__inner',
+    minWidth: 900,
+    resizeSensor: false
+    });
+</script>
