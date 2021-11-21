@@ -7,7 +7,7 @@ Many fears comes from a lack of [[Self Love]] and from aversion
 - **Fear is not the same as concern**
     - The latter has a sense of stability
 
-Fear and attachment
+Fear and [[attachment]]
 > Attachment creates a dependency, and dependency, because of its nature, intrinsically carries with it a fear of loss. 
 > From [[Book - Letting Go - David Hawkins]]
 

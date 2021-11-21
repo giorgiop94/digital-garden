@@ -4,7 +4,8 @@
 		- An element could be its own system with its own purpose, behavior and sub-systems
 		- Each element may be changing all the time, making it difficult to predict their behavior or come up with definite solutions
 	- No central control (self-organizing in a de-centralized way)
-	- **Emergent (unpredictable) behaviors** [[System Dynamics]]
+	- **Unpredictability**
+		- [[Emergence]]
 		- Hierarchical organization
 		- Information processing
 		- **Evolution and adaptation**
@@ -39,6 +40,9 @@
 - [Loopy](https://ncase.me/loopy/)
 - [Kumu](https://www.kumu.io/)
 
+### Heuristics
+- Enabling constraints
+
 -------------------
 Created on: 2020-11-28
-Related: [[Systems Theory]] | 
+Related: [[Systems Thinking]] | 

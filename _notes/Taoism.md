@@ -46,7 +46,7 @@ Dogma gives the illusion of certainty. **==Taoism is about embracing doubt and u
     - **Different from other religions, man is not above nature and not encouraged to control it**
 
 ## Qualities emphasized
-- Moderation [[Not too tight, not too loose]] and Balance 
+- Moderation [[The Middle Path]] and Balance 
 	- [[Detachment from results makes you more relaxed and better performing]]
 - Kindness towards all (including enemies)
 - True Humbleness
@@ -67,7 +67,7 @@ Dogma gives the illusion of certainty. **==Taoism is about embracing doubt and u
 	- "knowing what is enough is wealth" 
 > "*If you realize that you have enough, you are truly rich*" Lao Tzu
 		
-#quotesonMoney
+#quotes
 
 
 ------------

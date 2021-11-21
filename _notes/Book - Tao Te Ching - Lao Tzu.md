@@ -2,6 +2,8 @@
 title: Book - Tao Te Ching - Lao Tzu
 ---
 
+Ancient Chinese Book of Wisdom, it invites the reader into a poetic participation with the text. It’s not just a text you read for information; it’s multifaceted
+
 Putting together the collection of poems in my notes, all include Stephen Mitchell's (my favorite) translation, plus some others I enjoyed depending on the poem
 
 - [[Tao Te Ching 1 - The tao that can be told is not the eternal Tao]]

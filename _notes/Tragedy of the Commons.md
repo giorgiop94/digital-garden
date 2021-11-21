@@ -13,7 +13,7 @@ Things may get worse as people increase their efforts to deplete the resource as
 More broadly, this system dynamic is defined as a [[Multipolar Trap]]
 
 ### Dealing with it
-- [[Managing Commons - Elinor Ostrom]]
+- [[Ostrom's Framework to Managing Commons]]
 - From [[Book - Thinking in Systems - Donella Meadows]]
 	> 3 Options to Deal with it
 	> 1.  Educate and exhort. Help people to see the consequences of unrestrained use of the commons. Appeal to their morality. Persuade them to be temperate. Threaten transgressors with social disapproval or eternal hellfire. 

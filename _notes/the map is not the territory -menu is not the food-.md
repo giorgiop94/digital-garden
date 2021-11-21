@@ -14,7 +14,7 @@ We're like people eating menus instead of dinners
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0K5M0hIXP00" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - We confuse happiness with status
-- We confuse ourselves with our personality, our idea of ourselves, [[Ego]] (while we are living organisms at one with the World) [[What is the Self -identity-]]
+- We confuse ourselves with our personality, our idea of ourselves, [[Ego]] (while we are living organisms at one with the World) [[What is the Self]]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_LXiSPpfM54?start=170" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

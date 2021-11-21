@@ -10,7 +10,7 @@ title: Talks - Ending the Inner Critic - Rob Burbea
 - It may have its origin in childhood
 	- But we are construing it in our mind everyday
 - Its power is in its vagueness
-	- The more we focus our attention on it, the more it loses power
+	- **The more we focus our attention on it, the more it loses power**
 
 ### Effects on Us
 - Creates a sense of inadequacy, not being enough, [[Fear]]

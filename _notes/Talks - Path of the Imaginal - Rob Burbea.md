@@ -3,7 +3,117 @@ title: Talks - Path of the Imaginal - Rob Burbea
 ---
 [Link to Retreat](https://dharmaseed.org/retreats/2678/) by [[Rob Burbea]]
 
-## Talk 1 - Doorways and Directions
+## Practice Talks
+### Opening, Tuning and Relating to Images (1)
+- [[Energy Body]] awareness is the basis of this practice
+	- Other imaginal practice traditions encourage people to concretize images in art, but that's not what we're doing
+- Patience with images is key
+- Images don't need to arise in formal meditation, but can come up anytime in our lives
+
+#### Ways to Elicit Images
+1. Soaking in [[Samadhi]] and after a while coming out of it, relaxing the attention, creates a fertile ground for images
+2. Similarly, [[Emptiness]] practice can get us in a state where reality becomes less substantial and images can arise
+3. When we are in a state of emotional upset, we can allow that state to "constellate" an image in our mind
+	- An example could be letting the [[Inner Critic]] come in an image and interacting with him/her
+	- Even if these states can seem egoic, we can have a sense of trust in the intelligence of the image 
+4. Deliberately eliciting images that feel relevant (memories, dream figures, spiritual figures movie/books characters)
+5. Imaginally entering a sacred space (like a monastery, a forest, a cave) and letting images arise
+	- Journeys moving through time and space are discouraged as they could contribute to solidifying the self 
+6. Opportunistically catching yourself daydreaming, and shifting the quality of attention to images and energy body
+7. Opening your eyes - seeing the world as image - the image can be the world
+
+### Opening, Tuning and Relating to Images (2)
+#### Mindfulness of Image
+- We're talking about mindfulness of (or with) images, not daydreaming
+	- Keeping attention to the image, like we would to the breath
+	- Awareness of energy body
+	- Knowing image as image (mindfulness of view)
+	- Sensitivity of resonance, emotions, energy that come up in relation to the image
+	- Awareness of sense of Self in relation to the image
+
+#### Aspects of Mindfulness of Imaginal
+1. How do I sense the image (visual, auditory, taste, intuitive)?
+2. Does the image want to fill out (is it just an image or is it creating an environment surrounding it, perhaps with more images?)
+3. Can we get a sense of the image's character (not just sticking an archetype label to it)?
+	1. What is the specificity that's important to this image (some aspects will be more specific and some more vague)?
+4. What is the emotional and energy body resonance (we try to balance attention to the image and to the energy body)?
+	- Recognize that an image is soulmaking through effects on energy body
+		1. Alignment of vertical axis of the energy body (can be very subtle)
+		2. Opening, softening or energizing of the energy body
+		3.  Feeling an energy body moving (dancing, flying) outside of our physical body
+5.  Thoughts, reactions views
+	- Careful of: 
+		- The temptation to seek advice from an image (reinforces sense of ego)
+			- We're more interested in the resonance
+		- The tendency to reduce images to one representation, archetype or the result of our history
+		- The idea that the more outlandish the image, the better (more interested in the relationship with the image)
+	- It is ok to allow some thinking about the framework around images once in a while
+6.  What does the image want?
+	- May want to:
+		- Be Seen
+		- Be Expressed in a certain way
+		- See you in a certain way
+7.  Stance to the image
+	1.  Looking at the image
+	2.  Enter into/Identify with the image
+	3.  Feeling of being seen
+
+### Opening, Tuning and Relating to Images (3)
+#### Walking Meditation
+- Any meditation can be done walking, both Samadhi, Metta and Imaginal
+	- Rob gives details on how to practice walking
+
+#### Healing Possibilities and Examples with Imaginal
+
+#### Relationship with Images
+- What is the relationship between this image and my life?
+	- Not a question to think about rationally too much
+	- Something to we will get glimpses of or feelings about
+
+- Sometimes images will give us advice
+
+#### Dealing with Doubt
+- It's common to wonder and worry "Am I doing this right"?
+	- Doubt is one of [[the 5 Hindrances]]
+	- Creates fear of doing it wrong
+- **Trying to shift the question in the mind to "Is this helpful?"**
+	- "Does it feel soulful?"
+- Assuming an attitude of play and experimentation
+
+- "Am I making this up?"
+- It is ok, if an idea or an image is coming from the conscious mind
+	- Not a problem if I'm making something up
+- What matters is if it is nourishing the soul
+	- **Soulfulness is the indicator of our practice**
+
+##### Images in Our Lives
+- "I don't get images"
+	- We trained ourselves to not trust, or to not let images come up
+	- Images don't need to be visual
+	- **The deepest objective of the practice is not to get images, it is to open up to a new way of sensing life, opening the perceptions of self, other and world**
+		- Example of practitioner working with the image of Quan Yin, and then seeing her in people in her life
+		- Similar to Mother Theresa  practicing seeing Christ in everyone
+
+#### Beyond Self-Help
+- Playing with the idea that we're serving the image, not the opposite
+- Taking the time with the images that feel deep and important
+	- Deep images are like music that you want to listen to over and over
+
+### Theophany and Cosmopoesis (Instructions)
+- Cosmopoesis (artistic creation of the cosmos)
+	- Letting the divinity of an image spread to the surroundings (deliberately or spontaneously)
+		- Eyes can be open or closed
+	- Metta and emptiness practices can facilitate this
+
+#### Examples of Ways of Looking for Cosmopoesis
+- Imagining the breath as the breath of god, or breathing with the beloved
+	- Surrendering to being breathed
+- Hearing sounds in the world (birds, wind) as mantra (divine speech), or divine songs of joy
+- Poetic ideas that bring cosmopoesis may arise spontaneously ("all things are gift from the divine")
+
+- We may need to keep attention to the way of looking to allow cosmopoesis to arise
+
+## 1 - Doorways and Directions
 ### Cultural Attitudes Towards Images
 - Historically lots of denigration of imagination
 	- Socrates, Dante, and Descartes had recurring images coming up and were made fun of
@@ -62,14 +172,14 @@ title: Talks - Path of the Imaginal - Rob Burbea
 - Spiritual circles often denigrate the [[Ego]]
 - **We're not honoring personhood as fully as it would be possible**
 - We are accustomed to singularity of self
-	- In this practice we open a plurality of self, beyond the simple recognition of multiple selves (sometimes found in [[anatta]] and the teachings of not-self)
+	- In this practice we open a plurality of self, beyond the simple recognition of multiple selves (sometimes found in [[Anatta (no-self)]] and the teachings of not-self)
 		- Not just recognizing the many characters within ourselves
 	- **We can empower and bring to life these characters**
 	- **We open a flexibility of self view and world view**
 		- [[Emptiness]] becomes easier to get to
 
 
-## Talk 2 - Doorways and Directions
+## 2 - Doorways and Directions
 What we're interested with this practice is **expanding our felt sense of sacredness and re-enchant the cosmos**
 
 - Re-validating imagination as a "way of knowing"
@@ -115,7 +225,7 @@ What we're interested with this practice is **expanding our felt sense of sacred
 	- Seeing them as keys to examine experiences, perceptions and reveal their emptiness
 	- Help us widen our range of ways of looking
 
-## Talk 3 - Energy Body Instructions (Part 1)
+## 3 - Energy Body Instructions (Part 1)
 Guided meditation starts at approximately minute 24:00- 1:06:00
 
 3 types of mindfulness of the body
@@ -140,7 +250,7 @@ Guided meditation starts at approximately minute 24:00- 1:06:00
 	- Allows us to pick up on the resonance of different images (discern which images are helpful for soulmaking)
 		- If I'm not in touch with the body I'm just daydreaming
 
-## Talk 4 - Energy, Image, Emotion (Part 1)
+## 4 - Energy, Image, Emotion (Part 1)
 ### Intention of Samadhi
 - Using the energy body to cultivate states of well-being
 	- Even if subtle
@@ -186,7 +296,7 @@ Developing Emotional awareness and learning to work skillfully with emotions
 	- Sometimes they can arise spontaneously
 	- Imaginal figures can be incredibly loving, healing and can help Samadhi to develop
 
-## Talk 5 - Energy, Image, Emotion (Part 2)
+## 5 - Energy, Image, Emotion (Part 2)
 ### Difficult Emotions
 - Difficult Emotions have energy in them, but that energy is caught/trapped in an unhelpful vortex.
 	- If an image arises with the difficult emotion, it may help to harmonize the energy
@@ -236,7 +346,7 @@ Developing Emotional awareness and learning to work skillfully with emotions
 	- This reveals the [[Emptiness]] of perceptions, which brings more and more freedom
 	- [[non-clinging]] in Buddhism not as a way of living, but non-clinging to any one [[Ways of Looking]]
 
-## Talk 6 - Energy Body Instructions (Part 2)
+## 6 - Energy Body Instructions (Part 2)
 - Developing sensitivity to the energy body helps us
 	- Cultivate Samadhi
 	- Enable us to work with difficult emotions
@@ -247,7 +357,7 @@ Developing Emotional awareness and learning to work skillfully with emotions
 - Cultivating the positive qualities of heart and letting go of the negative
 - Learning to handle both the difficult and positive emotions
 	- Not just being with them, but also helping it dissolve
-- Witnessing the [[dependent co-arising]] of emotions
+- Witnessing the dependent co-arising of emotions
 
 ### Practice
 - Keeping energy body in the background
@@ -275,7 +385,7 @@ Developing Emotional awareness and learning to work skillfully with emotions
 
 
 
-## Talk 7 - What Is an Image? (Part 1)
+## 7 - What Is an Image? (Part 1)
 - Images are not necessarily visual
 	- Can be auditory, kinestetic
 - "Images" may talk to us and share their wisdom
@@ -322,7 +432,7 @@ Developing Emotional awareness and learning to work skillfully with emotions
 	- The [[Ways of Looking]] are included in the way we intend the word "image" 
 
 
-## Talk 8 - What Is an Image? (Part 2)
+## 8 - What Is an Image? (Part 2)
 - Images are alive
 	- They are autonomous in some ways
 	- They are not just a part of me that I can control
@@ -348,7 +458,211 @@ Developing Emotional awareness and learning to work skillfully with emotions
 	- The ego is wrapped up in them
 	- There's contraction of the psyche and energy body
 
+## 9 -Love and Demands of the Imaginal
+- The traditional psychology view is that images represent something that aids the growth of the self
+	- Some quality that I lack and can integrate
+	- This kind of view, while useful, is very limiting if held exclusively
 
+### We Are the Door for What Wants to Come Through
+- We can entertain the idea that images love us and have demands for us (**the self is in service of the soul and images, not the other way around**)
+	- Our task is not our Self's individuation, but the angel's (or God's) individuation 
+	- Images can be regarded as influxes from the divine
+- **We're choosing this conceptual framework to support soulmaking**
+	- We're not in the realm of the provable, we're just entertaining different conceptual frameworks
+	- Imaginal **Dharma as art**, not science (artists like Rilke, Picasso, T.S. Eliot felt something bigger making a demand on their being)
+- We might have to be careful to not confuse those demands from the ego's demands
+	- Although sometimes the self could get some embedded in the image, that its demands also become soulful
+	- We might sometime dismiss desires as ego cravings, but if we look more carefully we might be surprised
+
+**==If we possess a why in life, we can put up with almost any how==** [[Nietzche]]
+
+#### Demands
+- Three General Demands
+	1. Open up the consciousness to the imaginal realm and to value it
+		- Open up beyond the narrow rigid view of everything being reduced to matter
+	2. Open to the multiplicity of mythos and fantasy
+		- Being stuck in only one fantasy deprives us from freedom and creates all sorts of problems
+		- [[Carl Jung]] talked about that neglecting certain Gods/archetypes will make them show up in psychological disorders
+	3.  Saturating our lives with images, fantasy and mythos (including our view of the Dharma etc...)
+
+- Sometimes the demand could be subtle, just to witness, and honor the divinity or beauty of the image
+	- Or asking to be bold, exercise discernment
+	- They are not necessarily clear or practical
+
+#### Seeing Divinity
+- In Vajrayana the ultimate is the awareness of everything being empty, and divine
+	- Everything rests on the view of [[emptiness]] (even divinity)
+	- Through that, everything (self, other, world) becomes much more malleable, and can be seen as divine
+
+- Seeing what was once seen as shameful, as divine
+	- [[Addiction#Shame Beauty and Images]]
+
+### Ethics, and Fantasy
+- We're often unaware of how are ethical responses are influenced by fantasy and mythos
+- **It is the mythos that shapes the ethos**
+- This explains why the traditional Dharma people have been boldly taking a stance on climate change
+	- The dominant Dharma fantasy revolve around equanimity, not-doing etc...
+	- It doesn't include a figure like the revolutionary
+
+### Seeing Image as Image
+- Jihadist, on the other hand have strong fantasies, and a sense of demand, but they fail to see them as images
+	- They're unaware of the soul element of images
+
+## Thephany and Cosmopoesis
+
+- Sacredness is dependent on the heart, ways of looking etc...
+
+- We're **not talking about "believing"** in divinity or God
+
+## Sacred Universe: Insight, Theophany, Cosmopoesis (1)
+### Limiting Modernist Views in Dharma
+- [[Modernism]], with its view of self and world is very limiting and affected our conception of the Dharma
+	- Physicalism: only matter is considered as real, only what can be measured
+	- They became so entrenched and widespread that we don't even realize they are views
+	- What started as a (scientific) method of inquiry, became a hidden dogma 
+- Even in Dharma, we start confusing [[Mindfulness]] with reality
+	- And because the way we look fabricates our reality, that kind of view reinforces the physicalism, the reification of reality
+	- These views constrain the level of beauty, and depth and soul that we can experience
+
+### Using Emptiness as the Foundation of Dharma
+- If instead, we base our Dharma on emptiness, we understand that each moment is co-created with me, with my way of looking, we can start playing with skillful fabrication 
+
+- [[Anatta (no-self)]] gives us the freedom to use all kinds of self-views, knowing that neither of them is real
+- **What kind of [[Ways of Looking]] does soul need?**
+	- What about viewing ourselves as Theophanies, angels, expressing the divine?
+
+## Sacred Universe: Insight, Theophany, Cosmopoesis (2)
+### Questions about ontology
+- What is real?
+- Quantum physics shows us that even atoms, the essence of matter, depends on the way one looks at it
+- Is reality what is shared by the majority of people ("we all see this chair, it must be real")?
+- Can something not be shared and be real (images)?
+	- William Blake and Henry Corban say that images are more real, but they're not implying that images constitute a shared reality
+	- Neither real nor not real
+
+- Understanding fabrication through unfabricating in practice
+	- Exposes the fabricated (empty) nature of all perceptions and **opens up a malleability of perception and the world of the imaginal**
+
+### Emptiness and Tantra
+- The freedom emptiness brings
+	- This moment is co-created with me, my way of looking, it is not separate
+	- Even this moment is empty
+	- It opens the possibility of cosmopoesis, of [[Imagination]]
+		- Co-creating and immersing oneself in a whole new cosmos
+
+- The word Tantra is pregnant with meaning and significance
+- The basis of [[Tantra]] is the [[Emptiness]] that gives flexibility of conceptual frameworks that allows to **see perceptions as divine** (with the Buddha gnosis that knows the emptiness of everything)
+	- [[Dzogchen]] is also based on this context
+
+## Sacred Universe: Insight, Theophany, Cosmopoesis (3)
+- Common discussions about God are very simplistic
+	- Some may believe in the existence of an anthorpomorphized God with a beard
+	- Some nothing at all
+- "Divine" is a better word than God
+	- In this context, any God or deity we talk about is Assumed to be Empty
+
+### Why Bother with Conceptual Frameworks?
+1. Aspects of soul love ideas and conceptual frameworks
+	- They feel like a necessity for soul's vitality to play with them 
+2. Soul needs conceptual frameworks that allows it and give it space to grow
+	- Psyche needs logos
+	-   We often inherit uninvestigated conceptual frameworks that are very limiting
+	- If the conceptual framework (logos) is too narrow, it constricts the possibility for soulfulness (e.g. the idea that images coming up to you are just the result of neurons firing is very constricting)
+	-   We want our **conceptual frameworks to be like fertile wombs**
+
+- All conceptual frameworks are empty and incomplete
+	- No conceptual framework can claim ultimate validity of truth
+	- Any conceptual framework either falls down or relies on unprovable assumptions
+
+- Conceptual frameworks as doorways that open our investigation, practice and support our psyche 
+
+### 3 Possibilities of Experiencing The Divine
+**Universal Divinity**
+1. The unfabricated, beyond any appearance, time, object
+	- Described by the Buddha in 3 ways
+		- So transcendent you can't say anything about it
+		- Not this not that (via negativa)
+		- One kind of consciousness
+	- Deathless, unfabricated shining through appearances (sense of timeless dimension to things) of this world (impersonal and universal)
+	- Transforming the sense of self, world, others 
+2. Experiences of less fabrications (e.g. One Love, One Mind, Only awareness)
+	- Can arise over a several weeks long retreat
+
+**Particular Divinity**
+3. Divinity shining through a person or thing, as a particular face of divinity
+	- Seen through the lens of mythos and fantasy
+	- Not impersonal
+
+### Conceptual Frameworks
+- There is no one right conceptual framework that can claim to be the ultimate truth
+	- Any conceptual framework will get to a place where it either falls down or contradicts itself, or relies on unprovable assumptions
+- **Conceptual frameworks as doorways** that open up and support the opening of our experience, our inquiry, soul
+
+#### Unfabricated, Fabrication and Divinity
+- Delusion causes fabrication of perceptions, leading to clinging and craving
+	- Delusion is the first of the 12 Links of Dependent arising
+- Insight and delusion are inversely proportional
+- It would seem that the unfabricated is more real than the fabricated
+
+- Seeing that the fabricated is also empty removes the duality out of this framework
+	- **Both fabricated and unfabricated can be seen as divine**
+	- Opens up to the possibility of [[Skillful fabrication]]
+	- Tantric practices of visualizing deities are based on this framework
+- Create-Discover
+	- We know we are creating the imaginal experiences with our mind, but they're also connected to the divine and we're in part discovering 
+
+#### We're Concerned with Meaning(fulness), not an Objective Reality
+- We are not concerned with what's provable scientifically here, we're concerned with experience and meaning
+- **Perception, experience and meaning are what matters to us as human beings**
+	- They're all fabricated, participatory (through ways of looking etc..), they can never be purely objective
+- It's not so important whether we can prove this or that 
+
+- [[Postmodernism]] intellectual deconstruction of everything tends to a sort of nihilism (all perspectives are not true) that leads nowhere
+	- There isn't the subtlety that we gain in meditation to realize that we can enter into multiple perspective
+- We can keep meaningfulness alive (through images of particular divinity)
+	- Doesn't mean we cling to meaningfulness at all times (it is also empty), but we can have it as an option
+
+## Sacred Universe: Insight, Theophany, Cosmopoesis (4)
+### Vertical Expansion of Eros
+- Eros always wants more, so it expands the image, makes it more complex, multi-dimensional (keeping the particular), opening up a sense of theophpny
+	- Opens up other levels of beauty, of being
+	- It also stretches the logos to allow for that theophony
+- Remembering to hold very lightly these frameworks, as they're also empty
+
+> "God save us from single vision" - William Blake
+
+#### Vertical Spectrum of the Imaginal and Fabricated?
+- Vertical meant as towards the Divine
+	- One vertical end in the divine, Buddha Nature 
+	- Spectrum of particular theophonies (we can see in friends)
+	- Other end is the normal every day experience
+
+- Spectrum of fabrication - perception
+	- One end is the unfabricated, which is one way of sensing the divine
+	- Fabricating more, there is a cosmic love, universal sense of the divine
+	- Other end is the normal every day experience
+
+- We can play with moving up and down these spectra
+	- e.g. Hearing noises as aspects of the divine
+
+### Different Views & Meaningfulness
+- The one-dimensional view of physicalism erases any possibility of meaningfulness
+	- We see ourselves in a meaningless universe made of inanimate matter
+
+- Universal Love, is a perception of divinity but erases the possibility of a personal meaningfulness
+
+- Emptiness, if we just stop there, also creates a sense of meaninglessness	
+	- The world is fabricated and meaningless, we don't want to be reborn in this fabricated world
+
+- Theophonies view
+- When we grant particular theophonies a certain amount of autonomy we allow a particular senses of meaningfulness to arise
+	- A sense of calling from something bigger than me
+
+## Sacred Universe: Insight, Theophany, Cosmopoesis (5)
+- It is ok for some concepts to be vague
+	- It is difficult to clearly define "Divinity"
+	- The vagueness of the definition doesn't preclude from its experience
 
 
 ## Meta
+[[SoulMaking Dharma]] | [[Rob Burbea]]

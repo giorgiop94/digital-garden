@@ -181,7 +181,7 @@ title: Talks - The Art of Concentration Retreat - Rob Burbea
 	
 
 #### 3. Balancing
-- Continuous responsiveness of our effort ([[Not too tight, not too loose]])
+- Continuous responsiveness of our effort ([[The Middle Path]])
 	- Am I putting too much or too little effort?
 	- Our attention should be like gently holding a bird in our hands #metaphor 
 - Sometimes too much effort can constrict awareness and make meditation harder, create even more thoughts

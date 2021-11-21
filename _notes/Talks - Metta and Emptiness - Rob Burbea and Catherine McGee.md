@@ -1,6 +1,7 @@
 ---
 title: Talks - Metta and Emptiness - Rob Burbea and Catherine McGee
 ---
+[[Rob Burbea]]
 [Link to retreat](https://dharmaseed.org/retreats/1277/)
 
 - Meditation as a balance between cultivation and investigation
@@ -58,19 +59,33 @@ Element of **faith**([[The 5 Heroic Motivations]]), we are planting the seeds wi
 ### Metta Q&A
 - Practicing Metta throughout the day, while walking etc...
 	- Wishing well to the people we come across
-
+- There are times where the phrases are not appropriate
+	- When there's a difficulty, just listening to one's thoughts (or the character inside) might be the kind thing to do
+	- When things get very quiet
+- As Metta opens the heart, it can also make room for desire
+	- Observe if that desire feels painful (craving has a painnful sense of lack while desire doesn't necessarily)
+- When the heart is open, it reduces aversion, we usually don't make the connection between love and aversion
+	- We often don't notice that there's aversion around
+		- I don't like this feeling of tiredness, sadness, I don't want to go on a walk when raining etc...
+		- Rob recommends to [[Practice Discomfort]] sometimes (going out when it rains or staying up late one night), especially if we tend to always stay cozy and closing ourselves
+		- It's about opening up the heart and questioning
+	- [[Aversion]] is often a non-openness of the heart
+		- What state is the heart in when we don't feel like going outside?
 
 ## Talk - Freeing the Self
 ### Summary on Emptiness
 - There's suffering and causes of suffering
 	- Craving and clinging are common causes for craving
 	- **We crave and cling because of a deep misunderstanding about who we are, and how the world is**
-	- We don't see the emptiness of thing, the dependent co-arising
+	- We don't see the emptiness of things, the dependent co-arising
+- Things neither exist nor they don't exist ([[The Middle Path]])
+		- We can see this through practice
+		- When we hold the Self too tightly, we suffer
 - Emptiness is sometimes taught as the "teaching of disappointment"
-	- Everything becomes meaningless, nihilism
+	- Everything becomes meaningless, [[nihilism]]
 - In reality there's a strong sense of beauty and meaning that can come from it 
 - Emptiness is a tool for freedom
-	- It is a way of looking that we pick up and put down
+	- **It is a way of looking that we can pick up and put down**
 	- It is complementary to the "View of Self"
 		- We can learn to use the "View of Self" as another freeing, useful tool
 	- Both can be true
@@ -80,10 +95,10 @@ Element of **faith**([[The 5 Heroic Motivations]]), we are planting the seeds wi
 - We identify with our personality, our body, or even with awareness
 - Often we have negative self-identifications
 	- Can we see that those are not true?
+	- However we define ourselves, our definition is not going to ALWAYS hold true
+		- If it is not always true, we cannot say it to be true 
 - Positive self-definitions can be a good stepping stone, but eventually also lead to suffering and are not true
 	- We have to constantly prove our self-worth to others
-- However we define ourselves, our definition is not going to ALWAYS hold true
-	- If it is not always true, we cannot say it to be true 
 - **==Emptiness of Self doesn't mean there's an erasure of personality==**
 	- Are we moving to normalcy and conformity?
 	- **==Emptiness means we are free to express our individuality==**
@@ -97,6 +112,7 @@ Element of **faith**([[The 5 Heroic Motivations]]), we are planting the seeds wi
 - Some of these self-definitions might be partially true
 	- **How are these definitions bounding, limiting, constraining the possibility of our Self?**
 - Reification blocks love
+	- Not only when we create tight definitions about the self, but also about others
 	- **If we feel a stronger sense of love as we let go of our self-reification, it's a sign that we are on the right track**
 - We can expand, open up our self-view by honoring and loving the fullness of self
 	- All the manifestations, parts of our self
@@ -158,6 +174,7 @@ Element of **faith**([[The 5 Heroic Motivations]]), we are planting the seeds wi
 	- Opens a self-view that's more in line with emptiness
 - The way we see things is the fundamental thing that gets us in trouble
 	- Avijja = Ignorance/Delusion
+	- The self, [[Ego]] wants to be the star of the show and that's why we blame ourselves ignoring the many conditions that were in place as well
 	- At lots of different levels we have a wrong view that hurts us
 - Unconsciously we interpret events or emotions as meaning something about our self
 	- e.g. "I'm feeling sad, it must mean I'm a failure" (it may also be non-verbalized thoughts, or images that we interpret in some ways)
@@ -166,9 +183,11 @@ Element of **faith**([[The 5 Heroic Motivations]]), we are planting the seeds wi
 	- Of oneself, of other people, of our lives etc...
 	- Changing from a view of "how I feel, what I need" to "how can I support others?"
 - Metta softens our view, making it more flexible and malleable
+	- Allowing us to consider the inner and outer causes and conditions for events and not blaming our selves
+	- Allowing us to shift between different [[Ways of Looking]]
 
 ## Talk - Contact and Construction of the Self
-- **When there is suffering, there is fabrication of the self"
+- **"When there is suffering, there is fabrication of the self"**
 
 ### Dealing with Fabrication
 - Seeing that the Self is fabricated
@@ -180,10 +199,13 @@ Element of **faith**([[The 5 Heroic Motivations]]), we are planting the seeds wi
 - Simplifying attention
 	- Fabrication makes the mind spin agitatedly
 	- Focus on the simple present, allowing the unpleasantness (we might have aversion to it)
+- If the mind is caught up in the [[comparison trap]], judging yourself or others based on something, it can be useful to imagine a 3rd person either judging you or feeling judged by you
+	- That will clearly show you the silliness of comparing and judging
 
 ### Practice of "Staying at Contact"
-- Practicing "bare attention"
+- Practicing "bare attention" ([[Mindfulness]])
 	- Coming back to the bareness of sensations
+	- Instead of keeping a narrow focus, jumping from sensation to sensation trying to keep and expanded level of awareness that includes different sesations
 	- No labels, no fabrication of the mind
 	- If labels come up, just coming back to sensations
 		- **In a way labeling also creates the experience**
@@ -194,3 +216,153 @@ Element of **faith**([[The 5 Heroic Motivations]]), we are planting the seeds wi
 	- Looking only at thoughts might be tricky, easy to get distracted
 - It can be easier to look at thoughts while keeping a spacious awareness of all sensations that come up
 - We may find a sense of relief, or find a sense of beauty in the rawness of sensations
+
+## Ways of Looking - Anicca
+- Insight as a kind of seeing or understanding that brings freedom
+- Two types of insights
+	- Aha moment (something become clear in meditation)
+	- Sustaining ways of looking that bring freedom over time
+		- [[comparison trap]] is a unskillful way of looking, that fabricates a lot of self
+		- [[Mindfulness]] (bare attention) is another way of looking, but a more skillful one that constructs less
+	- [[Ways of Looking]] often become a [[mental habit]] that we're not even aware of
+
+### Three Characteristics
+1. Anicca ([[everything constantly changes (impermanence)]]) - (also means uncertainty)
+2. Dukkha (unsatisfactoriness)
+3. [[Anatta (no-self)]]
+
+### Anicca as a practice
+- Paying particular attention to moment-to-moment changes
+	- In sensations, moods, etc...
+- Practice paying attention to the subtle changes in the sound of the bell
+- While eating, noticing the changing sensations that come up
+
+> "What we call the body is a field of changing sensations"
+
+- Paying attention to arising and passing away of thoughts, sensations, etc....
+	- Even more subtle, noticing the arising of intentions (for example while walking, the intention of taking the next step, or the intention to move at certain times)
+	- Eventually, we can also start noticing the impermanence of the sense of self
+
+### Why Practice with Anicca?
+- Learning to see the impermanence of things allow a natural tendency to let go
+	- We don't even have to think about it
+	- Once we see change, we learn to let go
+- When things feel solid and substantial, they have more power over us
+	- Depression or pain could seem unsurmountable, so heavy, but seeing impermanence, we can see a lot of gaps in it (moments of joy etc...). We also know that they won't last in the long run
+	- Impermanence starts to open us to [[Emptiness]]
+- We notice that the self ([[What is the Self]]) is also impermanent
+	- We cannot find this self that we consider to be real
+	- Not an intellectual exercise, the understanding arises in the felt-sense
+- 
+
+### Impermanence, Love, Emptiness Q&A
+- Emptiness is sometimes called groundlessness
+	- Starting to realize emptiness can bring up some [[fear]], and that's ok
+	- Instead of becoming afraid of fear and trying to escape from it, we can welcome it as a feeling
+	- Alternatively, if it's too strong we can stop practicing for the moment or shift to Metta practice
+- Love is also empty
+	- However, in practice we can see that when cultivating or dwelling in Love we are constructing less
+	- We notice that to be in a state of anger requires a lot more fabrication
+
+## Reflections on Commitment and Ardency
+- [[Commitment]] intended as commitment to the Dharma
+- Are you involved or committed?
+	- The chicken making the egg is involved, the pig is committed
+- Commitment involves giving one's whole self
+- Commitment does not allow to leave all the options open
+	- In a way it is a reduction of freedom
+	- We pledge to commit
+
+[[Goethe]] on Commitment
+> Until one is committed, there is hesitancy,
+the chance to draw back,
+always ineffectiveness.  
+Concerning acts of initiative (and creation)
+there is one elementary truth,  
+the ignorance of which kills countless ideas and splendid plans:  
+That the moment one definitely commits oneself then Providence moves too.  
+All sorts of things occur to help one that would never otherwise have occurred.  
+A whole stream of events issues from the decision, raising in one’s favor
+all manner of unforeseen incidents
+and meetings
+and material assistance which no man could have dreamt would have come his way.  
+Whatever you can do, or dream,  you can begin it.  
+Boldness has genius, power and magic in it.  
+Begin it now.
+
+The Buddha's Commitment to not get up from under the tree until reaching enlightenment
+
+Talks about [[Goals in Spiritual Practice]] and motivation
+- What lights your fire?
+- What motivates you to practice?
+
+- We can cultivate our motivation
+	- In the Tibetan tradition you continuously remind yourself that you are practicing for the good of all beings
+- It's important to pay attention to the quality of our motivation
+	- That also constantly changes
+	- You can also have unwholesome motivations (e.g. not wanting to be disturbed)
+
+## Ways of Looking - Dukkha
+- Dukkha → Unsatisfactoriness
+	- Clinging and aversion are big contributors to the fabrication of Self and Dukkha (they are two sides of the same coin "*I feel aversion to loneliness an craving for romance*")
+- Because of their fleeting, impermanent nature, events, phenomenons we perceive are unsatisfactory
+	- We can't find permanent, fulfillment in any one thing, experience, phenomenon
+- Idea of holy discontent in Christian tradition
+
+### 1 Practice
+- Deliberately seeing and labeling things as "unsatisfactory"
+	- The bird sounds beautiful, but it won't bring permanent happiness
+	- Similar to the impermanence practice
+- This view supports letting go and not-clinging in the moment
+- Different from boredom or aversion
+	- This practice doesn't lead to a grim look at the world
+	- Not life denying
+	- Rather it doesn't limit life to the normal mode of looking
+
+### 2 Practice
+- Noticing in the body when aversion or grasping are there and seeing if we can relax them (relaxing the body usually relaxes aversion)
+	- More subtle than noticing aversion or grasping in thoughts
+		- Feelings of contraction etc...
+	- Sometimes it can get even subtler, in the energy body
+- Focus is not n the aversion or clinging, but on our relationship to it
+	- Opening up the awareness to the energy body can help
+
+## Ways of Looking - Anatta
+- Normally we have a conscious and unconscious habit to regard things as me or mine
+- In this practice, we deliberately start seeing things as "not me, not mine"
+	- This letting go of identification brings freedom
+	- There's a degree of suffering in appropriating things as me or mine
+	- **A gentle, simple label "not me, not mine" can be really helpful**
+- If we feel agitated, we can practice disidentifying from the agitation etc...
+
+- It's useful to start with external things (car, furniture, lover, loved ones)
+	- Recognizing those are not mine bring freedom
+- Disindentifying with sensations may be easier than the body
+
+### Using the Aggregates
+[[the 5 aggregates]] (Khandas)
+- Body
+	- If the body was mine I'd be in full control of it
+	- Are my nails and hair "mine"? How much can I chop off to still regard me as me?
+	- Using metta going through this process to avoid disconnecting or rejecting one's body
+		- Recognizing the miracle
+- Vedana (sensations - pleasant, unpleasant)
+- Perceptions (discriminating between this and that)
+- Mental formations (movements of the mind - thoughts, intentions, aversion, clinging)
+- Consciousness (Knowing)
+- Some teachers claim the Buddha said that human being is just these five aggregates
+- Rather these are just a practical guide to help disidentify
+- They are the things that we're most likely to identify with and should watch out for
+
+### What to watch out for
+- Being careful to not include aversion in the practice
+	- Seeing something as "not self" means we can let it be there
+	- Sometimes we see pain as not self as we want to get rid of it
+- Kink in the carpet
+	- It can be tempting to try to get rid of the self sense
+		- If we do, like a kink in a carpet, the self sense will come out somewhere else
+	- We're just concerned with learning to regard phenomena in this moment as not self
+
+### Questioning Reality
+- Realizing the [[Emptiness]] in things will free us from [[Attachment]] to them
+	- Important to know that there's also [[Healthy Clinging]]

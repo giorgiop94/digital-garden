@@ -1,5 +1,7 @@
-Services that the Earth's ecosystem provide to humans and to other forms of life.
+Ecosystems provide "services" such as food, water or timber, but also values that are less visible or not perceived at all.including supporting, regulating and cultural services. These were later categorised and systematised in the **Common International Classification of Ecosystem Services (CICES)**
 
+
+Services that the Earth's ecosystem provide to humans and to other forms of life.
 1. Provisioning goods and services
 	- Food, water, wood etc..
 2. Supporting Services

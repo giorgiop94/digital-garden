@@ -30,6 +30,6 @@ choosing one, not the other. [[Sam Hamill]]
 -------------------
 
 Related: 
-- Excess of anything hurts → [[Not too tight, not too loose]]
-- [[Happiness is Absence of Desire]]
+- Excess of anything hurts → [[The Middle Path]]
+- [[happiness is the absence of desire]]
 - Trusting that [[the Universe is unfolding exactly as it should]]

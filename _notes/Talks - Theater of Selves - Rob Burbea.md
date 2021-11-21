@@ -2,13 +2,14 @@
 title: Talks - Theater of Selves - Rob Burbea
 ---
 Talks by [[Rob Burbea]]
+Concepts: [[Emptiness]]  | [[Emptiness of self]] | [[What is the Self]] |[[Imaginal practice]] | 
 
 
 ## Talk 1
 - Mindfulness is not the ultimate point of the dharma
 	- Realizing the emptiness of all things is
 	- This brings the most radical level of freedom
-- Mindfulness, metta, and other practices are ways of looking that help us realize how things appear different dependent on the ways of looking
+- Mindfulness, metta, and other practices are ways of looking that help us realize how things appear differently dependent on the ways of looking
 
 - [[Beliefs are immensely powerful]]
 	> the concepts that we have, consciously or unconsciously, are immensely powerful, they become the lenses through which we look at ourselves and the world. **Concepts become views, whether we are aware of it or not. Concepts become views, and those views have the power to block or limit our experience. Or they have the power to open and deepen our experience**. And especially concepts about the path, and especially concepts about images
@@ -25,7 +26,7 @@ Quick summary of possible approaches
 		- They are not the solid reality that they seem to be
 2. Quieting the mind in meditation may make personality quiet as well
 	- You can move in/out of the state where there is personality
-3. Seeing the impermanence of things ([[everything constantly changes (impermanence)]])
+3. Seeing that [[everything constantly changes (impermanence)]]
 	- Sense of self may seem steady, but everything else is constantly changing, how can it be?
 4. Asking "Who Am I?" over and over
 	- Not looking to arrive at an answer, but dissolving all limited answers
@@ -52,7 +53,7 @@ Quick summary of possible approaches
 	- Modern life is psychologically complex in a way that it wasn't at the time of the Buddha
 
 ### Imaginal Practice
-- Imaginal practice is another way to realize Anatta
+- [[Imaginal practice]] is another way to realize Anatta
 	- This approach doesn't oversimplify
 - We already use imagination in some of our practices, but don't pay too much attention to it
 	- In metta, imagination helps cultivating loving kindness
@@ -71,7 +72,7 @@ Quick summary of possible approaches
 	- We could challenge its statements and assumptions and see that they are often wrong
 	- Or we could bring kindness, softness and try to deeply understand it
 - We should be careful about the assumptions we project on to the inner critic
-	- It is possible that it is only a clumsy protector who wants the best for us
+	- It is possible that it is only a clumsy protector who wants the best for us?
 	- Maybe it is just trying to push us to express our full potential
 	- Maybe it is our conscience or some inner angel that perhaps wants more from us
 		- More authenticity, connection, kindness, energy etc...
@@ -110,7 +111,7 @@ Quick summary of possible approaches
 - Not only about saying "I am not just one self" (like in [[Thich Nhat Hanh]]'s *[Call me by my true name](https://plumvillage.org/articles/please-call-me-by-my-true-names-song-poem/)*)
 	- There we're saying I am that person too, and that other etc...
 	- There it's about letting go of self and not to judge others
-- We actually want to enliven these persons
+- **We actually want to enliven these persons**
 	- Enter them and have them enter us
 	- While still knowing image as image
 
@@ -123,7 +124,7 @@ Quick summary of possible approaches
 		- Gaze into their eyes
 		- Focus on their back, at the base of the spine (Rob says he has no idea why this works)
 	- How do they see you?
-- The presence of mindfulness differentiates papancha from imaginal practice
+- The presence of mindfulness (energy body) differentiates papancha from imaginal practice
 	- Using the body to discern if one is on the right track
 		- The body will feel more open and calm
 
@@ -149,7 +150,7 @@ Quick summary of possible approaches
 ### Meaningfulness, Love, Imagining Ourselves
 - We should be careful about assigning a specific meaning to an image
 	- Rob talks about meaningfulness
-- The image is the message
+- **The image is the message**
 	- "Angel" means messenger
 - Many different relationships with the angel
 	- You may identify with the image, "the angel is you"
@@ -170,17 +171,17 @@ Quick summary of possible approaches
 	- You can lean into it in meditation and come out of it
 	- It might even be foolish to try to live always in bare attention
 - Images fantasy can never go away, they pervade our life
-- Dharma as a play betweeen [[Emptiness]]and [[Ways of Looking]]
+- Dharma as a play between [[Emptiness]]and [[Ways of Looking]]
 	- Mindfulness is a part of it (a way of looking), but not the whole thing
 
 ### Concepts and Assumptions Are Always There
-- We have always assumptions and concept operating in the background
+- We have always assumptions and concept operating in the background (logoi)
 	- About images or anything else
 	- Whenever there is perception, we have assumptions and concepts
 	- They affect our path and our life tremendously ([[Beliefs are immensely powerful]])
 		- The concept of catharsis brings more experience of catharsis (simplistic explanation of more complex thing)
 - To assume we don't hold assumptions and concepts is not only wrong but dangerous
-	- Unconscious assumptions that we don't even know we hold are the most powerful
+	- Unconscious assumptions that we don't even know we hold are the most powerful [[Beliefs are immensely powerful]]
 
 ### Concepts on Images
 - Images are often regarded as parts of us, coming from our past
@@ -241,15 +242,15 @@ Part of a [Poem](http://poetry-chaikhana.com/Poets/R/RilkeRainerM/ManWatching/in
 
 ### Emptiness and Fantasy
 - We are not talking about reality, they are not literal
-	- The deeper the insight into [[Emptiness]] the more we can play with these "wild ideas"
-	- At the same time Imaginal practice can help us gain insight into [[Emptiness]] and [[Emptiness of self]]
+	- The deeper the insight into Emptiness the more we can play with these "wild ideas"
+	- At the same time Imaginal practice can help us gain insight into Emptiness and [[Emptiness of self]]
 
-> We can talk of self knowing that self is empty. And anyone who practises a lot still talks about self, knowing it’s empty. Same is true of angels. We can talk of the angel in an image, or in an object, or in a behaviour, and know we’re not talking about something concrete and real in that sense. Same with conceptual frameworks and concepts. We can talk of them, entertain them, use them, go for a ride with them, and know that they’re not real, they’re not reality. And same with this strange word, ‘soul.’ It’s not a thing. We can talk about it as an entity and think of it that way. We can also talk about it more as a way of looking. It’s a way that opens up, to look with soul, to enter into a relationship with soul, with this resonance, with these depths.
+> **We can talk of self knowing that self is empty. And anyone who practises a lot still talks about self, knowing it’s empty. Same is true of angels. We can talk of the angel in an image, or in an object, or in a behaviour, and know we’re not talking about something concrete and real in that sense.** Same with conceptual frameworks and concepts. We can talk of them, entertain them, use them, go for a ride with them, and know that they’re not real, they’re not reality. And same with this strange word, ‘soul.’ It’s not a thing. We can talk about it as an entity and think of it that way. We can also talk about it more as a way of looking. It’s a way that opens up, to look with soul, to enter into a relationship with soul, with this resonance, with these depths.
 
 - There's a mythology, fantasy in Buddhism as well
 - There's also the myth of no myth in existential dharma
 
-> we cannot live in an unfabricated state. You can’t even live staying at contact. And it would be a silly thing to try and do. We need meaningfulness in our lives. We need that.
+> **we cannot live in an unfabricated state. You can’t even live staying at contact. And it would be a silly thing to try and do. We need meaningfulness in our lives. We need that.**
 
 #### Case Against Realism
 - Some people argue that they're not into myth, they're realists

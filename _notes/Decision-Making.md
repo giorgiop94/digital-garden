@@ -24,6 +24,16 @@ title: Decision-Making
 - [[the map is not the territory -menu is not the food-]]
 - [[What you want now vs what you want most]] 
 - [[Collective Decision-Making]]
+	- Consensus
+	- Consent
+	- Mandate
+	- Advice
+
+## Heuristics
+- Affect
+	- Letting one's emotions significantly impact the decision
+	- Researchers have found that when you are in a positive emotional state, you are more likely to perceive an activity as having high benefits and low risks
+		- If your emotional state is negative, on the other hand, you are more inclined to see the activity as being low in benefits and high in risk.
 
 -------------------
 Created on: 2020-10-20

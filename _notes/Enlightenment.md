@@ -12,7 +12,7 @@
 - [[Talks - Questioning Awakening Rob Burbea]]
 
 ## The idea of You is an illusion, a fabrication
-- [[What is the Self -identity-]]
+- [[What is the Self]]
 - I is a fabrication of the [[Ego]]
 	- The ego is a collection of thoughts and stories about yourself and the world
 	- It creates our World - [[We see things as we are]]

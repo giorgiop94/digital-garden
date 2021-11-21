@@ -5,10 +5,11 @@ title: Rob Burbea
 - **[[Meditation]] as an infinite playground of [[ways of looking]] at experience**
 	- There are different ways of looking available to us which unfold different existences
 	- Any way of looking is fabricating reality
-- [[Emptiness]]
+- [[Emptiness]] as the basis of Dharma
 	- Insight defined by its capacity to decrease dukkha
 	- Practicing with insight as starting point
 - [[SoulMaking Dharma]]
+	- Eros-Psyche-Logos Dynamic
 - Dharma as art → [[Talks - Questioning Awakening Rob Burbea]]
 	- Creative, Desire, Play, Beauty, Not one truth
 - [[Goals in Spiritual Practice]]
@@ -25,6 +26,7 @@ title: Rob Burbea
 ### Samadhi
 - [[Talks - Samatha Retreat - Rob Burbea]]
 - [[Talks - The Art of Concentration Retreat - Rob Burbea]]
+- [[Talks - Practicing the Jhanas - Rob Burbea]]
 
 ### Emotions/Desire
 - [[Talks - Beauty of Desire - Rob Burbea]]
@@ -32,6 +34,8 @@ title: Rob Burbea
 - [[Talks - Ending the Inner Critic - Rob Burbea]]
 - [[Talks - Freedom From Fear and Anxiety - Rob Burbea]]
 - [[Talks - Emotional Healing - Rob Burbea]]
+- [[Talks - An Ecology of Love - Rob Burbea]]
+- [[Talks - Eros Unfettered - Opening the Dharma of Desire - Rob Burbea]]
 
 ### Insight
 - [[Talks - Metta and Emptiness - Rob Burbea and Catherine McGee]]

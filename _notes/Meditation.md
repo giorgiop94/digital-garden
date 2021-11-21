@@ -65,6 +65,11 @@ Your aspirations create your understanding of the path
 - Mantras
 - Visualizations
 
+## Practical Tips
+From Aro course:
+> Meditation is relaxing – but an empty mind is not meditation. **A drifting mind that slowly slides from thought to indistinct thought is not meditation. States of vagueness may be a pleasant respite from a busy or stressful life – but there is no insight available there**. Meditation requires alertness and precision – combined with gentleness and humour.
+
+> Meditate whole-heartedly. Throw yourself into it. Do not hold back. **Effort generates its own energy. Become passionate**. A meditation master once said: ‘Meditate as if your hair is on fire.’
 
 ## Metaphors
 - The body is the anchor to the present moment. The thoughts are the waves. We can't stop the waves but we can learn to surf (Observe the thoughts without getting carried away)
@@ -77,7 +82,7 @@ Your aspirations create your understanding of the path
 	- Just be aware of it from a detached perspective, choiceless, indifferent
 - [[Rob Burbea]] finds nothing wrong with pleasure in meditation	
 	- The Buddha seems to have said: *The pleasure of calmness is a pleasure I'll allow myself*
-	- **==Creating a reservoir of pleasure and well being in practice allows us to let go and renounce material things==**
+	- **==Creating a reservoir of pleasure and well being in practice allows us to let go of material things==**
 	- We need less to be satisfied (food, entertainment, stuff)
 	- No need to be comfortable or security
 	- We become more available to others

@@ -30,7 +30,7 @@ she is present, and can welcome all things.
 1: [[Truth is never expressed in words]]
 2: [[Mindfulness]]
 3: [[Wu Wei]]
-4: [[Happiness is Absence of Desire]]
+4: [[happiness is the absence of desire]]
 
 ## Other translations I like
 The ancients who followed Tao: Dark, wondrous, profound, penetrating. 

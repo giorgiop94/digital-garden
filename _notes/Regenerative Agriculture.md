@@ -1,34 +1,39 @@
+Moving from farming as a factory to farming as an ecosystem
+
 ## What is regenerative agriculture?
 - Regenerative Agriculture helps to build soils
 - Regenerative Agriculture is a continuum → From very degenerative (destructive) to more regenerative
+- Regen ag can help us begin a [[Self-Reliance Revolution]]
 
 ![Regenerative Agriculture](assets/Regenerative Agriculture.png)
 
-#### Regenerative Agriculture Practices
-From [[Paper - Food in the Anthropocene the EAT–Lancet Commission]]
->  incorporating farm organic wastes into soil, low or no tillage, nitrogen-fixing cover plants, replacement of annuals with perennial crops and pastures, agroforestry, establishing buffer strips, and keeping some farmland with natural vegetation.
-	
 ### Characteristics of regen ag 
 - High Diversity, Resilience, Local
 - Little waste and pollution, no tillage
 - [[soil health is essential]]
 
-### Self-Reliance Revolution
-From [Podcast - A Quiet Boycott with David Holmgren (For The Wild Podcast)](https://open.spotify.com/episode/4sheDC3SI24rH5chc7X8Bf?si=f131da3f3dc44847)
+#### Regenerative Agriculture Practices
+- 	- Agroforestry
+	- Polyculture
+	- No-till
+		- Tilling turns the soil around before planting new crops (thought to increase productivity)
+		- Massively disturbs soil health
+		- No-till draws carbon from the atmosphere, while tilling does the opposite
+	- Multicropping
+	- Rewilding
+	- Cover-cropping
 
-- **Individual acts in the form of self-reliance may be more successful than any policy ever could**
-	- Being dependent on and benefiting from the systems we are embedded in, we are also complicit
-		- Embodying our radical ideas in our own lives can be much more powerful than demanding changes
-		- We prove they can work
-- Any complex system that works has evolved from a simpler system, we can start setting the foundations for the systems we want to live in
-- **Given the crises affecting the world, self-reliance may make sense any way**
-- It would be a huge strike of labor, consumption and capital with the power of being noticed
+
+From [[Paper - Food in the Anthropocene the EAT–Lancet Commission]]
+>  incorporating farm organic wastes into soil, low or no tillage, nitrogen-fixing cover plants, replacement of annuals with perennial crops and pastures, agroforestry, establishing buffer strips, and keeping some farmland with natural vegetation.
 
 ## Profitability
-
 Paper - The investment Case for Regenerative Agriculture: https://slmpartners.com/wp-content/uploads/2016/01/SLM-Partners-Investment-case-for-ecological-farming.pdf
 
 Paper: Regenerative agriculture: merging farming and natural resource conservation profitably: https://peerj.com/articles/4428/
+
+
+If we want regenerative farms to be really sustainable (in the literal sense of the word), they need to be profitable
 
 ### Risks of Investing in Extractive Agriculture
 1. High and volatile input costs

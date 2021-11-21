@@ -116,7 +116,7 @@ Is it helpful to see **practice as sacred**?
     - hold and respond to the pain
 - Practice reduces some kinds of suffering but opening the heart opens us to different kinds
 - James Hillman - Psychotherapy as anesthesia
-- **Fear is not the same as concern** [[Fear]]
+- **[[Fear]] is not the same as concern** 
     - The latter has a sense of stability 
 - **Part of practice is about taking risk**
     - Risk and insight reinforce each other

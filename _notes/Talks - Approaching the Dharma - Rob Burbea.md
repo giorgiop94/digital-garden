@@ -21,7 +21,7 @@ title: Talks - Approaching the Dharma - Rob Burbea
 
 ### Everything is Fabricated
 - All perception is fabricated (including the sense of "self" perceiving, the sense of [[Oneness]]) 
-- That things exist is one extreme, that things don't exist is another. The Buddhist path is the middle way ([[Not too tight, not too loose]])
+- That things exist is one extreme, that things don't exist is another. The Buddhist path is the middle way ([[The Middle Path]])
 - Any way of looking is fabricating reality
 	- Mindfulness says to be with "what is"
 		- the underlying assumption is that what is, is real
