@@ -1,3 +1,6 @@
+---
+title: Podcast - Rob Burbea on Emerge
+---
 ## A Spiritual Paradigm for The Infinite Game (Ep #1)
 - [Link](https://castbox.fm/vb/85859434)
 	- [Daniel's article to go with it](https://medium.com/@danielthorson/a-spiritual-paradigm-for-the-infinite-game-f43010f08819)
@@ -8,7 +11,7 @@
 - Traditional Dharma is not creating the people set up to radically change the World
 	- Not able to do the social-political work that the world needs
 	- Reduces the journey to healing one's own traumas
-- [[Pitfalls of Spiritual Frameworks]] and attitudes
+- [[Pitfalls of Modern Buddhism]] and attitudes
 
 
 ## Meditation Fantasies & The Soulmaking Dharma (Ep #3)

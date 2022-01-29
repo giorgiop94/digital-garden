@@ -1,3 +1,5 @@
+> *We participate in the creation of the world at the most fundamental level* - [[Rob Burbea]]
+
 *We suffer because we think things are real (independent of the way of looking) and cling to them* 
 
 - Things are empty of independent meaning or significance

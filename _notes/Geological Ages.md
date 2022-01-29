@@ -13,8 +13,7 @@ Cycles have been alternating between Ice ages and warmer periods
 - Great for rainforests and agriculture
 	- Beginning of agriculture at the start of Holocene in four different locations
 ### Anthropocene 
-the period in which humans are the dominant force of geological change on Earth
-
+- the period in which humans are the dominant force of geological change on Earth
 - We're heading to 3C increase in temperature by the end of the century
 
 #### What would make a good anthropocene?
@@ -28,4 +27,4 @@ We need to research to see how we can integrate these three and how they can sup
 -------------------
 Created on: 2020-12-20
 Inspired by: [[Course - Planetary Boundaries]]
-Related: [[Regeneration]]
+Related: [[biosphere stewardship]]

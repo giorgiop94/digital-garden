@@ -25,7 +25,7 @@ and everything will fall into place.
 1: [[avoid greed and compulsive consumption]] [[The Middle Path]]
 2: [[Ambition]]
 3: [[happiness is the absence of desire]]
-4: [[Embrace Uncertainty]] | [[Epistemic Humility]]
+4: [[Embrace Uncertainty]] | [[epistemic humility]]
 5: [[Wu Wei]], [[go with the flow]]
 
 -------------------

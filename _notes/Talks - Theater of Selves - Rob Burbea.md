@@ -11,7 +11,7 @@ Concepts: [[Emptiness]]  | [[Emptiness of self]] | [[What is the Self]] |[[Imagi
 	- This brings the most radical level of freedom
 - Mindfulness, metta, and other practices are ways of looking that help us realize how things appear differently dependent on the ways of looking
 
-- [[Beliefs are immensely powerful]]
+- [[beliefs are immensely powerful]]
 	> the concepts that we have, consciously or unconsciously, are immensely powerful, they become the lenses through which we look at ourselves and the world. **Concepts become views, whether we are aware of it or not. Concepts become views, and those views have the power to block or limit our experience. Or they have the power to open and deepen our experience**. And especially concepts about the path, and especially concepts about images
 
 ### Anatta (Emptiness of Self)
@@ -178,10 +178,10 @@ Quick summary of possible approaches
 - We have always assumptions and concept operating in the background (logoi)
 	- About images or anything else
 	- Whenever there is perception, we have assumptions and concepts
-	- They affect our path and our life tremendously ([[Beliefs are immensely powerful]])
+	- They affect our path and our life tremendously ([[beliefs are immensely powerful]])
 		- The concept of catharsis brings more experience of catharsis (simplistic explanation of more complex thing)
 - To assume we don't hold assumptions and concepts is not only wrong but dangerous
-	- Unconscious assumptions that we don't even know we hold are the most powerful [[Beliefs are immensely powerful]]
+	- Unconscious assumptions that we don't even know we hold are the most powerful [[beliefs are immensely powerful]]
 
 ### Concepts on Images
 - Images are often regarded as parts of us, coming from our past

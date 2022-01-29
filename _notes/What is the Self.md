@@ -1,6 +1,10 @@
 > Trying to define yourself is like trying to bite your own teeth. - [[Alan Watts]]
 
 ## Who is Your Self?
+
+We often see our Self, as an autonomous, independent entity, separate from others and the environment ([[illusion of separation]]) 
+
+### Levels of Magnification
 > Who is Your Self?
 You, The Universe? Depends on your perspective
 What is conflict at one **level of magnification**, is harmony at another level
@@ -8,7 +12,6 @@ Space and bodies in the space are two aspects of the same continuum, you cannot 
 
 [Alan Watts Mash up](https://soundcloud.com/farhar/how-to-grow-alan-watts-mash-up)
 
-### Levels of Magnification
 
 [Cosmic Eye Video](<iframe width="560" height="315" src="https://www.youtube.com/embed/8Are9dDbW24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
 

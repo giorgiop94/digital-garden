@@ -1,7 +1,7 @@
 ---
-title: Everything is interconnected -interbeing-
+title: everything is interconnected -interbeing-
 ---
-This is strongly connected to [[Regeneration]] and the fact that believing that we are separate from Nature causes us to abuse it, destroy it
+This is strongly connected to [[biosphere stewardship]] and the fact that believing that we are separate from Nature causes us to abuse it, destroy it
 
 - Our health is connected to the health of the Earth (and soil)
 
@@ -20,6 +20,11 @@ This is strongly connected to [[Regeneration]] and the fact that believing that 
 -------------------
 
 > The real system is interconnected. No part of the human race is separate either from other human beings or from the global ecosystem. It will not be possible in this integrated world for your heart to succeed if your lungs fail, or for your company to succeed if your workers fail, or for the rich in Los Angeles to succeed if the poor in Los Angeles fail, or for Europe to succeed if Africa fails, or for the global economy to succeed if the global environment fails. [[Book - Thinking in Systems - Donella Meadows]]
+
+-------------------
+
+> The individual body is in certain ways separate from others – although not totally, because it merges with air and light and food. There is no place where the body really ends – its boundary is relative. We can’t say that when an oxygen molecule comes into the body, it suddenly becomes alive, and that when it leaves as carbon dioxide it’s dead. We must say that there is really no sharp end to the body [[Book - On Dialogue - David Bohm]]
+
 
 -------------------
 

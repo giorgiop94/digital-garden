@@ -22,7 +22,7 @@ title: Talks - Eros Unfettered - Opening the Dharma of Desire - Rob Burbea
 - If we really let go of clinging, the world does not appear, self does not appear
 	- Clinging is necessary for perception
 
-- [[Tantra]] practice is "faking" (in a good sense) a Buddha Mind
+- [[Buddhist Tantra]] practice is "faking" (in a good sense) a Buddha Mind
 	- We allow emptiness to pervade our way of looking, but not as much as letting the objects fade
 	- Walking a tightrope
 
@@ -327,11 +327,11 @@ Only consider appearances, without assumptions that appearances come from the br
 - If we're going to open the territory of Eros and soulmaking with integrity and intelligence, we need to bring a certain amount of wisdom and art to the process
 	- Fire demands care, yet it is necessary for us to thrive
 
-- [[Every path has its dangers]], even seemingly innocent ones like mindfulness
+- [[every path has its dangers]], even seemingly innocent ones like mindfulness
 	- Papers about mental destabilization coming from mindfulness practice
 	- Feeling of being "neutered" practicing it
 
-- [[Vajrayana]] requires some preliminaries to be practiced before approaching [[Tantra]]
+- [[Vajrayana]] requires some preliminaries to be practiced before approaching [[Buddhist Tantra]]
 	- Ethics, understanding of emptiness, devotion etc...
 
 ### "Preliminaries" Practicing with Eros
@@ -357,6 +357,24 @@ These can be considered as a **"skillset" that we can develop**
 
 ## Opening the Dharma of Desire 
 - Rob came across a practice to work with desire
+	- "*Just let go*" is certainly an option, but it comes at a cost. What are we losing if we do so?
 - **Is it possible that the contraction of craving is a result of not allowing the energy of the deeper desires to unfold and be felt?**
-	- Craving involves contraction and moving away from present moment (we get lost in daydreaming) 
+	- Craving involves contraction and moving away from present moment (we get lost in daydreaming)  
+
 - [[Opening to the Deeper Current of Desire - Practice]]
+
+### Inquiry Into Desire
+- Soulmaking always involves some inquiry
+	- Questioning assumptions, expanding the Logos
+
+- Assumptions we can question
+	- Desire comes from the ego or build the ego
+	- Desire leads to suffering
+
+- How we conceive of desire will make a big difference in our sense of self, world, cosmos and desire
+	- Desire is inextrinsically interwoven with all of that
+
+- Is there a difference between:
+	- desire acted on
+	- desire as divine influx
+	- desire originated in lack (lack of a sense of self)

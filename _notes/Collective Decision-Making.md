@@ -124,6 +124,6 @@ More resources: https://help.loomio.org/en/guides/
 -   [Generative Decision Making](http://bit.ly/generative-decisions)
 -------------------
 Created on: 2021-02-18
-Inspired by: [[Richard Barlett]]
+Inspired by: [[Richard Bartlett]]
 Link: https://www.thehum.org/post/decision-making-methods-for-decentralised-teams
 Related: [[Decentralized Organizations]] | [[Decision-Making]]

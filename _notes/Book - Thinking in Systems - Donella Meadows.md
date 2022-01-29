@@ -96,7 +96,7 @@ Many relationships in systems are nonlinear. Their relative strengths shift in d
 So the world often surprises our linear-thinking minds. If we’ve learned that a small push produces a small response, we think that twice as big a push will produce twice as big a response. But **in a nonlinear system, twice the push could produce one-sixth the response, or the response squared, or no response at all.**
 
 ### Forgetting about Delays
-When there are long delays in feedback loops, some sort of **foresight is essential**. To act only when a problem becomes obvious is to miss an important opportunity to solve the problem. (example of [[Climate change]])
+When there are long delays in feedback loops, some sort of **foresight is essential**. To act only when a problem becomes obvious is to miss an important opportunity to solve the problem. (example of [[climate change]])
 
 ### Missing the Whole
 #### Different Levels of Magnification
@@ -111,7 +111,7 @@ our models fall far short of representing the world fully. That is why we make m
 
 #### Forgetting that Boundaries are Fabricated
  systems rarely have real boundaries. **Everything, as they say, is connected to everything else**, and not neatly. There is no clearly determinable boundary between the sea and the land, between sociology and anthropology, between an automobile’s exhaust and your nose. There are only boundaries of word, thought, perception, and social agreement—artificial, mental-model boundaries.
-- [[Everything is interconnected -interbeing-]]
+- [[everything is interconnected -interbeing-]]
  
  If we’re to understand anything, we have to simplify, which means **we have to make boundaries**. Often that’s a safe thing to do
 
@@ -270,7 +270,7 @@ There is a systematic tendency on the part of human beings to avoid accountabili
 ### 4. Self-Organization
 *The power to add, change, or evolve system structure*
 
-The ability to self-organize is the strongest form of system [[Resilience]]. A system that can evolve can survive almost any change, by changing itself. The human immune system has the power to develop new responses to some kinds of insults it has never before encountered.
+The ability to self-organize is the strongest form of system [[resilience]]. A system that can evolve can survive almost any change, by changing itself. The human immune system has the power to develop new responses to some kinds of insults it has never before encountered.
 
 **Any system, biological, economic, or social, that gets so encrusted that it cannot self-evolve, a system that systematically scorns experimentation and wipes out the raw material of innovation, is doomed over the long term on this highly variable planet.** The intervention point here is obvious, but unpopular. **Encouraging variability and experimentation and diversity means “losing control.”** Let a thousand flowers bloom and anything could happen! Who wants that? Let’s play it safe and push this lever in the wrong direction by wiping out biological, cultural, social, and market diversity ([[Embrace Uncertainty]])
 
@@ -297,7 +297,7 @@ You keep **pointing at the anomalies and failures in the old paradigm**. You kee
 Systems modelers say that we change paradigms by **building a model of the system, which takes us outside the system and forces us to see it whole**. I say that because my own paradigms have been changed that way.
 
 ### 1. Transcending Paradigms
- There is yet one leverage point that is even higher than changing a paradigm. That is to **keep oneself unattached in the arena of paradigms, to stay flexible, to realize that no paradigm is “true,” that every one, including the one that sweetly shapes your own worldview, is a tremendously limited understanding of an immense and amazing universe that is far beyond human comprehension** 
+ There is yet one leverage point that is even higher than changing a paradigm. That is to **keep oneself unattached in the arena of paradigms, to stay flexible, to realize that no paradigm is “true,” that every one, including the one that sweetly shapes your own worldview, is a tremendously limited understanding of an immense and amazing universe that is far beyond human comprehension** ([[Metamodernism]])
 
 If no paradigm is right, you can choose whatever one will help to achieve your purpose. If you have no idea where to get a purpose, you can listen to the universe. 
 It is in this space of mastery over paradigms that people throw off addictions, live in constant joy, bring down empires, get locked up or burned at the stake or crucified or shot, and have impacts that last for millennia.
@@ -328,7 +328,7 @@ But there it was, the message emerging from every computer model we made. Living
 	-  Intrinsic responsibility” means that the system is designed to send feedback about the consequences of decision making directly and quickly and compellingly to the decision makers. (Intrinsic responsibility seems like something to strive for. So decision makers have feedback on their action and can quickly learn and correct. Example of central university thermostat vs one thermostat in each room)
 -  Stay Humble and [[Embrace Uncertainty]]
 	-  In a world of complex systems, it is not appropriate to charge forward with rigid, undeviating directives. “Stay the course” is only a good idea if you’re sure you’re on course. **Pretending you’re in control even when you aren’t is a recipe not only for mistakes, but for not learning from mistakes.**
--  [[Everything is interconnected -interbeing-]]
+-  [[everything is interconnected -interbeing-]]
 	-  The real system is interconnected. No part of the human race is separate either from other human beings or from the global ecosystem. It will not be possible in this integrated world for your heart to succeed if your lungs fail, or for your company to succeed if your workers fail, or for the rich in Los Angeles to succeed if the poor in Los Angeles fail, or for Europe to succeed if Africa fails, or for the global economy to succeed if the global environment fails.
 -  **At any given time, the input that is most important to a system is the one that is most limiting.**
 

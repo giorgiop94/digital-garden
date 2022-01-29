@@ -30,7 +30,7 @@ Links to talks
 	- Accepting that we are impermanent, fragile beings in a world that appears meaningless
 - Human seen as a biological machine
 	- Practice is a way to optimize the functioning of that machine
-- **All these views are popular and common because in line with Modernist view**
+- **All these views ([[consensus buddhism]]) are popular and common because in line with [[Modernism]]**
 	- None of them are hard to understand or explain
 	- Not much is needed in terms of meditative skill
 - Advaita
@@ -59,10 +59,10 @@ Links to talks
 [[Goals in Spiritual Practice]]
 - Some people like having them, it gives a sense of nobility
 	- For others, goals are only related to the ego
-- **If someone practice with mindfulness, how different will their results be from someone who practices emptiness?**
+- **If someone practices with mindfulness, how different will their results be from someone who practices emptiness?**
 - Are we free to inquire into freedom, or do we have to accept the "package" of freedom we receive?
 - Are there different kinds of freedom?
-- Is freedom ever-expanding (break the box you're in and find there's another box, and keep expanding)
+- Is freedom ever-expanding (break the box you're in and find there's another box, and keep expanding)? 
 
 ### Questioning the Mindfulness Goal
 - Mindfulness
@@ -91,7 +91,7 @@ Links to talks
 	- They shape the way we see ourselves, our world etc...
 - Is it what is material, what is commonly agreed upon?
 	- If that's what we agree on, we'll embrace mindfulness but deny imagination
-	- Is psychotherapy true?
+	- Is psychotherapy "true"?
 - How can we expose the assumptions or ideas we have?
 
 ## Buddhism Beyond Modernism (Talk 2)
@@ -118,9 +118,9 @@ Links to talks
     - What about opening to desire to reach freedom? 
         - That shouldn't work according to Buddhism
 
-### Modernism: The Dominant Culture
+### [[Modernism]]: The Dominant Culture
 - Universe as impersonal phenomenon reduceable to laws of physics 
-	- We can now things objectively, indipendently
+	- We can now see things objectively, indipendently
 - Man is the higher intelligence, rationality and empiricism are elevated
 	- Emotion, Eros, Soul are considered as irrelevant
 - We try to reduce everything to neuroscience
@@ -215,7 +215,7 @@ Links to talks
 		- Idea of awakened life, being purged of eros
 	- But even the Buddha doesn't say we should stop our search
 			- Makes desire ok
-- **Beauty** is part of all of them too
+- **[[Beauty]]** is part of all of them too
 	- Scientists see everything in nature as beautiful
 	- Religions are imbued with beauty tied to the idea of God and Heaven, and we see it in their heart
 	- Art, needless to say

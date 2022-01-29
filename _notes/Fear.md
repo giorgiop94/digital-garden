@@ -12,7 +12,7 @@ Fear and [[attachment]]
 > From [[Book - Letting Go - David Hawkins]]
 
 ## What Fear Does
-- Fear doesn't only affect us, it affects reality as we experience it ([[Everything is interconnected -interbeing-]])
+- Fear doesn't only affect us, it affects reality as we experience it ([[everything is interconnected -interbeing-]])
 	- The thing we're afraid of looks more scary when we're afraid
 
 ### Fear likes to wear masks

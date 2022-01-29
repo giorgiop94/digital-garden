@@ -1,4 +1,5 @@
-*an infinite playground of infinite ways of looking at experience* - [[Rob Burbea]]
+> *a playground of infinite ways of looking at experience* - [[Rob Burbea]]
+
 
 ## Why Meditate?
 Different motivations can all co-exist at the same time in different proportion
@@ -15,6 +16,9 @@ Your aspirations create your understanding of the path
     - Seeing the practice as Art and doing it for its own sake
 - Research Approach
     - Practicing to discover things about oneself or consciousness
+
+- [[Meditation and systems change]]
+- [[every path has its dangers]]
 
 ### Medical Benefits
 - Reduces activity in [[Default Mode Network]] (on and off cushion)
@@ -96,7 +100,7 @@ From Aro course:
 	- Goals and desire can motivate us and bring passion into our practice
 - Work is still more important than the outcome
 	- If you can get enlightened without doing any work, a person working to get enlightened will have achieved a lot more than you [[Soryu Forall]]
-	- [[We want the thing without any of the costs (Diet Coke)]]
+	- [[we want the thing without any of the costs (Diet Coke)]]
 
 -------------------
 Created on: 2020-10-29

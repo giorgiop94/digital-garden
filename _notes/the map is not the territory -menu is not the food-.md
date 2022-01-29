@@ -40,6 +40,9 @@ We're like people eating menus instead of dinners
 
 > The approach requires assuming a future worst case far more severe than the past, but also dictates building an institution with a robust set of backup systems. Extra cash, rather than extra leverage. Taking great pains to make sure the tails can’t kill you. Instead of optimizing to a model, accepting the limits of your clairvoyance.
  
+
+[[quantification infuses a false sense of security]]
+
  --------------------------------
 
 Created on: 2020-09-06

@@ -14,7 +14,7 @@ It probably originated from shamanic and animist religions (which used to have a
     - Taoism is about **==adapting and being flexible, just like Nature==**
 
 ### Everything is interconnected
-- [[Everything is interconnected -interbeing-]]
+- [[everything is interconnected -interbeing-]]
 - The world is a sacred and complicated place, we shouldn't try to tamper with it because we don't understand all its connections ([[Complex Systems]])
     - Encourage people to get into different fields of knowledge and find connections, like [[Leonardo Da Vinci]]
 

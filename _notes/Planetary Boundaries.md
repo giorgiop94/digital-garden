@@ -1,16 +1,16 @@
 The boundaries that should not be crossed for us to keep the Earth in its currently desirable state (Holocene)
 
-Some of these boundaries show evidence of planetary scale [[Tipping point -nonlinear- effects]] and some do not. Those that don't show evidence of tipping points, however, are helpful in regulating and preventing tipping points of other boundaries.
+Some of these boundaries show evidence of planetary scale [[tipping points]] and some do not. Those that don't show evidence of tipping points, however, are helpful in regulating and preventing tipping points of other boundaries.
 
 There are strong **interactions** among the different boundaries. Transgressing one boundary may cause cascading effects on others
 
 ## CORE BOUNDARIES
 Operate and regulate the entire Earth system, and they are the endpoint depending upon how the other boundaries operate. 
 
-1. [[Climate change]] (**TRANSGRESSED**)
+1. [[climate change]] (**TRANSGRESSED**)
 	- Climate can get into glacial or extremely hot periods
 	- *Control variable*: GHG Concentration
-2. Biodiversity loss (**TRANSGRESSED**)
+2. [[Biodiversity]] loss (**TRANSGRESSED**)
 	- Biodiversity is key to regulating the Earth's functions and provision of [[Ecosystem Services]]
 		- Pollinating bees and agriculture
 		- Plant carbon sequestration
@@ -19,7 +19,7 @@ Operate and regulate the entire Earth system, and they are the endpoint dependin
 	- Ocean can be in an oxygen rich state or oxygen free 
 5. [[Ozone Depletion]]
 	- Necessary to protect biosphere from harmful radiations
-6. Land Change
+6. [[Land Use Change]]
 	- 40% of land is used for agriculture and urban areas
 		- Affect biodiversity and ecosystem services provision
 7. Biogeochemical loading: Global [[Nitrogen and Phosphorus Cycle]]

@@ -1,9 +1,12 @@
 ## Resilience 101
-A system's ability to maintain its self-organizing capacity, its identity, or its regime.
-
+*A system's ability to maintain its self-organizing capacity, its identity, or its regime.*
+	
 **Resilience is not good or bad**, it is just a systems' property, making the system stay in a desirable or undesirable regime  
 
 **Diversity is the bedrock of resilience**
+- [[diversity builds resilience - homogenization reduces it]]
+- high connectivity within a system that has little diversity amplifies the potential impact of shocks
+
 
 ![Resilience Ball Graph](assets/Resilience Ball Graph.png)
 
@@ -20,12 +23,11 @@ Basins of attraction represent different possible regimes that a system may end 
 
 ### Three Core Dimensions of Resilience
 1) The amount of disturbance a system can absorb and still remain in the same state. 
-	- The lower the resilience of a system, the more likely it is that small shocks will cause [[Tipping point -nonlinear- effects]]
+	- The lower the resilience of a system, the more likely it is that small shocks will cause [[tipping points]]
 2) The degree to which the system is capable of self-organization. 
 3) The degree to which the system can build up and increase the capacity for learning and adaptation.
 
 ### Principles to Make Systems More Resilient
-
 1.  Maintain **diversity** and redundancy (trade off with efficiency)
 2.  Manage connectivity (allow disturbances to spread too)
 3.  Manage slow variables and feedbacks (e.g. climate change, soil quality)
@@ -40,6 +42,12 @@ Basins of attraction represent different possible regimes that a system may end 
 	- You make children more resilient by exposing them to their environment
 		- If you overprotect them they become fragile
 - Usually there are feedback loops in place to prevent a system to go over its boundary of resilience (e.g. human body doesn't go above 42 degrees)
+
+## Resilience Thinking
+- *capacity to live with abrupt or incremental change, and continue to develop*
+	- *accepting complexity, uncertainty and surprise*
+	- **adapting to change more than resisting it ([[Wu Wei]])**
+
 
 ![Resilience Thinking.png](assets/Resilience Thinking.png)
 
@@ -84,4 +92,4 @@ Resources:
 -------------------
 Created on: 2020-12-20
 Inspired by: [[Course - Planetary Boundaries]]
-Related: [[Regeneration]] | [[Complex Systems]] | [[Earth System Resilience]]
+Related: [[biosphere stewardship]] | [[Complex Systems]] | [[Earth System Resilience]]

@@ -551,7 +551,7 @@ Developing Emotional awareness and learning to work skillfully with emotions
 		- Co-creating and immersing oneself in a whole new cosmos
 
 - The word Tantra is pregnant with meaning and significance
-- The basis of [[Tantra]] is the [[Emptiness]] that gives flexibility of conceptual frameworks that allows to **see perceptions as divine** (with the Buddha gnosis that knows the emptiness of everything)
+- The basis of [[Buddhist Tantra]] is the [[Emptiness]] that gives flexibility of conceptual frameworks that allows to **see perceptions as divine** (with the Buddha gnosis that knows the emptiness of everything)
 	- [[Dzogchen]] is also based on this context
 
 ## Sacred Universe: Insight, Theophany, Cosmopoesis (3)

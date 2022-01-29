@@ -1,0 +1,47 @@
+
+
+## Dancing with Complexity
+[[Book - Designing Regenerative Cultures - Daniel Wahl]]
+[[Book - Thinking in Systems - Donella Meadows]]
+
+## Spiritual
+[[Book - Awareness - Anthony DeMello]]
+[[Book - Tao Te Ching - Lao Tzu]]
+[[Book - Seeing that Frees - Rob Burbea]]
+[[Book - Approaching Vajrayana - David Chapman]]
+[[Book - Letting Go - David Hawkins]]
+[[Book - Spiritual Enlightenment - Jed McKenna]]
+[[Book - Absolute Tao - Osho]]
+
+[[Book - Four Agreements - Don Miguel Ruiz]]
+
+### Collective Practices
+[[Book - On Dialogue - David Bohm]]
+
+## Philosophy
+[[Book - Eros - Plato]]
+
+### Stoicism
+[[Book - The Manual - Epictetus]]
+[[Book - A Guide to the Good Life by William Irvine]]
+
+## Self-Improvement
+[[Book - The Subtle Art of Not Giving a Fuck - Mark Manson]]
+
+### Career
+[[Book - How To Fail at Almost Everything and Still Win Big - Scott Adams]]
+
+### Communication
+[[Book - How to Win Friends and Influence People - Dale Carnegie]]
+
+## Social Sciences
+### Behavioral Economics
+[[Book - Elephant in the Brain by Robin Hanson]]
+
+## Fiction
+### Murakami
+[[Book - 1Q84 - Murakami]]
+[[Book - Norwegian Wood - Murakami]]
+[[Book - Men Without Women - Murakami]]
+[[Book - Wind Up Bird Chronichle - Murakami]]
+[[Book - Kafka on the Shore - Murakami]]

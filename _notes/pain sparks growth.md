@@ -11,7 +11,7 @@
 
 ## Stress Creates Adaptation
 #### Hormetic Stressors
-The body needs regular acute challenges.  If kids aren’t exposed to germs, their immune system won’t develop (connected to [[Resilience]]).
+The body needs regular acute challenges.  If kids aren’t exposed to germs, their immune system won’t develop (connected to [[resilience]]).
 
 It is not the stress that makes you stronger, it is the reaction to that stress.  That positive reaction is called recovery.   The harder you push, the more sleep you need, and the more healthy nutrients your body will require.
 

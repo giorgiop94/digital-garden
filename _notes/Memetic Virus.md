@@ -9,7 +9,7 @@ Large scale examples are:
 
 On a smaller scale, whenever someone is feeling a certain way they spread it to other people. [[emotions are contagious]]
 
-Mainstream media has a huge power to spread these kinds of viruses, but today with [[Social Media]] it is much easier for anyone to spread memetic viruses.
+Mainstream media has a huge power to spread these kinds of viruses, but today with [[social media]] it is much easier for anyone to spread memetic viruses.
 
 Now they are much easier to spread. 
 

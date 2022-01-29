@@ -36,5 +36,5 @@
 -------------------
 Created on: 2021-04-15
 Link: https://kissthegroundmovie.com/
-Related: [[Regeneration]] | [[Food Systems]] | [[Course - Investing in Regenerative Agriculture]] | [[020 Health MOC]] | [[010 Mind MOC]]
+Related: [[biosphere stewardship]] | [[Food Systems]] | [[Course - Investing in Regenerative Agriculture]] | [[020 Health MOC]] | [[010 Mind MOC]]
 

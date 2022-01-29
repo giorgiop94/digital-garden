@@ -1,3 +1,6 @@
+---
+title: Talks - Freedom From Fear and Anxiety - Rob Burbea
+---
 Even the Buddha talked about feeling great fear when he was practicing in the forest (before his enlightenment) and heard some noise
 
 **Fear is workable, freedom from it is possible**
@@ -27,7 +30,7 @@ Our natural tendency to run away from fear only makes it worse
 - **Many fears comes from a lack of self-love**
 
 ### Colors Reality
-- Fear doesn't only affect us, it affects reality as we experience it ([[Everything is interconnected -interbeing-]])
+- Fear doesn't only affect us, it affects reality as we experience it ([[everything is interconnected -interbeing-]])
 	- The thing we're afraid of looks more scary when we're afraid 
 
 

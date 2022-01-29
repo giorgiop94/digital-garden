@@ -1,6 +1,6 @@
 Aerosol = liquid droplets or particles suspended in the atmosphere
 
-Changing the atmosphere's chemistry risks creating unexpected [[Tipping point -nonlinear- effects]]
+Changing the atmosphere's chemistry risks creating unexpected [[tipping points]]
 
 Not one general boundary defined, but a strong case to define sub-boundaries for different types of aerosol 
 

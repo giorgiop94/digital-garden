@@ -20,7 +20,7 @@ title: Talks - An Ecology of Love - Rob Burbea
 	- Both secular humanism and religious fundamentalism don't acknowledge it
 - Where there was sacredness there is now a void
 
-- [[Climate change]] is not just a crisis of technology and [[Capitalism]], it is a crisis of values (and the views that condition our values)
+- [[climate change]] is not just a crisis of technology and [[Capitalism]], it is a crisis of values (and the views that condition our values)
 
 ## Defining Love?
 

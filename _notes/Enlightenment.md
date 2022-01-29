@@ -21,7 +21,7 @@
 		- [[we are slaves of the mind but don't know it]]
 
 ### Related Ideas
-- [[Everything is interconnected -interbeing-]]
+- [[everything is interconnected -interbeing-]]
 	- [[Giving is receiving]]
 	- [[Truly Good is Unconscious of Being Good]]
 	- [[all love is self-love, and the Truest Self-Love is to love All of Existence]]

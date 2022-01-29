@@ -10,7 +10,7 @@ Each individual seeks to be better off in the short-term, at the expense of the 
 
 Things may get worse as people increase their efforts to deplete the resource as quickly as possible to get more themselves and prevent others from taking it. This becomes similar to the idea of Arms race as it creates a [[Reinforcing Feedback Loops]].
 
-More broadly, this system dynamic is defined as a [[Multipolar Trap]]
+More broadly, this system dynamic is defined as a [[coordination problems (multipolar traps)]]
 
 ### Dealing with it
 - [[Ostrom's Framework to Managing Commons]]
@@ -22,4 +22,4 @@ More broadly, this system dynamic is defined as a [[Multipolar Trap]]
 
 -------------------
 Created on: 2020-12-21
-Related: [[Economics]] | [[Regeneration]] |
+Related: [[Economics]] | [[biosphere stewardship]] |

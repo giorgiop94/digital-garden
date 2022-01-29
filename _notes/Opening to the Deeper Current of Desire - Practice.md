@@ -3,10 +3,11 @@ title: Opening to the Deeper Current of Desire - Practice
 ---
 *Is it possible that the contraction of craving is a result of not allowing the energy of the deeper desires to unfold and be felt?*
 
-Rob talks about this practice in Opening the Dharma of Desire pt 1 of the retreat [[Talks - Eros Unfettered - Opening the Dharma of Desire - Rob Burbea]] 
+Rob talks about this in Opening the Dharma of Desire pt 1 of the retreat ([[Talks - Eros Unfettered - Opening the Dharma of Desire - Rob Burbea]] ), as a practice to play with when there's *dukkha*, whether or not it is obvious that there is a desire there.
+
+"*Just let go*" is certainly an option, but it comes at a cost. What are we losing if we do so?
 
 ## 3 Steps to the practice
-Practice to play with when there's *dukkha*, whether or not it is obvious that there is a desire there
 
 ### 1. Ask what am I really/deeply wanting?
 - Sit with the question for some time
