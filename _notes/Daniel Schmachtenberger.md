@@ -2,6 +2,7 @@
 title: Daniel Schmachtenberger
 ---
 ## Key Ideas
+### Avoiding/Addressing Existential and Catastrophic Risks
 - [[The Metacrisis]] -> [[Podcast - Green Pill with Daniel Schmachtenberger]]
 	- Useful to look at all our current biggest issues in a holistic way
 		- trying to solve one problem might make the other ones worse
@@ -10,13 +11,21 @@
 			- perverse incentives
 - [[Technology Is Not Values Neutral]]
 - Collective [[sense-making]] and [[choice-making]]
+	- [[epistemic humility]]
+	- [[Information Commons]]
+- [[both-and -positive sum- thinking]]
+	- Think about the people your message doesn't appeal to, how can you include them and their blowback?
 - [[addiction is a signal of a less healthy and sovereign society]]
-	- [[Compersion]] may be the feature of individuals of a healthy society	
+	- [[Compersion]] may be the feature of individuals of a healthy society
 
+### Living
 - living a [[Meaningful Life]]
 	- being
 	- doing
 	- becoming
+- [[Sovereignty]]
+- [[dealing with the hopelessness of our complex situation]]
+- [[emotions remind us of whats important to us]]
 - [[post tragic]] personal dialectic [[both-and -positive sum- thinking]]
 	- if you're not outraged you're not paying attention
 	- if you're not overwhelmed by the beauty of life you're not paying attention
