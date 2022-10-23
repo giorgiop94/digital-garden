@@ -16,4 +16,4 @@ From [[Book - Thinking in Systems - Donella Meadows]]
 
 -------------------
 Source: [[Book - Buddha's Brain - Rick Hanson]]
-Topics: [[Cognitive Biases]] | [[Happiness]] | [[Goals]]
+Topics: [[Cognitive Bias]] | [[Happiness]] | [[Goals]]

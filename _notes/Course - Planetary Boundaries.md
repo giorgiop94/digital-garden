@@ -94,7 +94,7 @@ part of the World to affect another one
 - Rapid increase of international agreements and more actors agreeing to them 
 	- Fragmentation (too many agreements to keep count and keep a system view)
 	- Increasing complexity of agreements
-		- **GRIDLOCK** too many actors involved, no ability to make changes
+		- **GRIDLOCK**: too many actors involved, no ability to make changes
 
 ### Addressing Global Governance
 Four approaches that can start out independently but can evolve and combine with each other
@@ -147,4 +147,4 @@ Four approaches that can start out independently but can evolve and combine with
 -------------------
 #course 
 
-Related: [[biosphere stewardship]] | [[Complex Systems]]
+Related: [[biosphere stewardship]] | [[complex adaptive systems]]

@@ -22,7 +22,7 @@ Rob talks about this in Opening the Dharma of Desire pt 1 of the retreat ([[Talk
 	- **Play with the idea that there might be a deeper intelligence of desire**
 
 ### 3. Open to the currents/feelings of desire
-- Allowing as fully as possible the energy/stream/flow of desire throughout the *[[energy body]]*  
+- Allowing as fully as possible the energy/stream/flow of desire throughout the *[[Energy Body Practice]]*  
 - We may experience a release from the dukkha, as we find out that we already have what we're deeply desiring for
 
 ### ...shouldn't we *be with* the sense of lack?

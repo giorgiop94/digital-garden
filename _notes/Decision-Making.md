@@ -10,7 +10,7 @@ title: Decision-Making
 	- Looking for the things we don't know can help us to deal with both of our information issues
 		- The Information we have is limited and often wrong
 	- [[Falsifiability]]
-- Keep in mind [[Cognitive Biases]]
+- Keep in mind [[Cognitive Bias]]
 
 
 ### Good Decisions vs Good Outcomes

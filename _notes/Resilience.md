@@ -92,4 +92,4 @@ Resources:
 -------------------
 Created on: 2020-12-20
 Inspired by: [[Course - Planetary Boundaries]]
-Related: [[biosphere stewardship]] | [[Complex Systems]] | [[Earth System Resilience]]
+Related: [[biosphere stewardship]] | [[complex adaptive systems]] | [[Earth System Resilience]]

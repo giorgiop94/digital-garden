@@ -4,6 +4,11 @@
 [[Book - Designing Regenerative Cultures - Daniel Wahl]]
 [[Book - Thinking in Systems - Donella Meadows]]
 
+#### Economics - Society - Politics
+[[Book - Doughnut Economics by Kate Raworth]]
+[[Book - The Listening Society - Hanzi Freinacht]]
+
+
 ## Spiritual
 [[Book - Awareness - Anthony DeMello]]
 [[Book - Tao Te Ching - Lao Tzu]]
@@ -45,3 +50,4 @@
 [[Book - Men Without Women - Murakami]]
 [[Book - Wind Up Bird Chronichle - Murakami]]
 [[Book - Kafka on the Shore - Murakami]]
+[[Book - Colorless Tsukuru Tazaki and his years of pilgrimage - Murakami]]

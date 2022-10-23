@@ -1,3 +1,7 @@
+Fallacy of misplaced concreteness, [[everything constantly changes (impermanence)]]
+
+> In assigning fixed labels we commit the fallacy of misplaced concreteness. According to Whitehead, by mistaking abstractions, beliefs or mental constructs for physical or “concrete” reality, we hypnotise ourselves. Larry G. Maguire in [Whitehead: The Fallacy of Misplaced Concreteness](https://larrygmaguire.com/misplaced-concreteness/) 
+
 ## Systems Thinking
 From [[Book - Thinking in Systems - Donella Meadows]]
 > Everything we think we know about the world is a model. Every word and every language is a model. All maps and statistics, books and databases, equations and computer programs are models. So are the ways I picture the world in my head
@@ -46,4 +50,4 @@ We're like people eating menus instead of dinners
  --------------------------------
 
 Created on: 2020-09-06
-Topics: [[Decision-Making]] | [[Zen]] | [[090 Finances]] | [[Embrace Uncertainty]]
+Topics: [[Decision-Making]] | [[Zen]] | [[090 Finances]] | [[Embrace Uncertainty]] | [[Reductionism]] | [[Alfred North Whitehead]]

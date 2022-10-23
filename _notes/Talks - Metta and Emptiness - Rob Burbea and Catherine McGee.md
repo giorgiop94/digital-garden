@@ -8,7 +8,7 @@ title: Talks - Metta and Emptiness - Rob Burbea and Catherine McGee
 	- Cultivation of positive heart qualities, metta, generosity etc...
 	- Investigation in a way that brings freedom
 	- All practices is a practice of [[Ways of Looking]]
-- Nice short [[Energy Body]] in the Intro Talk (starting at 1:10:00)
+- Nice short [[Energy Body Practice]] in the Intro Talk (starting at 1:10:00)
 
 ## Metta Practice
 - [Intro to Metta Guided Meditation by Rob Burbea](https://dharmaseed.org/talks/12516)

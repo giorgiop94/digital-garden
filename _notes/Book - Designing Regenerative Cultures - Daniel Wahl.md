@@ -10,7 +10,7 @@ Given the complexity of all systems and our inescapable ignorance, a systems per
 ### Huge Failure of Modernist, Controlling Approach
 the early 1950s, the Dayak people in Borneo suffered from malaria. The World Health Organization had a solution: they sprayed large amounts of DDT to kill the mosquitoes that carried the malaria. The mosquitoes died, the malaria declined; so far, so good. But there were side-effects. Among the first was that the roofs of people’s houses began to fall down on their heads. It seemed that the DDT was killing a parasitic wasp that had previously controlled thatch-eating caterpillars. Worse, the DDT- poisoned insects were eaten by geckoes, which were eaten by cats. The cats died, the rats flourished, and people were threatened by out-breaks of sylvatic plague and typhus. To cope with these problems, which it had itself created, the World Health Organization was obliged to parachute 14,000 live cats into Borneo.
 
-## 3 Horizons
+## [[3 Horizons Framework]]
 ### Dying System
 **Supporting this cultural renewal means acting both as hospice workers for the dying culture and midwives for the new** - Graham Leicester
 

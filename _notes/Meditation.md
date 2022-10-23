@@ -12,15 +12,15 @@ Your aspirations create your understanding of the path
 	- Feelings of well-being
 - Escapism
 - For the benefit of all beings
-- Sense of Sacredness or Beauty (Artistic)
+- Sense of [[Sacredness]] or Beauty (Artistic)
     - Seeing the practice as Art and doing it for its own sake
 - Research Approach
     - Practicing to discover things about oneself or consciousness
 
-- [[Meditation and systems change]]
+- [[Meditation and system change]]
 - [[every path has its dangers]]
 
-### Medical Benefits
+### Medical Benefits 
 - Reduces activity in [[Default Mode Network]] (on and off cushion)
 	- Easier to get into [[Flow State]]
 		- Stop mental chatter
@@ -38,6 +38,8 @@ Your aspirations create your understanding of the path
 	- Similar to the dream state or psychedelics
 	- When you're stuck on a problem and can't solve it with your rational mind, meditation can provide great insights
 
+Could be seen as [[Reductionism]]
+
 #### Resources
 - [Why Meditate? | Change your Brain's Default Mode](https://youtu.be/aAVPDYhW_nw) 
 - Harvard Article - ["A wandering Mind is an Unhappy Mind"](https://wjh-www.harvard.edu/~dtg/KILLINGSWORTH%20&%20GILBERT%20%282010%29.pdf)
@@ -45,21 +47,21 @@ Your aspirations create your understanding of the path
 ## Main Techniques
 - [[Samadhi]]
 	- [[Twenty Point Meditation (Forall Method)]]
-	- [[Energy Body]]
+	- [[Energy Body Practice]]
 - Insight
 	- [[Emptiness Practice]]
 	- [[Metta -Loving Kindness- Meditation]]
 
+- [[Shi-Ne (opening awareness)]]
+
 - [[Mindfulness]]
-	- Bringing full [[Awareness]] of the present moment. Aware of your body sensations, of your thoughts and emotions.
-	- Every time we notice we get distracted, we not only practice mindfulness, but also forgiveness and compassion for ourselves
-- Counting Breaths
-- Observing Thoughts
-	- Labeling → Focus on breath and every time you notice you are thinking label "thinking", or 'planning', or 'remembering' etc...
-		- **In a way labeling also creates the experience**
-			- If you label a sensation as "pain", you also fabricate a self experiencing the pain
-			- You compare yourself to others who seem to have no pain
-			- The experience may become more painful than if you labeled it as "warmth"
+	- Counting Breaths
+	- Observing Thoughts
+		- Labeling → Focus on breath and every time you notice you are thinking label "thinking", or 'planning', or 'remembering' etc...
+			- **In a way labeling also creates the experience**
+				- If you label a sensation as "pain", you also fabricate a self experiencing the pain
+				- You compare yourself to others who seem to have no pain
+				- The experience may become more painful than if you labeled it as "warmth"
 
 ### Other Techniques
 - [[Bioemotive Meditation]]
@@ -75,6 +77,8 @@ From Aro course:
 
 > Meditate whole-heartedly. Throw yourself into it. Do not hold back. **Effort generates its own energy. Become passionate**. A meditation master once said: ‘Meditate as if your hair is on fire.’
 
+
+[[sounds do not hinder meditation]]
 ## Metaphors
 - The body is the anchor to the present moment. The thoughts are the waves. We can't stop the waves but we can learn to surf (Observe the thoughts without getting carried away)
 	- Expect waves to be there. There will be ups and downs in practice. Don't get discouraged when there are downs

@@ -7,4 +7,4 @@ This difference seems to resemble the difference between our Ego (narrating self
 
 Created on: 2020-09-05
 Inspired by: [[Book - Homo Deus - Yuval Noah Harari]]
-Topics: [[Psychology]] | [[Decision-Making]] | [[Cognitive Biases]] | [[What is the Self]]
+Topics: [[Psychology]] | [[Decision-Making]] | [[Cognitive Bias]] | [[What is the Self]]

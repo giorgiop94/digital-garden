@@ -12,10 +12,11 @@ It probably originated from shamanic and animist religions (which used to have a
 - Tao means the Way, and its core idea is to follow the laws of the Universe.
     - In the Universe [[everything constantly changes (impermanence)]]. 
     - Taoism is about **==adapting and being flexible, just like Nature==**
+    - The Tao is a way to describe the universal energy that underlies all things, that existed before matter and remains afterward.
 
 ### Everything is interconnected
 - [[everything is interconnected -interbeing-]]
-- The world is a sacred and complicated place, we shouldn't try to tamper with it because we don't understand all its connections ([[Complex Systems]])
+- The world is a sacred and complicated place, we shouldn't try to tamper with it because we don't understand all its connections ([[complex adaptive systems]])
     - Encourage people to get into different fields of knowledge and find connections, like [[Leonardo Da Vinci]]
 
 ### Non Dogmatic

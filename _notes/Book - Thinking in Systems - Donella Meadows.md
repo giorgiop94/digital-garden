@@ -173,7 +173,7 @@ One way out of the escalation trap is **unilateral disarmament**—deliberately 
 The only other graceful way out of the escalation system is to **negotiate a disarmament**. That’s a structural change, an exercise in system design. It creates a new set of balancing controlling loops to keep the competition in bounds
 
 ### Rich Get Richer
-whenever the winners of a competition receive, as part of the reward, the means to compete even more effectively in the future. That’s a reinforcing feedback loop, which rapidly divides a system into winners who go on winning, and losers who go on losing. (seems exactly what happens in PoW and PoS in [[Blockchain]] and what [[Holochain]] is avoiding)
+whenever the winners of a competition receive, as part of the reward, the means to compete even more effectively in the future. That’s a reinforcing feedback loop, which rapidly divides a system into winners who go on winning, and losers who go on losing. (seems exactly what happens in PoW and PoS in [[Web 3 - Blockchain]] and what [[Holochain]] is avoiding)
 
 #### Way Out
 There are many devices to break the loop of the rich getting richer and the poor getting poorer: tax laws written (unbeatably) to tax the rich at higher rates than the poor; charity; public welfare; labor unions; universal and equal health care and education; taxation on inheritance 

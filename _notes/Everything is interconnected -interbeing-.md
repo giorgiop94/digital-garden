@@ -13,6 +13,9 @@ This is strongly connected to [[biosphere stewardship]] and the fact that believ
 
 > We think we have to conquer Nature because we don't realize that we are Nature's children [[Alan Watts]]
 
+### Me as a separate thing is a misnomer
+> "What am I without the Sun? Without the electromagnetic field? Without the Higgs boson? Without plants, algae, biosphere, or ozone layer? I don't exist. Me as a separate thing is actually a misnomer. It doesn't even exist." — [[Daniel Schmachtenberger]]
+
 ### Interconnectedness Quotes
 
 > Our task must be to free ourselves from the prison by widening our circle of compassion to embrace all living creatures and the whole of nature in its beauty. ... The true value of a human being is determined primarily by the measure and the sense in which they have obtained liberation from the self ... [[Albert Einstein]]

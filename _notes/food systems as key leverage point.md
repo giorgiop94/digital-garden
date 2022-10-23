@@ -3,11 +3,13 @@ Food systems directly affect 5 out of the 9 [[Planetary Boundaries]]
 
 1. [[climate change]]
 2. [[Biodiversity]] loss
+	- Number one cause 
 3. [[Chemical Pollution -Novel Substances-]]
 4. [[Ocean acidification]]
-5. Land and Water Usage
+5. [[Land Use Change]]
+6. Water Usage
 	- food system are the number 1 driver of freshwater use 
-6. [[Nitrogen and Phosphorus Cycle]]
+7. [[Nitrogen and Phosphorus Cycle]]
 
 Resources:
 - [[Paper - Food in the Anthropocene the EAT–Lancet Commission]]

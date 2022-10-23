@@ -91,7 +91,7 @@ Nothing makes an image inherently "imaginal".
 If it is imaginal it will depend on how that image relates to the person who's having it
 
 ### Energy Body
-- [[Energy Body]]
+- [[Energy Body Practice]]
 
 *Energy body is a way of looking or conceiving the body as a space of vibration, energy, texture*
 

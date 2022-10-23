@@ -29,4 +29,4 @@ are consuming internationally traded products to cover their daily
 nutrition
 
 -------------------
-Related: [[Complex Systems]] | [[biosphere stewardship]]
+Related: [[complex adaptive systems]] | [[biosphere stewardship]]

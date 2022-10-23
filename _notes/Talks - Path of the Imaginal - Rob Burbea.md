@@ -5,7 +5,7 @@ title: Talks - Path of the Imaginal - Rob Burbea
 
 ## Practice Talks
 ### Opening, Tuning and Relating to Images (1)
-- [[Energy Body]] awareness is the basis of this practice
+- [[Energy Body Practice]] awareness is the basis of this practice
 	- Other imaginal practice traditions encourage people to concretize images in art, but that's not what we're doing
 - Patience with images is key
 - Images don't need to arise in formal meditation, but can come up anytime in our lives
@@ -233,7 +233,7 @@ Guided meditation starts at approximately minute 24:00- 1:06:00
 2. Mindfulness of materiality of the body 
 	- Contemplating death, the body's decomposing, impermanent nature and its parts (teeth, hair, tissues, fat, liver etc...) 
 	- Includes imagination and conceptions of the body
-3. Mindfulness of the [[Energy Body]]
+3. Mindfulness of the [[Energy Body Practice]]
 	- Not a new age claim about energy or aura
 	- A mode of sensing the body
 		- No knowledge is required to feel it (while for the materiality of the body you need to know about organs etc...)

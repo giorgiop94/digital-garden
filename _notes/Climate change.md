@@ -6,17 +6,18 @@
 
 [[Earth carbon storage]]
 
+[[climate change is the quintessential market failure]]
+
 
 ![Temperatures in the past 2,000 years](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Ff%2Ff8%2F2000%252B_year_global_temperature_including_Medieval_Warm_Period_and_Little_Ice_Age_-_Ed_Hawkins.svg%2F1200px-2000%252B_year_global_temperature_including_Medieval_Warm_Period_and_Little_Ice_Age_-_Ed_Hawkins.svg.png&f=1&nofb=1)
 
 ### Emission Sources
 From [[Paper - Our Future in the Anthropocene - Folke 2021]]
 
-> some 55% of global anthropogenic emissions causing global warming derive from the production of energy and its use in buildings and transport. The
-remaining 45% comes from human emissions that arise from the management of land and the production of buildings, vehicles, electronics, clothes, food, packaging, and other goods and materials (Ellen MacArthur Foundation
-2019). The [[Food Systems]] itself accounts for about 25% of the emissions (Mbow et al. 2019). Human-driven landuse change through agriculture, forestry, and other activities (Lambin and Meyfroidt 2011) causes about 14% of the emissions (Friedlingstein et al. 2020).
+> some 55% of global anthropogenic emissions causing global warming derive from the production of energy and its use in buildings and transport. The remaining 45% comes from human emissions that arise from the management of land and the production of buildings, vehicles, electronics, clothes, food, packaging, and other goods and materials (Ellen MacArthur Foundation 2019). The [[Food Systems]] itself accounts for about 25% of the emissions (Mbow et al. 2019). Human-driven landuse change through agriculture, [[forestry industry]], and other activities (Lambin and Meyfroidt 2011) causes about 14% of the emissions (Friedlingstein et al. 2020).
 
 > Collectively, the top 10 emitting countries account for three quarters of global GHG emissions, while the bottom 100 countries account for only 3.5%(WRI 2020).
+
 
 
 ### Second Order Effects

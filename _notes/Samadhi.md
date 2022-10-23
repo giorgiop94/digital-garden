@@ -36,6 +36,6 @@ Samadhi is on a spectrum, you can have more or less at any given time. It is not
 	- [[Talks - Metta and Emptiness - Rob Burbea and Catherine McGee]]
 
 ## Practices
-- [[Energy Body]]
+- [[Energy Body Practice]]
 - [[20 Point Meditation (Forall Method).png]]
 - [[Jhanas]]

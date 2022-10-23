@@ -5,6 +5,9 @@ title: Rob Burbea
 - **[[Meditation]] as an infinite playground of [[ways of looking]] at experience**
 	- There are different ways of looking available to us which unfold different existences
 	- Any way of looking is fabricating reality
+- 2 wings of practice:
+	- [[Feeling Through Emotions]]
+	- cultivating positive ones ([[Samadhi]])
 - [[Emptiness]] as the basis of Dharma
 	- Insight defined by its capacity to decrease dukkha
 	- [[Insight as a result vs. insight as a practice]] 

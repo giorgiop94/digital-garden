@@ -20,11 +20,11 @@ To understand the transpersonal view of the human being, where her deepest inner
 To see that in the transpersonal perspective, individual people cannot really be blamed for anything. All moralism is meaningless. This translates to a radical acceptance of people as they are; a radical non-judgment that can also be described as a civic, impersonal and secular bid to love thy neighbor 
 
 ## Modern and Postmodern
-Modern society is based around beliefs in science, progress, an objective and independent reality, the individual, and so forth. “Modernism”, in this sense, is the standard worldview we get in secular Western societies today
+**Modern** society is based around beliefs in **science, progress, an objective and independent reality**, the individual, and so forth. “Modernism”, in this sense, is the standard worldview we get in secular Western societies today
 
-Postmodernism is closely related to such things as relativism, social constructivism and a kind of cynicism that comes from seeing many different perspectives, with no longer being a naive believer in religious, political or even scientific movements. Postmodernism is interested not so much in what is true, in what should be done, but rather in questioning everything, in picking things apart, deconstructing them, to make us think again, to make us less sure, to make life harder for those who would control or manipulate others: the politicians, the media moguls, the scientists and the medical professionals. To the postmodern mind, the goal is to reach an anti-thesis—the critique or criticism of the existing is what counts as a real result; not to give answers but to refute old answers and dwell on new questions. 
+**Postmodernism** is closely related to such things as **relativism**, **social constructivism** and a kind of **cynicism** that comes from seeing many different perspectives, with no longer being a naive believer in religious, political or even scientific movements. Postmodernism is interested not so much in what is true, in what should be done, but rather in questioning everything, in picking things apart, deconstructing them, to make us think again, to make us less sure, to make life harder for those who would control or manipulate others: the politicians, the media moguls, the scientists and the medical professionals. To the postmodern mind, the goal is to reach an anti-thesis—the **critique** or criticism of the existing is what counts as a real result; not to give answers but to refute old answers and dwell on new questions. 
 
-Ontologically, metamodernism oscillates between the modern and the postmodern. It oscillates between a modern enthusiasm and a postmodern irony, between hope and melancholy, between naïveté and knowingness, empathy and apathy, unity and plurality, totality and fragmentation, purity and ambiguity.”[174] 
+**Ontologically, metamodernism oscillates between the modern and the postmodern. It oscillates between a modern enthusiasm and a postmodern irony, between hope and melancholy, between naïveté and knowingness, empathy and apathy, unity and plurality, totality and fragmentation, purity and ambiguity.”**[174] 
 Ontology is a word for what you believe about reality, about what is “really real”. So when Vermeulen and van der Akker claim that metamodernism oscillates “ontologically”, they mean to say that the metamodernist artists adopt a new view of reality itself. In this view you are both a modern believer in science and progress, and a skeptical, ironic critic of your own naive belief. 
 
 Basically, metamodernism is keeping the postmodern suspicion of progress and “grand narratives” (science, socialism, etc.) but bringing in the modern hope and sense of direction through the backdoor, as vaguely suggested open potentials.
@@ -46,7 +46,7 @@ The Listening Society—which is the welfare of the future, a welfare that inclu
 Co-Development—which is a kind of political thinking that works across parties, works to keep ego-issues and emotional investments and biased opinions in check, and seeks to improve the general climate of political discourse: “**I develop if you develop**. Even if we don’t agree, we come closer to the truth if we create **better dialogues** and raise the standards for how we treat one another.
 
 ### Process-Focused Party
-Apparently the Danish public was ready for a “party about nothing”. Instead of being based on a readymade political program, the party was formed around a set of principles and values for how to conduct good political discourse and dialogue. The party also has political content, of course, a program with things they want to change, but this was subsequently crowd sourced by its members after the party got founded. Most central to the party’s founding and organization is still the how, rather than the what.
+Apparently the Danish public was ready for a “party about nothing”. Instead of being based on a readymade political program, the party was formed around a set of principles and values for how to conduct good political discourse and dialogue. The party also has political content, of course, a program with things they want to change, but this was subsequently crowd sourced by its members after the party got founded. Most central to the party’s founding and organization is still the how, rather than the what. 
 
 ### Metamodern Conspiracy
 #### Democratic & Transparent Manipulation
@@ -57,7 +57,7 @@ In a way, you could say that they manipulate and conspire, but it is a very **de
 ## Basic Idea - Politics Rooted in Psychology
  Deliberately and carefully cultivate a deeper kind of welfare system that includes the psychological, social and emotional aspects of human beings, so that the average person, over the length of her lifespan, becomes much more secure, authentic and happy (in a deep, meaningful sense of the word). 
 Once the average person is much more secure, authentic and happy, she also tends (again, on average) to develop into a braver, more mature, more idealistic and reasonable person who cooperates more easily with others and makes better priorities, both individually and politically. Such people can then recreate society in a myriad of ways, solving many of the complex, wicked problems that we are facing today. 
-We are talking about generativity—i.e. the propensity of society as a cultural, economic and social-psychological system to, on average and over time, generate the conditions for psychological thriving and growth to occur. We are not talking about shoving some formula for the good life down everybody’s throat. 
+**We are talking about generativity—i.e. the propensity of society as a cultural, economic and social-psychological system to, on average and over time, generate the conditions for psychological thriving and growth to occur. We are not talking about shoving some formula for the good life down everybody’s throat.** 
 
 **As a society, we haven’t fully admitted to ourselves and one another just how sensitive, how utterly emotionally vulnerable, we really are**. The aim here is to make this embarrassing truth publicly obvious, so that we can together reshape society thereafter—until even the most sensitive among us can blossom; indeed, until the truly sensitive become our kings and queens
 
@@ -93,7 +93,7 @@ The metamodernist does not hate or despise nations or nationalism. It’s just t
 Metamodernism is the marriage of extreme irony with a deep, unyielding sincerity. These two sides are in superposition to one another. The sincerity makes the irony much more effective, because it becomes genuinely ambiguous; the irony, because it is all-encompassing, creates room for an unapologetic, even religious, sincerity of emotions, hopes and aspirations. Without the irony and the sarcasm, my sincerity would simply be too much; it would awaken severe suspicions, and for good reason too.
 
 ### Beyond Left and Right 
-Going “beyond Left and Right” means that we make questions of the relations between public sector, private sector and civil sphere into **open discussions where the best empirical arguments for each mechanism, in each case, must be taken into consideration**. For instance, do “free markets” work more or less efficiently than state bureaucracies? The answer depends on what area of society we are studying, what values need to be taken into account in our common goals within this area, and what kind of state bureaucracy and how functional a market we have available ([[markets may not be the best structure for disruptive innovation]])
+Going “beyond Left and Right” means that we make questions of the relations between public sector, private sector and civil sphere into **open discussions where the best empirical arguments for each mechanism, in each case, must be taken into consideration**. For instance, do “free markets” work more or less efficiently than state bureaucracies? The answer depends on what area of society we are studying, what values need to be taken into account in our common goals within this area, and what kind of state bureaucracy and how functional a market we have available ([[markets may not be the best structure for disruptive innovation]] & [[markets are not best suited for serving all our needs]])
 
 ## Dancing with Complexity
 [[epistemic humility]]
@@ -121,7 +121,7 @@ So in metamodern, non-linear politics we don’t work according to a certain pla
 
 ## Participatory Democracy
 ### Cannot Trust Ourselves but We Can Trust our Collective Intelligence
-In favor of [[Book - On Dialogue - David Bohm]]
+In favor of [[Book - On Dialogue - David Bohm]] [[participatory democacy]]
 
 The cardinal of all such linear models in politics the belief that “if only people were like me, had my opinions, the world would be alright”. This is the point zero of political understanding. If you have this feeling, you know nothing. 
 The point is that **everybody already is like you—a very limited, vulnerable, hurt, single human being** with almost infinite distortions and blind spots, working from within the narrow frames of her emotions, intellect and experience. And that is exactly why the world is a complete, utter mess. And **because the world is a mess, you are a mess. You cannot trust yourself and your current conceptions and ideas. 
@@ -170,7 +170,7 @@ It is a question of choosing totality over partiality. Partiality is only possib
 ### You cannot choose not to act
 Non action doesn't exist
 
-And that leads us to a second, even deeper, belief of the liberal innocent: That you can choose not to act, and just be a normal citizen, and that you are thereby innocent. The belief holds that, if you “don’t want to control others” and “just live your life”, you are innocent; that only the politicians, reformists and dictators bear the true responsibility. 
+And that leads us to a second, even deeper, belief of the liberal innocent: **That you can choose not to act, and just be a normal citizen, and that you are thereby innocent**. The belief holds that, if you “don’t want to control others” and “just live your life”, you are innocent; that only the politicians, reformists and dictators bear the true responsibility. 
 But you are society as a whole
 
 ### Acknowledging the Shadow of Idealism
@@ -283,7 +283,7 @@ even if your guru really does frequent high subjective states; he or she can sti
 Depth is developed by the recognition of tragedy, by the successful acceptance of such tragedy, and by the resolve to work, as Sisyphus eternally lugging rocks, against it. Resolve in the face of a fundamental hopelessness and utter meaninglessness. This is depth-as-tragedy.
 
 **Tragedy is necessary for us to mature beyond our current, limited form of “humanity” and begin to take responsibility for all sentient beings in all times. Only a sense of tragedy can drive us to work for the wretched of the earth: loving until it hurts; as medieval nuns of contemplative Christianity, licking the wounds of lepers. 
-And for this reason—I can say with perfect conviction—that only broken hearts can save the world**. [[Meditation and systems change]]
+And for this reason—I can say with perfect conviction—that only broken hearts can save the world**. [[Meditation and system change]]
 
 ### Society Makes Us Pretend to Be Lower Depth
 In mainstream society, we generally pretend to have less depth than we really do. 
