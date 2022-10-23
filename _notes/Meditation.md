@@ -38,7 +38,7 @@ Your aspirations create your understanding of the path
 	- Similar to the dream state or psychedelics
 	- When you're stuck on a problem and can't solve it with your rational mind, meditation can provide great insights
 
-Could be seen as [[Reductionism]]
+Could be seen as [[reductionism]]
 
 #### Resources
 - [Why Meditate? | Change your Brain's Default Mode](https://youtu.be/aAVPDYhW_nw) 

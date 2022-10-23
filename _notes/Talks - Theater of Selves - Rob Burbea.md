@@ -99,7 +99,7 @@ Quick summary of possible approaches
 	- We're at "war" with greed, hatred, delusion
 	- We don't have any of that in Western Buddhism
 
-- Which  [[Ways of Looking]] lead to what?
+- Which  [[ways of looking]] lead to what?
 	- Which ones open another level of beauty, sacredness etc...
 - The more images, the less the [[Inner Critic]]
 	- Images can dissolve the IC
@@ -171,7 +171,7 @@ Quick summary of possible approaches
 	- You can lean into it in meditation and come out of it
 	- It might even be foolish to try to live always in bare attention
 - Images fantasy can never go away, they pervade our life
-- Dharma as a play between [[Emptiness]]and [[Ways of Looking]]
+- Dharma as a play between [[Emptiness]]and [[ways of looking]]
 	- Mindfulness is a part of it (a way of looking), but not the whole thing
 
 ### Concepts and Assumptions Are Always There

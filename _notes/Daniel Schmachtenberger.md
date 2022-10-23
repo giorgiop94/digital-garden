@@ -1,4 +1,8 @@
 ## Key Ideas
+- Collective [[sense-making]]
+- [[addiction is a signal of a less healthy and sovereign society]]
+	- [[Compersion]] may be the feature of individuals of a healthy society	
+- [[Epistemic Outsourcing]]
 - [[The Metacrisis]]
 	- Useful to look at all our current biggest issues in a holistic way
 		- trying to solve one problem might make the other ones worse
@@ -6,11 +10,11 @@
 			- [[coordination failures (multipolar traps)]]
 			- perverse incentives
 - [[Technology Is Not Values Neutral]]
-- Collective [[sense-making]] and [[choice-making]]
-	- [[Epistemic Outsourcing]]
-- [[addiction is a signal of a less healthy and sovereign society]]
-	- [[Compersion]] may be the feature of individuals of a healthy society	
 
+- living a [[Meaningful Life]]
+	- being
+	- doing
+	- becoming
 - [[post tragic]] personal dialectic [[both-and (positive-sum) thinking]]
 	- if you're not outraged you're not paying attention
 	- if you're not overwhelmed by the beauty of life you're not paying attention
@@ -26,6 +30,7 @@
 - [[Podcast - War On SenseMaking - Daniel Schmachtenberger]]
 - [[Podcast - Green Pill with Daniel Schmachtenberger]]
 - [[Podcast - Nate Hagens The Great Simplification with Daniel Schmachtenberger]]
+- [[Podcast - Perspectives with Daniel Schmachtenberger]]
 
 ## Other Resources
 - [[Dharma Inquiry by Daniel Schmachtnberger (template)]]

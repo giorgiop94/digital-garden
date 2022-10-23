@@ -22,4 +22,4 @@ More broadly, this system dynamic is defined as a [[coordination failures (multi
 
 -------------------
 Created on: 2020-12-21
-Related: [[Economics]] | [[biosphere stewardship]] | [[market failure]]
+Related: [[economics]] | [[biosphere stewardship]] | [[market failure]]

@@ -1,4 +1,4 @@
-Back to: [[Economics]] | [[Evolutionary Psychology]]
+Back to: [[economics]] | [[Evolutionary Psychology]]
 
 ![This image has an empty alt attribute](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0190495995&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=giorgiopa-20&language=en_US)
 

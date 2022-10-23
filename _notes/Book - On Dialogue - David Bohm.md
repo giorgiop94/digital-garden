@@ -91,7 +91,7 @@ The senses will tell you what is happening, and then the consciousness must buil
  
   a lot of what we take to be fact is not really fact. This implies a different way of seeing the world – it implies that our whole way of seeing the world could change. We see the world according to the general collective representations circulating around our society and culture, and insofar as these could be dropped, then we may change, because the world is presented differently.
 
- Alternate explanation for [[Rob Burbea]]'s [[Ways of Looking]]
+ Alternate explanation for [[Rob Burbea]]'s [[ways of looking]]
  
  #### Collective Ways of Looking Get Stronger (Idea of Self)
  It is important to see that most of our representations arise collectively, and that gives them greater power. If everybody agrees on something, we take that as evidence that it’s right, or that it could be right. This then creates a pressure on us – we don’t want to get out of the consensus. This means that we are constantly under pressure to accept any particular representation, and to see it that way. For example, what we call the “self” is represented in a certain way, and therefore presented in a certain way. This representation is basically collective, in the sense that the general properties of the self are determined collectively, and particular details are determined individually. The consensus all over the world is that you have a self, because all the evidence is that you’ve got one. 

@@ -50,4 +50,4 @@ We're like people eating menus instead of dinners
  --------------------------------
 
 Created on: 2020-09-06
-Topics: [[Decision-Making]] | [[Zen]] | [[090 Finances]] | [[Embrace Uncertainty]] | [[Reductionism]] | [[Alfred North Whitehead]]
+Topics: [[Decision-Making]] | [[Zen]] | [[090 Finances]] | [[Embrace Uncertainty]] | [[reductionism]] | [[Alfred North Whitehead]]

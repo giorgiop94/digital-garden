@@ -191,4 +191,4 @@ If it is imaginal it will depend on how that image relates to the person who's h
 - If we get a new idea, or a new way of looking that we hadn't seen before, we might feel a **sense of duty to pursue it further**
 
 ## Other
-Imaginal practices make us question what is our [[Ontology]] and [[Epistemiology]]
+Imaginal practices make us question what is our [[ontology]] and [[epistemology]]

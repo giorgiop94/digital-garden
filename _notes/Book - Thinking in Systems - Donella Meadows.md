@@ -100,7 +100,7 @@ When there are long delays in feedback loops, some sort of **foresight is essent
 
 ### Missing the Whole
 #### Different Levels of Magnification
-You can see some things through the lens of the human eye, other things through the lens of a microscope, others through the lens of a telescope, and still others through the lens of systems theory. Everything seen through each kind of lens is actually there. Each way of seeing allows our knowledge of the wondrous world in which we live to become a little more complete. ([[Ways of Looking]])
+You can see some things through the lens of the human eye, other things through the lens of a microscope, others through the lens of a telescope, and still others through the lens of systems theory. Everything seen through each kind of lens is actually there. Each way of seeing allows our knowledge of the wondrous world in which we live to become a little more complete. ([[ways of looking]])
 
 #### Map is Not the Territory
 - [[the map is not the territory -menu is not the food-]]
@@ -251,7 +251,7 @@ Reinforcing feedback loops are sources of growth, explosion, erosion, and collap
 Reducing the gain around a reinforcing loop—slowing the growth—is usually a more powerful leverage point in systems than strengthening balancing loops, and far more preferable than letting the reinforcing loop run. (Good analogy: **better to slow down the car than to just get better brakes**)
 
 ### Example
-[[Economics]] - [[Inequality]]
+[[economics]] - [[Inequality]]
 Rich people collect interest; poor people pay it. Rich people pay accountants and lean on politicians to reduce their taxes; poor people can’t. Rich people give their kids inheritances and good educations. Antipoverty programs are weak balancing loops that try to counter these strong reinforcing ones. It would be much more effective to weaken the reinforcing loops. That’s what progressive income tax, inheritance tax, and universal high-quality public education programs are meant to do.
 
 ### 6. Information Flows

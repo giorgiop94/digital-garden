@@ -6,9 +6,9 @@ We often see our Self, as an autonomous, independent entity, separate from other
 
 ### Levels of Magnification
 > Who is Your Self?
-You, The Universe? Depends on your perspective
-What is conflict at one **level of magnification**, is harmony at another level
-Space and bodies in the space are two aspects of the same continuum, you cannot get one without the other
+> You, The Universe? Depends on your perspective
+> What is conflict at one **level of magnification**, is harmony at another level
+> Space and bodies in the space are two aspects of the same continuum, you cannot get one without the other
 
 [Alan Watts Mash up](https://soundcloud.com/farhar/how-to-grow-alan-watts-mash-up)
 
@@ -50,6 +50,13 @@ You can shape your self
 
 ### Self as an Emerging Dividual
 > The self is a “dividual”, as described by [[Deleuze]], a transpersonal self. I am not the voice in my head, I am all that arises; you create me as I create you, we are not sealed containers, we are often more transparent to one another and controlled by one another than we are to/by ourselves. We co-emerge, we are just bodies and fictional stories; consciousness is transformable and all stories can be developed. " [[Hanzi Freinacht]]
+
+### Community as part of the Self
+“I am because I party.” Convivo ergo sum.
+
+> We have to think about community as a different category altogether. It’s not individuals coming together and connecting, and it’s not a crowd. Community to me means simply the actual little system in which you are situated, sometimes in your office, sometimes at home with your furniture and your food and your cat, sometimes talking in the hall with the people in 14-B. In each case your self is a little different, and your true self is your actual self, just as it is in each situation, a self among, not a self apart.
+
+[[Book - We've Had a Hundred Years of Psychotherapy & the World's Getting Worse - James Hillman]]
 
 ## Provocative Quotes
 

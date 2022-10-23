@@ -7,7 +7,7 @@ title: Talks - Metta and Emptiness - Rob Burbea and Catherine McGee
 - Meditation as a balance between cultivation and investigation
 	- Cultivation of positive heart qualities, metta, generosity etc...
 	- Investigation in a way that brings freedom
-	- All practices is a practice of [[Ways of Looking]]
+	- All practices is a practice of [[ways of looking]]
 - Nice short [[Energy Body Practice]] in the Intro Talk (starting at 1:10:00)
 
 ## Metta Practice
@@ -75,7 +75,7 @@ Element of **faith**([[The 5 Heroic Motivations]]), we are planting the seeds wi
 ## Talk - Freeing the Self
 ### Summary on Emptiness
 - There's suffering and causes of suffering
-	- Craving and clinging are common causes for craving
+	- Craving and clinging are common causes for suffering
 	- **We crave and cling because of a deep misunderstanding about who we are, and how the world is**
 	- We don't see the emptiness of things, the dependent co-arising
 - Things neither exist nor they don't exist ([[The Middle Path]])
@@ -184,7 +184,7 @@ Element of **faith**([[The 5 Heroic Motivations]]), we are planting the seeds wi
 	- Changing from a view of "how I feel, what I need" to "how can I support others?"
 - Metta softens our view, making it more flexible and malleable
 	- Allowing us to consider the inner and outer causes and conditions for events and not blaming our selves
-	- Allowing us to shift between different [[Ways of Looking]]
+	- Allowing us to shift between different [[ways of looking]]
 
 ## Talk - Contact and Construction of the Self
 - **"When there is suffering, there is fabrication of the self"**
@@ -224,7 +224,7 @@ Element of **faith**([[The 5 Heroic Motivations]]), we are planting the seeds wi
 	- Sustaining ways of looking that bring freedom over time
 		- [[comparison trap]] is a unskillful way of looking, that fabricates a lot of self
 		- [[Mindfulness]] (bare attention) is another way of looking, but a more skillful one that constructs less
-	- [[Ways of Looking]] often become a [[mental habit]] that we're not even aware of
+	- [[ways of looking]] often become a [[mental habit]] that we're not even aware of
 
 ### Three Characteristics
 1. Anicca ([[everything constantly changes (impermanence)]]) - (also means uncertainty)

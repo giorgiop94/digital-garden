@@ -1,7 +1,7 @@
 ## What is Fear?
 Danger and Fear are not the same. Danger is real, **Fear is the anticipation of danger our symbolic minds project everywhere**. 
 
-After some point Fear becomes a mental [[Habits]]
+After some point Fear becomes a mental [[habits]]
 Many fears comes from a lack of [[Self Love]] and from aversion
 
 - **Fear is not the same as concern**

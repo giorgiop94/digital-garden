@@ -1,11 +1,15 @@
-> *We participate in the creation of the world at the most fundamental level* - [[Rob Burbea]]
+*key teaching of [[Buddhism]] - also known as "dependent co-arising"*
+
+> *We participate in the **creation of the world** at the most fundamental level* - [[Rob Burbea]]
+
+> Integral to the concept of dependent co-arising is the belief that the preconceptions and predispositions of the mind itself **shape the reality** it sees - [[Joanna Macy]]
 
 *We suffer because we think things are real (independent of the way of looking) and cling to them* 
 
 - Things are empty of independent meaning or significance
 	- All things without exception (including space and time and awareness) is empty of existing independent of the way you look at it - [[Rob Burbea]]
 	- There is no inherent way things are
-- **The way we perceive anything depends on our [[Ways of Looking]]**
+- **The way we perceive anything depends on our [[ways of looking]]**
 	- e.g. When we practice [[Metta -Loving Kindness- Meditation]] thinking about a "neutral" or even negative person, we may suddenly start to see them as beautiful, radiating kindness etc...
 
 ## Chair Example

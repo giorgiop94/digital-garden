@@ -97,7 +97,7 @@ title: Talks - Eros Unfettered - Opening the Dharma of Desire - Rob Burbea
 	- Beyond Universal sacredness, particular sacredness (theophanies)
 	- Creating a link between sexuality and sacredness (beyond metta)
 
-- Traditional Dharma [[Ways of Looking]] help us simplify, fabricate less (less papanja), but doing so, they leave something out that our soul needs
+- Traditional Dharma [[ways of looking]] help us simplify, fabricate less (less papanja), but doing so, they leave something out that our soul needs
 	- Rather than just simplifying
 
 ### Many Possible Ways of Defining Eros
@@ -142,7 +142,7 @@ Only consider appearances, without assumptions that appearances come from the br
 
 > anything that arose in experience was worthy of a phenomenological approach. That includes images. That includes things that appear to be psychic phenomena, etc. But basically, whatever appears to me, I can relate to as a phenomenon and investigate it, and investigate what kinds of relationships, and how it works, how relationships function around that thing, whether it’s an image or a worldly perception or whatever, of the different senses, etc., or an idea. All that is appearance – an idea, even, is appearance – and it’s worthy of investigation.
 
-2. [[Ways of Looking]]
+2. [[ways of looking]]
 > But really it refers to what is the perspective that’s being employed now, and included in that is the relationship with the object that I’m perceiving, whatever that is (internal, external, etc.). Am I, for example, grasping at it? Am I pushing it away? Am I seeing it as self or not-self, etc.? All these are different ways of looking. Wrapped up in that, always in the way of looking is the conceptual framework
 
 3. Fabrication

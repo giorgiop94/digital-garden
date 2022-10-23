@@ -20,6 +20,11 @@
 
 [[Book - Four Agreements - Don Miguel Ruiz]]
 
+## Psychology
+[[Book - King, Warrior, Magician, Lover]]
+[[Book - On My Own Side by Aziz Gazipura]]
+[[Book - The Alchemy of Psychology - James Hillman]]
+
 ### Collective Practices
 [[Book - On Dialogue - David Bohm]]
 
@@ -32,6 +37,7 @@
 
 ## Self-Improvement
 [[Book - The Subtle Art of Not Giving a Fuck - Mark Manson]]
+[[Book - On My Own Side by Aziz Gazipura]]
 
 ### Career
 [[Book - How To Fail at Almost Everything and Still Win Big - Scott Adams]]

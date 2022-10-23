@@ -3,7 +3,7 @@ title: Papers - Earth System Finance + Sleeping Giants
 ---
 [Link](https://sleepinggiants.earth/)
 Authors:  [[Stockholm Resilience Center]]
-Subject: [[Food Systems]] | [[Planetary Boundaries]] | [[Global Financial System Design]]
+Subject: [[Food Systems]] | [[Planetary Boundaries]] | [[Global Financial System]]
 
 - Key question
 	- **Is it possible to identify a limited set of financial actors mediating flows of capital to known tipping elements in the Earth’s climate system?**

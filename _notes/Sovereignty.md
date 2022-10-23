@@ -6,7 +6,7 @@
 - **Sentience**: making sense of the world (awareness, empathy, sensitivity, compassion)
 	- Archetype: Bodhisattva
 
-- **Intelligence**: [[systems thinking]], capacity for abstraction, [[design thinking]]
+- **Intelligence**: [[Systems Thinking]], capacity for abstraction, [[design thinking]]
 	- Archetype: Polymath
 
 - **Agency**: will, drive, responsibility, purposefulness, discipline, resilience, impulse control, courage, focus

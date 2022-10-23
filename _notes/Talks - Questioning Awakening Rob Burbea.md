@@ -86,7 +86,7 @@ Links to talks
 	- What happens to eros and passion?
 
 ### What Is Real?
-- Our assumptions about what is real ([[Ontology]]) affect the way we see everything
+- Our assumptions about what is real ([[ontology]]) affect the way we see everything
 	- They keep delivering the same experiences, the same dukkha
 	- They shape the way we see ourselves, our world etc...
 - Is it what is material, what is commonly agreed upon?

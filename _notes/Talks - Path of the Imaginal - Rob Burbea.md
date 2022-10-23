@@ -152,8 +152,8 @@ title: Talks - Path of the Imaginal - Rob Burbea
 	- Gets you out of touch with reality
 	- Fragments your self
 2. Inability to question cultural beliefs
-	- [[Ontology]] → Images not seen as real
-	- [[Epistemiology]] → Imagination not trustworthy
+	- [[ontology]] → Images not seen as real
+	- [[epistemology]] → Imagination not trustworthy
 	- Cosmology
 3. Imagination may invite us to go beyond the classical Dharma paradigm of ending suffering
 4. Images that arise or are heard do not fit in the person's idea of Dharma
@@ -214,7 +214,7 @@ What we're interested with this practice is **expanding our felt sense of sacred
 	- No-Self
 
 ### Rob's Proposed Conception
-- All the ones above are [[Ways of Looking]] to take on and put down
+- All the ones above are [[ways of looking]] to take on and put down
 - Dharma is the practice of this flexibility in lookings
 	- We realize that what we perceive depends on the way we look
 - Turn towards "Hermaneutics"
@@ -344,7 +344,7 @@ Developing Emotional awareness and learning to work skillfully with emotions
 - Can I play with different views?
 	- Meditation is the practice of ways of looking
 	- This reveals the [[Emptiness]] of perceptions, which brings more and more freedom
-	- [[non-clinging]] in Buddhism not as a way of living, but non-clinging to any one [[Ways of Looking]]
+	- [[non-clinging]] in Buddhism not as a way of living, but non-clinging to any one [[ways of looking]]
 
 ## 6 - Energy Body Instructions (Part 2)
 - Developing sensitivity to the energy body helps us
@@ -429,7 +429,7 @@ Developing Emotional awareness and learning to work skillfully with emotions
 - [[James Hillman]] instead talks about "**viewing an image as archetypal**"
 	- > Any image termed ‘archetypal’ is immediately valued as universal, trans-historical, basically profound, generative, highly intentional, and necessary.
 	- **The relationship with the image is part of the archetypal nature**
-	- The [[Ways of Looking]] are included in the way we intend the word "image" 
+	- The [[ways of looking]] are included in the way we intend the word "image" 
 
 
 ## 8 - What Is an Image? (Part 2)
@@ -445,7 +445,7 @@ Developing Emotional awareness and learning to work skillfully with emotions
 - If we speak of Gods, we are creating these gods
 	- We are fabricating them in our psyche, yet they are in some way real
 	- Neither real nor not real
-- Images always dependently co-arise with the [[Ways of Looking]]
+- Images always dependently co-arise with the [[ways of looking]]
 	- Not yet an "image" in the way we mean it unless we have a sort of relationship to it
 	- **We're playing with conceptual frameworks**
 - What if we don't dismiss the images as neurons firing in our brain, but we don't either literalize it and interpret it too rigidly?
@@ -528,7 +528,7 @@ Developing Emotional awareness and learning to work skillfully with emotions
 - If instead, we base our Dharma on emptiness, we understand that each moment is co-created with me, with my way of looking, we can start playing with skillful fabrication 
 
 - [[Anatta (no-self)]] gives us the freedom to use all kinds of self-views, knowing that neither of them is real
-- **What kind of [[Ways of Looking]] does soul need?**
+- **What kind of [[ways of looking]] does soul need?**
 	- What about viewing ourselves as Theophanies, angels, expressing the divine?
 
 ## Sacred Universe: Insight, Theophany, Cosmopoesis (2)

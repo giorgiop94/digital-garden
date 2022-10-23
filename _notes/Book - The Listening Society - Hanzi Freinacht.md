@@ -277,7 +277,7 @@ So there is a social-psychological “spin” on the whole thing, **making peopl
 even if your guru really does frequent high subjective states; he or she can still be low MHC stage, work from defunct cultural codes, and have all manner of psychological issues and problems.
 
 ## Depth (Beauty, Tragedy, Mystery)
-**Recognizing the beauty of reality is not only a “matter of opinion”—it is a faculty, a capability. Seeing beauty somehow strangely seems to be the correct way of seeing. It means to gaze deeper into reality.** ([[Ways of Looking]])
+**Recognizing the beauty of reality is not only a “matter of opinion”—it is a faculty, a capability. Seeing beauty somehow strangely seems to be the correct way of seeing. It means to gaze deeper into reality.** ([[ways of looking]])
 
 ### The Use of Tragedy
 Depth is developed by the recognition of tragedy, by the successful acceptance of such tragedy, and by the resolve to work, as Sisyphus eternally lugging rocks, against it. Resolve in the face of a fundamental hopelessness and utter meaninglessness. This is depth-as-tragedy.

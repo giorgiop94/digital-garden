@@ -6,16 +6,16 @@ The actions you take over time determine your self-identity
 - Act like a leader and you'll see yourself as one
 - Binge eat and see yourself as someone lacking self-control
 
-![habit identityt loop](habit identityt loop.png)
+![[habit identity loop.png]]
 
 There's the potential for strong [[Reinforcing Feedback Loops]].
 
 It all depends on you to start setting the positive feedback loops in motion and to break the negative ones.
 
-Also, our thinking habits determine our self-identity - [[Inner Critic]]
+Also, our thinking habits determine our self-identity - [[Inner Critic]]/[[Positive Self-Talk]]
 
 -------------------
 Created on: 2021-05-03
 Inspired by: [[Derek Sivers]]
 Link: https://sive.rs/actid
-Related: [[Habits]] | [[Breaking Negative Habits]] | [[Ego]]
+Related: [[habits]] | [[Breaking Negative Habits]] | [[Ego]]

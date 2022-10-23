@@ -69,6 +69,7 @@ The best way to increase your odds of success—in a way that might look like lu
 **Public speaking Psychology Business writing Accounting Design (the basics) Conversation Overcoming shyness Second language Golf Proper grammar Persuasion Technology (hobby level) Proper voice technique**
 
 ### Interpersonal Skills  
+[[Communication]]
  **Ask questions. Don’t complain (much). Don’t talk about boring experiences (TV show, meal, dream, etc.). Don’t dominate the conversation. Let others talk. Don’t get stuck on a topic. Keep moving. Planning is useful but it isn’t conversation. Keep the sad stories short, especially medical stories. The point of conversation is to make the other person feel good. If you do that one simple thing correctly, the other benefits come along with the deal**
 
 So how do you get a stranger to like you? It’s simple, actually. It starts by smiling and keeping your body language open. After that, just ask questions and listen as if you cared, all the while looking for common interests. Everyone likes to talk about his or her own life, and everyone appreciates a sympathetic listener
