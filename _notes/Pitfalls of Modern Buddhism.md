@@ -2,6 +2,11 @@
 title: Pitfalls of Modern Buddhism 
 ---
 ---
+
+title: Pitfalls of Modern Buddhism
+ 
+---
+---
 title: Pitfalls of Modern Buddhism
 ---
 - Common western, [[consensus buddhism]] is so obsessed with the **individual's** inner growth and path

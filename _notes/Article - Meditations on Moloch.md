@@ -1,6 +1,11 @@
 ---
 title: Article - Meditations on Moloch 
 ---
+---
+
+title: Article - Meditations on Moloch
+ 
+---
 [[coordination failures (multipolar traps)]]
 - Arms races
 - Capitalism

@@ -2,6 +2,11 @@
 title: Everything is interconnected -interbeing- 
 ---
 ---
+
+title: Everything is interconnected -interbeing-
+ 
+---
+---
 title: everything is interconnected -interbeing-
 ---
 This is strongly connected to [[biosphere stewardship]] and the fact that believing that we are separate from Nature causes us to abuse it, destroy it

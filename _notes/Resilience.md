@@ -1,6 +1,11 @@
 ---
 title: Resilience 
 ---
+---
+
+title: Resilience
+ 
+---
 ## Resilience 101
 *A system's ability to maintain its self-organizing capacity, its identity, or its regime.*
 	

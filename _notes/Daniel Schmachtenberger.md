@@ -2,11 +2,11 @@
 title: Daniel Schmachtenberger 
 ---
 ## Key Ideas
-- Collective [[sense-making]]
+- Collective [[sense-making]] and [[choice-making]]
 - [[addiction is a signal of a less healthy and sovereign society]]
 	- [[Compersion]] may be the feature of individuals of a healthy society	
 - [[Epistemic Outsourcing]]
-- [[The Metacrisis]]
+- [[The Metacrisis]] -> [[Podcast - Green Pill with Daniel Schmachtenberger]]
 	- Useful to look at all our current biggest issues in a holistic way
 		- trying to solve one problem might make the other ones worse
 		- we can find the common "generator functions" (root causes) of our crises and try to solve for those
