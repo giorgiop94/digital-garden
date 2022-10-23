@@ -1,3 +1,6 @@
+---
+title: Emptiness 
+---
 *key teaching of [[Buddhism]] - also known as "dependent co-arising"*
 
 > *We participate in the **creation of the world** at the most fundamental level* - [[Rob Burbea]]

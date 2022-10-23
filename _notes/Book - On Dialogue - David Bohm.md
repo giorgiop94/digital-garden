@@ -1,3 +1,6 @@
+---
+title: Book - On Dialogue - David Bohm 
+---
 Back to [[David Bohm]] | [[Books]]
 
 ## What Dialogue Does 

@@ -1,3 +1,6 @@
+---
+title: what price are you willing to pay 
+---
 Many people often don't consider what they are giving up in their pursuit of money.
 
 Usually much time and energy is lost for this pursuit, and yet that price is often ignored.

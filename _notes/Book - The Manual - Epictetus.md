@@ -1,3 +1,6 @@
+---
+title: Book - The Manual - Epictetus 
+---
 Back to [[Books]] | [[Stoicism]]
 
 This is one of my favorite books.

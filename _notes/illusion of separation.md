@@ -1,3 +1,6 @@
+---
+title: illusion of separation 
+---
 The failure to recognize that [[everything is interconnected -interbeing-]]
 
 - We often see our Self, as an autonomous, independent entity, separate from others and the environment ([[What is the Self]])

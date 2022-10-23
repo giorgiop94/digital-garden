@@ -1,3 +1,6 @@
+---
+title: There is no such thing as enlightenment 
+---
 Enlightenment is just another concept, an idea fabricated by the mind, the [[Ego]]
 
 Who is there to be enlightened? You'd have to be someone before you could experience enlightenment.

@@ -1,3 +1,6 @@
+---
+title: Podcast - War On SenseMaking - Daniel Schmachtenberger 
+---
 # Episode 1
 - [[human minds are awfully malleable]]
 - Symmetry of power increase in [[Evolution]] (except in humans) 

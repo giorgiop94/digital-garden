@@ -1,3 +1,6 @@
+---
+title: Meditation 
+---
 > *a playground of infinite ways of looking at experience* - [[Rob Burbea]]
 
 

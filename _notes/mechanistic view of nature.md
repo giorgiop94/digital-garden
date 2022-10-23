@@ -1,3 +1,6 @@
+---
+title: mechanistic view of nature 
+---
 
 Worldview/[[ontology]] coming from the scientific revolution (~1700s) and informing modern [[science]]. Aka Newtonian/enlightenment worldview.
 

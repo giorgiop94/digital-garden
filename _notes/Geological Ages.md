@@ -1,3 +1,6 @@
+---
+title: Geological Ages 
+---
 ![Geological Ages](assets/Geological Ages.png)
 
 Cycles have been alternating between Ice ages and warmer periods

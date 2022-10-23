@@ -1,3 +1,6 @@
+---
+title: coordination failures (multipolar traps) 
+---
 Scenarios where each agent acting in their rational (short-term) best interest, leads to collective behavior that makes everyone being worse off in the long term. .
 
 > Once one agent learns how to become more competitive by sacrificing a common value, all its competitors must also sacrifice that value or be outcompeted and replaced by the less scrupulous. Therefore, the system is likely to end up with everyone once again equally competitive, but the sacrificed value is gone forever. From a god’s-eye-view, the competitors know they will all be worse off if they defect, but from within the system, given insufficient coordination it’s impossible to avoid. [[Article - Meditations on Moloch]]

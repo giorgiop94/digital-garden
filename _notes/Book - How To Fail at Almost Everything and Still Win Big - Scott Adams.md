@@ -1,3 +1,6 @@
+---
+title: Book - How To Fail at Almost Everything and Still Win Big - Scott Adams 
+---
 Super entertaining read. I think this is particularly useful for those at an early stage of their career.
 
 _Check the [Amazon](https://www.amazon.com/How-Fail-Almost-Everything-Still-ebook/dp/B00COOFBA4/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=giorgiopa-20&linkId=d930038672484b2fad8238a5e16449a9&language=en_US) page for details and reviews._

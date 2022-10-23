@@ -1,4 +1,7 @@
 ---
+title: tipping points 
+---
+---
 title: tipping points
 ---
 When a system fundamentally changes structure and function, settling into a new stable state.

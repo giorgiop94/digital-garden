@@ -1,3 +1,6 @@
+---
+title: Default Mode Network 
+---
 Responsible for:
 - Mind wandering (voices in our heads)
 - Imagining future

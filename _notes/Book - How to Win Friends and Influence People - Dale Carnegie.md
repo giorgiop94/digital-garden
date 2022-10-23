@@ -1,3 +1,6 @@
+---
+title: Book - How to Win Friends and Influence People - Dale Carnegie 
+---
 Timeless book on how to improve your _people skills_.
 
 I love it because Dale Carnegie isn't trying to teach how to trick people. Rather he wants to help you understand and develop the traits and habits of likable people and great leaders. A few examples that stand out are becoming genuinely interested in other people, praising people when they do something good, and being very careful when delivering criticism.

@@ -1,3 +1,6 @@
+---
+title: soil health is essential 
+---
 > "All life on Earth is dependent on six inches of top soil"
 	> From Video Why Regenerative Organic? | [Part 1: Big Agriculture Is Broken](https://www.youtube.com/watch?v=UUvabZSGbEk) [Part 2: Soil Is the Solution](https://www.youtube.com/watch?v=U0VyuddRq88)
 

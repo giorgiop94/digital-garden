@@ -1,3 +1,6 @@
+---
+title: pain sparks growth 
+---
 ## Suffering as a Signal
 
 > "Suffering is a sign that you’re out of touch with the truth. Suffering is given to you that you might open your eyes to the truth, that you might understand that there’s falsehood somewhere, just as physical pain is given to you so you will understand that there is disease or illness somewhere" [[Anthony DeMello]] #quotes 

@@ -1,3 +1,6 @@
+---
+title: form desire vs feeling desire 
+---
 - Form (material) desires constrain the way the future should look like based on a pre-conditioned form
 	- There will always be a difference between our idealized desire and what actually manifests, leading to disappointment
 

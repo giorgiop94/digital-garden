@@ -1,4 +1,7 @@
 ---
+title: Tao Te Ching 19 - Morality 
+---
+---
 title: Tao Te Ching 19 - Morality
 ---
 [[Book - Tao Te Ching - Lao Tzu]]

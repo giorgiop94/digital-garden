@@ -1,3 +1,6 @@
+---
+title: SoulMaking Dharma 
+---
 Approach to [[Buddhism]] developed by [[Rob Burbea]] & [[Catherine McGee]]
 
 **Unfabrication**

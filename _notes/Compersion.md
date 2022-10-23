@@ -1,3 +1,6 @@
+---
+title: Compersion 
+---
 The feeling of sympathetic joy springing from the happiness of another. 
 
 Even when their positive experience does not involve or benefit us directly.

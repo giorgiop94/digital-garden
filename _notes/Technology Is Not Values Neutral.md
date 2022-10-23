@@ -1,3 +1,6 @@
+---
+title: Technology Is Not Values Neutral 
+---
 ## Different (naive) views on [[technology]]
 Technology as **neutral** view: Common idea that technology simply increases capacity, but it does not affect values: you can use a hammer to build a house or hurt people.
 

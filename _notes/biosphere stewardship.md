@@ -1,3 +1,6 @@
+---
+title: biosphere stewardship 
+---
 ## Foundations
 - [[Systems Thinking]]
 	- [[Earth System Resilience]]

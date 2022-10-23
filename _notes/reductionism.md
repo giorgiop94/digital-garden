@@ -1,3 +1,6 @@
+---
+title: reductionism 
+---
 Assumption that: *the whole is equal to the sum of its parts*
 
 Attitude of [[Modernism]] and industrialism of reducing things to their components, functions and what can be measured, losing sight of the whole. An almost opposite perspective is [[Systems Thinking]]. 

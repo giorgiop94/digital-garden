@@ -1,3 +1,6 @@
+---
+title: Systems Thinking 
+---
 A useful way of thinking about problems that involve [[complex adaptive systems]]
 
 ### Biases to overcome through Systems Thinking

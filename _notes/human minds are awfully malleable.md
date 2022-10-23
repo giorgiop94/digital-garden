@@ -1,3 +1,6 @@
+---
+title: human minds are awfully malleable 
+---
 ## Culture, Society and Our Biases 
 
 Crazy to think how slavery used to be well accepted by almost everyone just because everyone else was also doing it.

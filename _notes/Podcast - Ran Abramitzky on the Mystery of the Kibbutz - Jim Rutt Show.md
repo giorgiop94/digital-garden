@@ -1,3 +1,6 @@
+---
+title: Podcast - Ran Abramitzky on the Mystery of the Kibbutz - Jim Rutt Show 
+---
 ## Impact of Kibbuts
 the kibbutz is, as of 2010, while only 2% of the population, are 9% of Israel’s industrial output, worth about $8 billion, and 40% of the agricultural output, worth 1.7 billion.
 

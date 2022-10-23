@@ -1,3 +1,6 @@
+---
+title: food systems as key leverage point 
+---
 ## Important Leverage Point in Planetary Boundaries
 Food systems directly affect 5 out of the 9 [[Planetary Boundaries]]
 

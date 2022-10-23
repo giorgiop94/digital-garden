@@ -1,3 +1,6 @@
+---
+title: Course - Tools for Regenerative Reinassance 
+---
 [Course Notes](https://docs.google.com/document/d/1lRFL-cRR5LbkrVQ9rg5_5Y4uwzlTy8hR7hCQ3uAhwcA/edit#heading=h.1gjcknjlije6)
 
 [Course Wiki](https://wiki.renaissance.university/)

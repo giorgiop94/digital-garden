@@ -1,3 +1,6 @@
+---
+title: Taoism 
+---
 ## Origins
 Taoism was born in China, we're not sure when (and don't care), but we know it must have been a few centuries B.C.
 

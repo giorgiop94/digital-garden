@@ -1,3 +1,6 @@
+---
+title: Buddhist Tantra 
+---
 *Tantra is an attitude, the attitude of spacious passion. Uniting spaciousness and passion unclogs energy, producing mastery, power, nobility, and playfulness.* [[David Chapman]]
 
 ## Mainstream Buddhism and Tantra

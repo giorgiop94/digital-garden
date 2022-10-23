@@ -1,3 +1,6 @@
+---
+title: Paper - Collective Action and the Evolution of Social Norm - Ostrom - 2000 
+---
 Collective Action and the Evolution of Social Norm by [[Elinor Ostrom]] on [[Managing the Commons]] & [[Common Pool Resources]]
 
 

@@ -1,3 +1,6 @@
+---
+title: Book - Colorless Tsukuru Tazaki and his years of pilgrimage - Murakami 
+---
 **Themes**: [[Abandonment]], Cruel and unfair world, Realize one's own worth, Psychology, Dreams, [[Self-doubt]] | [[Self-Acceptance]] | [[Self-Worth]]
 
 ### Personal Notes

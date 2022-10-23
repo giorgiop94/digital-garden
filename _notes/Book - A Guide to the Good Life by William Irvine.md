@@ -1,3 +1,6 @@
+---
+title: Book - A Guide to the Good Life by William Irvine 
+---
 Back to [[Books]] | [[Stoicism]]
 
 A great first step in the World of Stoicism. William Irvine did an amazing job at condensing the heart of Stoic knowledge and making it very accessible. I also enjoyed that he drew some comparisons with Buddhism, as the two philosophies share many ideas.

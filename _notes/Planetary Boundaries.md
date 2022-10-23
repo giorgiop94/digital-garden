@@ -1,3 +1,6 @@
+---
+title: Planetary Boundaries 
+---
 The boundaries that should not be crossed for us to keep the Earth in its currently desirable state (Holocene)
 
 Some of these boundaries show evidence of planetary scale [[tipping points]] and some do not. Those that don't show evidence of tipping points, however, are helpful in regulating and preventing tipping points of other boundaries.

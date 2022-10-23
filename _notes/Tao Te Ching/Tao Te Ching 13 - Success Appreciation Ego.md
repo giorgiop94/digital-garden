@@ -1,4 +1,7 @@
 ---
+title: Tao Te Ching 13 - Success Appreciation Ego 
+---
+---
 title: Tao Te Ching 13 - Success Appreciation Ego
 ---
 [[Book - Tao Te Ching - Lao Tzu]]

@@ -1,3 +1,6 @@
+---
+title: Book - Zen and the Art of Happiness 
+---
 Type: [[Books]] [[book notes]]
 Creator: Chris Prentiss
 Link: https://drive.google.com/file/d/104HmIYEd_9X6R4kkmmFsDhWhw3rke3rj/view?usp=sharing

@@ -1,3 +1,6 @@
+---
+title: Book - The Listening Society - Hanzi Freinacht 
+---
 Back to [[Books]] | [[Metamodernism]]
 
 Reality is much more than the facts of the matter. The real reality resides at the crossroads of fact and fiction. It is born precisely at the point where our imaginations, the stories we tell ourselves, meet the facts of the world and put them into context. 

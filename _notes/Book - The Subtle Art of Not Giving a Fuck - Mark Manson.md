@@ -1,3 +1,6 @@
+---
+title: Book - The Subtle Art of Not Giving a Fuck - Mark Manson 
+---
 Back to [[Books]]
 
 

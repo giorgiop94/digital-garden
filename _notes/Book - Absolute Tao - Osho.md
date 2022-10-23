@@ -1,3 +1,6 @@
+---
+title: Book - Absolute Tao - Osho 
+---
 Absolute Tao is a book excerpted from some talks that Osho gave on Taoism. In it, Osho shares his personal interpretation of the ancient Chinese Philosophy.
 
 [Amazon page](https://www.amazon.com/Absolute-Tao-Subtle-happiness-Treasures-ebook/dp/B006R6Z0QU/ref=as_li_ss_tl?_encoding=UTF8&qid=1605382913&sr=8-3&linkCode=ll1&tag=giorgiopa-20&linkId=8f775b330a9da4c0299d4eee192b4a4c&language=en_US)

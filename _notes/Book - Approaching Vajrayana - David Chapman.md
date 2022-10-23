@@ -1,3 +1,6 @@
+---
+title: Book - Approaching Vajrayana - David Chapman 
+---
 Back to [[David Chapman]] | [[Buddhism]] | [[Buddhist Tantra]]
 
 Link to [book/blog](https://vividness.live/)

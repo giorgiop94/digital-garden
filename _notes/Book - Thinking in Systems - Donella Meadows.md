@@ -1,3 +1,6 @@
+---
+title: Book - Thinking in Systems - Donella Meadows 
+---
 ## What Is a System?
 A system is a set of things—people, cells, molecules, or whatever—**interconnected** in such a way that they produce their **own pattern of behavior** over time. The system may be buffeted, constricted, triggered, or driven by outside forces. But the system’s response to these forces is characteristic of itself, and that response is seldom simple in the real world.
 

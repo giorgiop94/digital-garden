@@ -1,3 +1,6 @@
+---
+title: Food Systems 
+---
 *The food system is a complex web of all the activities (and beliefs and values that shape those activities) associated with food production, transportation, consumption and waste disposal*
 
 ![Food Systems Framework For CDT](https://foodsystems-cdt.ac.uk/images/images/doctoral-programme/FoodSystemsFrameworkForCDT.png)

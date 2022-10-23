@@ -1,3 +1,6 @@
+---
+title: Climate change 
+---
 - In the past 2000 years, during the [[Geological Ages#Holocene 10 000 years| Holocene]] temperatures varied a maximum of +/- 1 degrees
 - Over the past 150 years there was a stark increase in global temperatures
 	- We already increased temperatures by over ~1 degree 

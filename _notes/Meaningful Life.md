@@ -1,3 +1,6 @@
+---
+title: Meaningful Life 
+---
 ## Different Views
 ### [[Daniel Schmachtenberger]]
 From https://civilizationemerging.com/how-to-live-a-meaningful-life/

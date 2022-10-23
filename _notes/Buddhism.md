@@ -1,3 +1,6 @@
+---
+title: Buddhism 
+---
 > “The source of suffering is a false belief in permanence and the existence of separate selves.”  
 ― Thích Nhất Hạnh, Old Path White Clouds
 

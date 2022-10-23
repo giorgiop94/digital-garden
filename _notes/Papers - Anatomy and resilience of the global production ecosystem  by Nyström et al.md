@@ -1,3 +1,6 @@
+---
+title: Papers - Anatomy and resilience of the global production ecosystem  by Nyström et al 
+---
 ## GPE
 > The GPE is the result of three important and interacting trends: (1) the
 continued conversion of the Earth’s biosphere into simplified produc

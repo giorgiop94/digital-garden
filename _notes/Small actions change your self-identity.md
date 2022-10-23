@@ -1,3 +1,6 @@
+---
+title: Small actions change your self-identity 
+---
 The way you look at yourself (self-identity) determines how you act, what you do.
 
 The actions you take over time determine your self-identity

@@ -1,3 +1,6 @@
+---
+title: Dealing with Pain in Meditation 
+---
 ## From Rob Burbea's Art of Concentration Retreat
 [Link to recording](https://www.dharmaseed.org/talks/audio_player/210/11512.html)
 

@@ -1,3 +1,6 @@
+---
+title: Ozone Depletion 
+---
 The Ozone layer protects the Earth from harmful ultra-violet rays emitted from the Sun.
 
 Ultra-violet rays cause:

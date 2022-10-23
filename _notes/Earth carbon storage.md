@@ -1,3 +1,6 @@
+---
+title: Earth carbon storage 
+---
 > The total amount of carbon stored in terrestrial ecosystems is huge,
 almost 60 times larger than the current annual emissions of global GHG (CO2 equivalents, 2017) by humans, and with the major part, about 70% (1500–2400 Gt C) found in soil ([[soil health is essential]]) (Ciais et al. 2013). The ocean holds a much larger carbon pool, at about 38 000 Gt of carbon (Houghton 2007)
 

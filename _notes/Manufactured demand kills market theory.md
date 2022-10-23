@@ -1,3 +1,6 @@
+---
+title: Manufactured demand kills market theory 
+---
 - Asymmetry of power and resources between businesses and consumers
 	- Each consumer is on its own against trillion dollar organizations
 - **Manufactured demand kills market theory**

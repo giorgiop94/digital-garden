@@ -1,3 +1,6 @@
+---
+title: Book - Spiritual Enlightenment - Jed McKenna 
+---
 This is not your typical non-fiction book, it's more of a story. As Jed recounts some recent events in his life, he explains in detail how he sees the World and how he supports his students in the journey to enlightenment.
 
 Jed's no-bullshit approach is rough and straightforward. Aiming to violently dismantle some of your deepest held beliefs.

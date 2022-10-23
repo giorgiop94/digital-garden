@@ -1,3 +1,6 @@
+---
+title: Regenerative Agriculture 
+---
 Moving from farming as a factory to farming as an ecosystem
 
 ## What is regenerative agriculture?

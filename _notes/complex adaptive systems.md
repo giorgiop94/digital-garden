@@ -1,3 +1,6 @@
+---
+title: complex adaptive systems 
+---
 Often the term ‘complexity science’ is used interchangeably with ‘complexity theory’, ‘complex adaptive systems’ or even just ‘complexity’.
 
 [[Systems Thinking]] is an attitude to how one approaches problems/situations that is informed by complexity theory. In this way, complexity becomes a meta-discipline, that can be applied to other disciplines.

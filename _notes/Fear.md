@@ -1,3 +1,6 @@
+---
+title: Fear 
+---
 ## What is Fear?
 Danger and Fear are not the same. Danger is real, **Fear is the anticipation of danger our symbolic minds project everywhere**. 
 

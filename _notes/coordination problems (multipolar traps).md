@@ -1,3 +1,6 @@
+---
+title: coordination problems (multipolar traps) 
+---
 Scenarios where the things that work well for individuals locally are directly against the global well-being.
 
 Agents often create [[Reinforcing Feedback Loops]] that increasingly move towards the destruction of common well-being.

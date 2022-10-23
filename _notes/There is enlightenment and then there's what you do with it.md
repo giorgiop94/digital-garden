@@ -1,3 +1,6 @@
+---
+title: There is enlightenment and then there's what you do with it 
+---
 Enlightenment can bring one to a nihilist perspective that nothing matters
 
 ### Ethics

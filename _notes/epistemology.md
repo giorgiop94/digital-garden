@@ -1,3 +1,6 @@
+---
+title: epistemology 
+---
 *what are valid ways of knowing?*
 *how to gain knowledge about reality?*
 

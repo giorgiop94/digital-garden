@@ -1,3 +1,6 @@
+---
+title: meditation increases agency 
+---
 Back to: [[Meditation]] | [[Jamie Bristow]]
 
 Agency intended as:

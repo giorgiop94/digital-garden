@@ -1,3 +1,6 @@
+---
+title: Meaningness 
+---
 > I have coined the word “meaningness” to express the ambiguous quality of meaningfulness and meaninglessness that we encounter in practice. According to the stance that recognizes meaningness, meaning is real but not definite. It is neither objective nor subjective. It is neither given by an external force nor a human invention. [[David Chapman]]
 
 > The central message of this book is that meaning is real (and cannot be denied), but is fluid (so it cannot be fixed). It is neither objective (given by God) nor subjective (chosen by individuals). [[David Chapman]]

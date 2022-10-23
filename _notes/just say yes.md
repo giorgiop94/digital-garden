@@ -1,3 +1,6 @@
+---
+title: just say yes 
+---
 ## Decision-Making
 When you are just starting out your career, you're better off saying yes to everything. 
 

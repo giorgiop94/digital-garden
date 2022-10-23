@@ -1,3 +1,6 @@
+---
+title: The Middle Path 
+---
 > everything in moderation including moderation - [[Oscar Wilde]]
 
 ## The Middle Path

@@ -1,3 +1,6 @@
+---
+title: Biodiversity 
+---
 Back to: [[Planetary Boundaries]] | [[Food Systems]] | [[Earth System Resilience]]
 
 UN Convention on Biological Diversity’s (CBD) definition of biodiversity

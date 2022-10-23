@@ -1,4 +1,7 @@
 ---
+title: ways of looking 
+---
+---
 title: Ways of Looking
 ---
 Back to: [[Rob Burbea]] | [[Emptiness]]

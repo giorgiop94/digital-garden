@@ -1,3 +1,6 @@
+---
+title: Co-ownership models 
+---
 Broader topic: [[Decentralized Organizations]]
 
 - Co-ownership models as tools to help us deal with the [[Tragedy of the Commons]]

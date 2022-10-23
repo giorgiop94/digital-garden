@@ -1,3 +1,6 @@
+---
+title: the Universe is unfolding exactly as it should 
+---
 According to this idea, we have nothing to worry or be anxious about.
 
 The Universe (Nature) is perfect, or if not perfect, a lot smarter than us. So who are we to judge if something is going to be bad?

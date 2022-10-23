@@ -1,3 +1,6 @@
+---
+title: Podcast - Daniel Schmachtemberger on Jim Rutt Show 
+---
 [[addiction is a signal of a less healthy and sovereign society]]
 
 ### Can we Fix Our Democracy?

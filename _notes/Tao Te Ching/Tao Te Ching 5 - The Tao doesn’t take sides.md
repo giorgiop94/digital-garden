@@ -1,4 +1,7 @@
 ---
+title: Tao Te Ching 5 - The Tao doesn’t take sides 
+---
+---
 title: Tao Te Ching 5 - The Tao doesn’t take sides
 ---
 [[Book - Tao Te Ching - Lao Tzu]]

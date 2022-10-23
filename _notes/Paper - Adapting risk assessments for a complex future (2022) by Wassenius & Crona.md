@@ -1,3 +1,6 @@
+---
+title: Paper - Adapting risk assessments for a complex future (2022) by Wassenius & Crona 
+---
 *No single risk framework will likely overcome all challenges, but embracing
 additional aspects can improve their usability in a world of certain uncertainty*
 

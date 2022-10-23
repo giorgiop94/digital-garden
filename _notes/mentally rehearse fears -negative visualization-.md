@@ -1,4 +1,7 @@
 ---
+title: mentally rehearse fears -negative visualization- 
+---
+---
 title: mentally rehearse fears -negative visualization- 
 ---
 If you see your fears over and over in your mind, you'll be less scared and surprised when they come in real life

@@ -1,3 +1,6 @@
+---
+title: Samadhi 
+---
 *A state of energized calmness, a unification of body and mind*
 
 Samadhi is on a spectrum, you can have more or less at any given time. It is not a specific state to reach.

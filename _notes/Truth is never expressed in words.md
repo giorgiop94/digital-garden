@@ -1,3 +1,6 @@
+---
+title: Truth is never expressed in words 
+---
 ### Truth is never expressed in words
 A blind man can become an expert about the physics and the laws of light and fire, but he will never understand what it is #metaphor 
 

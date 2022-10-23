@@ -1,3 +1,6 @@
+---
+title: Ostrom's Framework to Managing Commons 
+---
 Framework developed by [[Elinor Ostrom]] to deal with the [[Tragedy of the Commons]]
 
 Difficult to implement globally, but can be done locally and have a global impact

@@ -1,3 +1,6 @@
+---
+title: Book - King, Warrior, Magician, Lover 
+---
 ![[King, Warrior, Magician, Lover.png]]
 
 ## King

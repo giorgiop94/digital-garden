@@ -1,3 +1,6 @@
+---
+title: Paper - Food in the Anthropocene the EAT–Lancet Commission 
+---
 [Link]((https://www.thelancet.com/commissions/EAT)
 Authors:  [[Stockholm Resilience Center]]
 Subject: [[Food Systems]] | [[Planetary Boundaries]] |

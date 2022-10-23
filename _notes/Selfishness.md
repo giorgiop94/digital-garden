@@ -1,3 +1,6 @@
+---
+title: Selfishness 
+---
 Selfishness is defined as prioritizing one's self interest over those of others.
 
 ### Evolution

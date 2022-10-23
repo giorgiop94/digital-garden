@@ -1,3 +1,6 @@
+---
+title: Nitrogen and Phosphorus Cycle 
+---
 # Nitrogen
 ![Nitrogen Cycle](assets/Nitrogen Cycle.png)
 

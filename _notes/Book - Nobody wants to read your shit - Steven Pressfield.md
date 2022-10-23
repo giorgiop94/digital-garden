@@ -1,3 +1,6 @@
+---
+title: Book - Nobody wants to read your shit - Steven Pressfield 
+---
 # Nobody wants to read your shit
 In school we get accustomed to having professors carefully read our writing.
 We get the wrong idea that the World is waiting to read what we write.

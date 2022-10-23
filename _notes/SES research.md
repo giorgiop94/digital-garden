@@ -1,3 +1,6 @@
+---
+title: SES research 
+---
 - **methodological pluralism**, beyond any single discipline
 - [[episemological agility]]
 - Action-oriented + reflexive learning

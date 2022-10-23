@@ -1,3 +1,6 @@
+---
+title: narrating self and experiencing self 
+---
 According to this idea, we have two distinct selves, the one experiencing things in the moment (experiencing), and the one that remembers them and creates stories about them (narrating).
 
 The issue is that the narrating self (which is the one who's responsible for decision-making), does not remember experiences too well, rather it simply averages the peak of an experience with its ending.

@@ -1,4 +1,7 @@
 ---
+title: Pitfalls of Modern Spirituality 
+---
+---
 title: Pitfalls of Modern Spirituality
 ---
 - Common western, [[consensus buddhism]] is so obsessed with the **individual's** inner growth and path

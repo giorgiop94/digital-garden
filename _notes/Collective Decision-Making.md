@@ -1,4 +1,7 @@
 ---
+title: Collective Decision-Making 
+---
+---
 title: Collective Decision-Making
 ---
 Tension between autocratic, fast decisions and common slow ones

@@ -1,3 +1,6 @@
+---
+title: all solutions are at best temporary 
+---
 **Any solution is going to inevitably be temporary. Having a set of guiding questions that are asked over and over can help us continuously adjust dealing with the unpredictability of the all**
 
 From [[Book - Designing Regenerative Cultures - Daniel Wahl]]

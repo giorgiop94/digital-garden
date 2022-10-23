@@ -1,3 +1,6 @@
+---
+title: Goals in Spiritual Practice 
+---
 > The goal is important only as an idea, the essential thing is the work that brings us towards the goal. [[Carl Jung]]
 
 ## We cannot totally rid of goals

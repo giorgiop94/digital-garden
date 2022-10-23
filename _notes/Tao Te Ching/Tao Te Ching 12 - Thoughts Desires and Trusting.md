@@ -1,4 +1,7 @@
 ---
+title: Tao Te Ching 12 - Thoughts Desires and Trusting 
+---
+---
 title: Tao Te Ching 12 - Thoughts Desires and Trusting
 ---
 [[Book - Tao Te Ching - Lao Tzu]]

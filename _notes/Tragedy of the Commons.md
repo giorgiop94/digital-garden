@@ -1,3 +1,6 @@
+---
+title: Tragedy of the Commons 
+---
 Issue that occurs with public goods that are non-rivalrous and non-excludable.
 
 **Each  individual pursuing their self-interest contributes to the depletion of the public good for the eventual harm of the whole group.**

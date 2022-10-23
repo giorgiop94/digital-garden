@@ -1,4 +1,7 @@
 ---
+title: Talks - Freedom From Fear and Anxiety - Rob Burbea 
+---
+---
 title: Talks - Freedom From Fear and Anxiety - Rob Burbea
 ---
 Even the Buddha talked about feeling great fear when he was practicing in the forest (before his enlightenment) and heard some noise

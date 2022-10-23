@@ -1,3 +1,6 @@
+---
+title: Book - The Island by Aldous Huxley 
+---
 Creator: [[Aldous Huxley]]
 Topics: [[Utopia]] [[Community]] [[Psychedelics]] [[Education]]
 Tags: #book 

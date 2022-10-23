@@ -1,3 +1,6 @@
+---
+title: your thoughts are not yours 
+---
 The basic idea is that every thought that we think had some causes and conditions that allowed it to arise. 
 
 Even the thoughts that we think are new, or innovative, are the result of cultural conditioning, influences, our upbringing etc...

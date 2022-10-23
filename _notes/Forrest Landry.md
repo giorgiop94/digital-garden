@@ -1,3 +1,6 @@
+---
+title: Forrest Landry 
+---
 *[[Ethics]] as the study of the principles of good, effective choice*
 
 # Interview with [[Daniel Schmachtenberger]]

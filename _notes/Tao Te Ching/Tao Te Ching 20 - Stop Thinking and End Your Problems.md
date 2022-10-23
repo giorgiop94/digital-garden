@@ -1,4 +1,7 @@
 ---
+title: Tao Te Ching 20 - Stop Thinking and End Your Problems 
+---
+---
 title: Tao Te Ching 20 - Stop Thinking and End Your Problems
 ---
 [[Book - Tao Te Ching - Lao Tzu]]

@@ -1,4 +1,7 @@
 ---
+title: Talks - Eros Unfettered - Opening the Dharma of Desire - Rob Burbea 
+---
+---
 title: Talks - Eros Unfettered - Opening the Dharma of Desire - Rob Burbea
 ---
 [Link to retreat](https://www.dharmaseed.org/retreats/3270/)

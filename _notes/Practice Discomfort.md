@@ -1,3 +1,6 @@
+---
+title: Practice Discomfort 
+---
 Idea from [[Stoicism]] about intentionally putting oneself in uncomfortable conditions for a certain amount of time.
 
 Twofold gains:

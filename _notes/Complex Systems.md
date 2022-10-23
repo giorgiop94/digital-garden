@@ -1,3 +1,6 @@
+---
+title: Complex Systems 
+---
 - A system consists of interconnected elements (agents) 
 	- **It's more than the sum of its parts** (agents interact in nonlinear ways)
 		- Elements are interconnected and interdependent

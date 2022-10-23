@@ -1,3 +1,6 @@
+---
+title: Social Ecological Systems (SES) 
+---
 The concept of SES is based on the notion that ‘the delineation between social and natural systems is artificial and arbitrary’ , emphasising that people and nature are intertwined.
 
 An example of [[complex adaptive systems]]

@@ -1,3 +1,6 @@
+---
+title: the map is not the territory -menu is not the food- 
+---
 Fallacy of misplaced concreteness, [[everything constantly changes (impermanence)]]
 
 > In assigning fixed labels we commit the fallacy of misplaced concreteness. According to Whitehead, by mistaking abstractions, beliefs or mental constructs for physical or “concrete” reality, we hypnotise ourselves. Larry G. Maguire in [Whitehead: The Fallacy of Misplaced Concreteness](https://larrygmaguire.com/misplaced-concreteness/) 

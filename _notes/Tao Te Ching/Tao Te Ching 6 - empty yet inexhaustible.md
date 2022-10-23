@@ -1,4 +1,7 @@
 ---
+title: Tao Te Ching 6 - empty yet inexhaustible 
+---
+---
 title: Tao Te Ching 6 - empty yet inexhaustible
 ---
 [[Book - Tao Te Ching - Lao Tzu]]

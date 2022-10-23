@@ -1,3 +1,6 @@
+---
+title: Decentralized Organizations 
+---
 - [[Minimum Viable Structure]]
 - [[Collective Decision-Making]]
 - [[Book - Thinking in Systems - Donella Meadows#Accountability Requires Transparency]]

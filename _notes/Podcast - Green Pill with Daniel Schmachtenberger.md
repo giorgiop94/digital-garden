@@ -1,3 +1,6 @@
+---
+title: Podcast - Green Pill with Daniel Schmachtenberger 
+---
 Relevant Notes: [[The Metacrisis]] | [[coordination failures (multipolar traps)]] | [[Daniel Schmachtenberger]]
 
 # Part 1 - The Metacrisis

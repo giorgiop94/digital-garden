@@ -1,3 +1,6 @@
+---
+title: Book - The Selfish Gene by Richard Dawkins 
+---
 - Genes are self-replicating machines with the ultimate goal of surviving and reproducing
 	- Strong genes survive and weak ones die
 		- Strong genes created cells to protect themselves from each other

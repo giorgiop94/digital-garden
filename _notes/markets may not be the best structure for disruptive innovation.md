@@ -1,3 +1,6 @@
+---
+title: markets may not be the best structure for disruptive innovation 
+---
 - Are markets not the best structure for deep innovation?
 - **Many of the most revolutionary innovations were created by governments**
 

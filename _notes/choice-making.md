@@ -1,3 +1,6 @@
+---
+title: choice-making 
+---
 - What is the thing we dream of?
 - 3 aspects of choice
 	- *Potential* - There needs to be options to select from

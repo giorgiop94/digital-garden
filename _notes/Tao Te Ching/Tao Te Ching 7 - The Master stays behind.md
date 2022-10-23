@@ -1,4 +1,7 @@
 ---
+title: Tao Te Ching 7 - The Master stays behind 
+---
+---
 title: Tao Te Ching 7 - The Master stays behind 
 ---
 [[Book - Tao Te Ching - Lao Tzu]]

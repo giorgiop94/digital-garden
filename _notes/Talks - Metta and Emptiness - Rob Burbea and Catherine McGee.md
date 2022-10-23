@@ -1,4 +1,7 @@
 ---
+title: Talks - Metta and Emptiness - Rob Burbea and Catherine McGee 
+---
+---
 title: Talks - Metta and Emptiness - Rob Burbea and Catherine McGee
 ---
 [[Rob Burbea]]

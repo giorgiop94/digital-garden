@@ -1,3 +1,6 @@
+---
+title: Sovereignty 
+---
 > Sovereignty relates to the capacity for and demonstration of good (omni-positive) [[choice-making]]. We can define sovereignty more formally as the product of sentience, intelligence, and agency. [[Daniel Schmachtenberger]]
 
 

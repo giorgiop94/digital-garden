@@ -1,3 +1,6 @@
+---
+title: Enlightenment 
+---
 ## Different Ideas on Enlightenment
 - [[There is no such thing as enlightenment]] - It is also empty
 

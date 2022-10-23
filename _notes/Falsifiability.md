@@ -1,3 +1,6 @@
+---
+title: Falsifiability 
+---
 Falsifiability is the assertion that for any hypothesis to have credence, it must be inherently disprovable before it can become accepted as a scientific hypothesis or theory.
 
 It doesn't mean that you have to prove it's wrong, but you have to be able to prove whether it is wrong or not.

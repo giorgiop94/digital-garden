@@ -1,3 +1,6 @@
+---
+title: Stoicism 
+---
 ## Attitudes
 - [[Focus on What You Can Control (Internal vs External)]]
 	   - [[Focus on the process not the outcome]]

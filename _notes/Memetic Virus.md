@@ -1,3 +1,6 @@
+---
+title: Memetic Virus 
+---
 Ideas can infect people just like viruses and create some sort of psychological pandemic. As more people get infected it becomes easier and easier for the virus to spread as [[human minds are awfully malleable]]
 
 Large scale examples are:

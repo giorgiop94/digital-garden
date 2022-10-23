@@ -1,3 +1,6 @@
+---
+title: cathedral thinking 
+---
 **“If your life’s work can be accomplished in your lifetime, you’re not thinking big enough”** Wes Jackson
 
 

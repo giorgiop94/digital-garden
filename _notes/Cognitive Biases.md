@@ -1,3 +1,6 @@
+---
+title: Cognitive Biases 
+---
 
 - [[Confirmation Bias]]
 - [[Hindsight Bias]]

@@ -1,3 +1,6 @@
+---
+title: Earth System Resilience 
+---
 The Earth has systems in place to remain in its current Holocenic state
 through regulating [[Ecosystem Services]]
 

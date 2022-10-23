@@ -1,3 +1,6 @@
+---
+title: Book - Eros - Plato 
+---
 ## Phaedrus Speech
 ### Love as Catalyst for Right Action
 Therefore I declare that if any man who is in love were to be revealed doing something dishonourable or submitting dishonourably to someone without defending himself, because of cowardice, he would not find it as painful to be seen by his father or his friends or anyone like that as he would to be seen by his beloved.

@@ -1,3 +1,6 @@
+---
+title: Book - Four Agreements - Don Miguel Ruiz 
+---
 ### Mitote [[We Live In a Dream World - Maya]]
 
 > "The dream of the planet includes all of society’s rules, its beliefs, its laws, its religions, its different cultures and ways to be, its governments, schools, social events, and holidays. We are born with the capacity to learn how to dream, and the humans who live before us teach us how to dream the way society dreams. The outside dream has so many rules that when a new human is born, we hook the child’s attention and introduce these rules into his or her mind. The outside dream uses Mom and Dad, the schools, and religion to teach us how to dream."

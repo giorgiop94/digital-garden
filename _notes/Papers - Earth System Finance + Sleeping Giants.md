@@ -1,4 +1,7 @@
 ---
+title: Papers - Earth System Finance + Sleeping Giants 
+---
+---
 title: Papers - Earth System Finance + Sleeping Giants
 ---
 [Link](https://sleepinggiants.earth/)

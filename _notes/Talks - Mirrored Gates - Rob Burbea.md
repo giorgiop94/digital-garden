@@ -1,4 +1,7 @@
 ---
+title: Talks - Mirrored Gates - Rob Burbea 
+---
+---
 title: Talks - Mirrored Gates - Rob Burbea
 ---
 

@@ -1,3 +1,6 @@
+---
+title: choose faith over fear 
+---
 In the midst of uncertainty, we can choose to fear the future of to have faith in it.
 
 We can trust that [[the Universe is unfolding exactly as it should]]. [[Embrace Uncertainty]]

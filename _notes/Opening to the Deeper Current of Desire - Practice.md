@@ -1,4 +1,7 @@
 ---
+title: Opening to the Deeper Current of Desire - Practice 
+---
+---
 title: Opening to the Deeper Current of Desire - Practice
 ---
 *Is it possible that the contraction of craving is a result of not allowing the energy of the deeper desires to unfold and be felt?*

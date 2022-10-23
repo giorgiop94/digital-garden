@@ -1,3 +1,6 @@
+---
+title: Ocean acidification 
+---
 One of the Earth's [[Planetary Boundaries]], measured in terms of Aragonite saturation (a measure of carbonate ion concentration.)
 
 ## Ecological Aspects

@@ -1,3 +1,6 @@
+---
+title: post tragic 
+---
 There's a pre-tragic optimism that people have before their ideals get shattered by the reality of the world (naivete).
 
 Cynisism emerges once one encounters the reality of the world and their ideals are shattered.

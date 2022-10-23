@@ -1,3 +1,6 @@
+---
+title: Podcast - Daniel Schmachtemberger on The Portal with Eric Weinstein 
+---
 ## Autopoetic (self-perpetuating) System
 - Civilization system
 	- Intersection of institutions, economics, culture, education, media

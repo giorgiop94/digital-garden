@@ -1,3 +1,6 @@
+---
+title: Paper - The Blue Acceleration by Jouffray et al. 2020 
+---
  [The Blue Acceleration – The trajectory of human expansion into the ocean](https://url11b.mailanyone.net/v1/?m=1n7KDa-0005Sh-3U&i=57e1b682&c=KD08bkkK9tpVKnlNrdzOSSGqVgOh2U__W4pTTatg0_gFaZRJJCiHIEwwJJFwnN861bxtUqSOKR4NjvCXJZpVLtA66xNg4EJIIpqjXaQHsqcO-9EFqhfmW5oKfU4g7IcwEUj_IXxqTZaxOs4Ijz_Yww619IefchYRX8lanLVJ5O-UF2W-V-f9DcN-mNqweqvhhF1HFaT6bG6cAT4zdJ4VdBExrzaIgXUXyXhpyPSOjw33D77p_XnPQI_JuP01UTEzWjxfb-sFn1xN-JoZL1B1sA)
 
 > the proportion of commercial fish stocks that are overfished has tripled over the past 40 years,

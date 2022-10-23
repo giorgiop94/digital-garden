@@ -1,3 +1,6 @@
+---
+title: Book - Designing Regenerative Cultures - Daniel Wahl 
+---
 Back to [[Books]] |  [[biosphere stewardship]]
 
 ## Need for a Systems Perspective

@@ -1,3 +1,6 @@
+---
+title: Daniel Schmachtenberger 
+---
 ## Key Ideas
 - Collective [[sense-making]]
 - [[addiction is a signal of a less healthy and sovereign society]]

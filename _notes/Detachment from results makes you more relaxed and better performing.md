@@ -1,3 +1,6 @@
+---
+title: Detachment from results makes you more relaxed and better performing 
+---
 - **Can we judge ourselves based on intentions rather than results?** [[Rob Burbea]]
 
 The more you are focused on the outcome, the less you are focused on the here and now, on the action that allows you to achieve that outcome.

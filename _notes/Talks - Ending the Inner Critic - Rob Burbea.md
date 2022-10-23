@@ -1,4 +1,7 @@
 ---
+title: Talks - Ending the Inner Critic - Rob Burbea 
+---
+---
 title: Talks - Ending the Inner Critic - Rob Burbea
 ---
 ## What's the Inner Critic?

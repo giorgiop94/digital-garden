@@ -1,3 +1,6 @@
+---
+title: Every feeling is a reminder of something important to us 
+---
 > **We learn about _what’s important to us_ through our feelings. We learn about what we _value_.**
 
 ### Examples

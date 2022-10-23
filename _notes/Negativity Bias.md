@@ -1,3 +1,6 @@
+---
+title: Negativity Bias 
+---
 the brain is like Velcro for negative experiences and Teflon for positive ones.
 
 ![Negativity Bias](assets/Negativity Bias.png)

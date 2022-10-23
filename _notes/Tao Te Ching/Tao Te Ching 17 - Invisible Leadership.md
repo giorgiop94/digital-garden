@@ -1,4 +1,7 @@
 ---
+title: Tao Te Ching 17 - Invisible Leadership 
+---
+---
 title: Tao Te Ching 17 - Invisible Leadership
 ---
 [[Book - Tao Te Ching - Lao Tzu]]

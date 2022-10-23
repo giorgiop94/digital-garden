@@ -1,3 +1,6 @@
+---
+title: Decision Journals 
+---
 Before and after any Important Decision Ask yourself:
 
 - What information I knew, or was knowable, beforehand?

@@ -1,3 +1,6 @@
+---
+title: Group selection theory 
+---
 ### Theory
 
 The Theory states that tribes whose members sacrifice themselves for the welfare of the group, are less likely to go extinct than tribes whose members prioritize their own selfish interests.

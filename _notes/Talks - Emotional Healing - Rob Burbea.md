@@ -1,4 +1,7 @@
 ---
+title: Talks - Emotional Healing - Rob Burbea 
+---
+---
 title: Talks - Emotional Healing - Rob Burbea
 ---
 [Link to talk](https://dharmaseed.org/teacher/210/talk/12481/)

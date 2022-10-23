@@ -1,3 +1,6 @@
+---
+title: complexity and finance 
+---
 - financial markets exhibit [[tipping points]], sudden and unforeseen collapses
 - [[Reinforcing Feedback Loops]] contribute to speculation-driven bubbles, crashes and [[herd behavior]]
 - Rich get richer dynamics
