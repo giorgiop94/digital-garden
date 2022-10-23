@@ -1,9 +1,6 @@
 ---
 title: Talks - Beauty of Desire - Rob Burbea 
 ---
----
-title: Talks - Beauty of Desire - Rob Burbea
----
 Talks by [[Rob Burbea]]
 [Link to talks](https://dharmaseed.org/retreats/1518/?page=2)
 [Link to Transcripts](https://airtable.com/shr9OS6jqmWvWTG5g/tblHlCKWIIhZzEFMk/viw3k0IfSo0Dve9ZJ/recJzwE1V0cawyyVE/fldJfzyMJCDaGCKom/attCvs3fqCezDe0gI)

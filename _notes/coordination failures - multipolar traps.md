@@ -1,10 +1,5 @@
 ---
-title: coordination failures (multipolar traps) 
----
----
-
-title: coordination failures (multipolar traps)
- 
+title: coordination failures - multipolar traps 
 ---
 Scenarios where each agent acting in their rational (short-term) best interest, leads to collective behavior that makes everyone being worse off in the long term. .
 

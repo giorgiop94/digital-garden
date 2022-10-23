@@ -1,10 +1,6 @@
 ---
 title: Talks - Mirrored Gates - Rob Burbea 
 ---
----
-title: Talks - Mirrored Gates - Rob Burbea
----
-
 Talks by [[Rob Burbea]] supplementing, elaborating, clarifying previous materials on Soulmaking Dharma
 
 ## Talk 1 

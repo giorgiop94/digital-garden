@@ -4,7 +4,7 @@
 ## Different Ideas on Enlightenment
 - [[There is no such thing as enlightenment]] - It is also empty
 
-- [[There is enlightenment and then there's what you do with it]]
+- [[there is enlightenment and there's what you do with it]]
 
 - Enlightenment means realizing the truth
 	- Truth seen as the experience in the present moment

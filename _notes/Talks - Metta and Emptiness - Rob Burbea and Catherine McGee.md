@@ -1,9 +1,6 @@
 ---
 title: Talks - Metta and Emptiness - Rob Burbea and Catherine McGee 
 ---
----
-title: Talks - Metta and Emptiness - Rob Burbea and Catherine McGee
----
 [[Rob Burbea]]
 [Link to retreat](https://dharmaseed.org/retreats/1277/)
 

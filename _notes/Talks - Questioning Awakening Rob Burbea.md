@@ -1,9 +1,6 @@
 ---
 title: Talks - Questioning Awakening Rob Burbea 
 ---
----
-title: Talks - Questioning Awakening Rob Burbea
----
 Talks by [[Rob Burbea]]
 Links to talks
 - [Questioning Awakening](https://dharmaseed.org/teacher/210/talk/26010/)

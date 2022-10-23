@@ -1,9 +1,6 @@
 ---
 title: Talks - The Art of Concentration Retreat - Rob Burbea 
 ---
----
-title: Talks - The Art of Concentration Retreat - Rob Burbea
----
 [Link to retreat](https://www.dharmaseed.org/retreats/1183/)
 
 ## Talk One

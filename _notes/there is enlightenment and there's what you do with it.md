@@ -1,14 +1,9 @@
 ---
-title: There is enlightenment and then there's what you do with it 
----
----
-
-title: There is enlightenment and then there's what you do with it
- 
+title: there is enlightenment and there's what you do with it 
 ---
 Enlightenment can bring one to a nihilist perspective that nothing matters
 
-### Ethics
+### [[Ethics]]
 - Enlightenment is not necessarily linked with ethical behavior
 	- Example of Zen Buddhists condoning atrocious behavior during WW2
 

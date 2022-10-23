@@ -1,9 +1,6 @@
 ---
 title: Talks - Approaching the Dharma - Rob Burbea 
 ---
----
-title: Talks - Approaching the Dharma - Rob Burbea
----
 # Approaching the Dharma
 
 ## Ways of Looking to Liberate Us

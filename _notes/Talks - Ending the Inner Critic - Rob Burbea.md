@@ -1,9 +1,6 @@
 ---
 title: Talks - Ending the Inner Critic - Rob Burbea 
 ---
----
-title: Talks - Ending the Inner Critic - Rob Burbea
----
 ## What's the Inner Critic?
 - A sub-personality
 	- A manifestation of one's Self view

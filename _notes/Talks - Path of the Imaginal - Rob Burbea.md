@@ -1,9 +1,6 @@
 ---
 title: Talks - Path of the Imaginal - Rob Burbea 
 ---
----
-title: Talks - Path of the Imaginal - Rob Burbea
----
 [Link to Retreat](https://dharmaseed.org/retreats/2678/) by [[Rob Burbea]]
 
 ## Practice Talks

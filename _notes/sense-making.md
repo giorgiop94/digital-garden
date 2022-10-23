@@ -3,7 +3,7 @@
 ---
 > If you want an open society where everyone gets to participate in [[choice-making]] then everyone has to do a good job at [[sense-making]] (and meaning-making) - [[Daniel Schmachtenberger]]
 
-Many of our biggest global problems are [[coordination failures (multipolar traps)]]. If we're not able to make sense of the world in a coherent way, we won't be able to make the right decisions, particularly since the issues we face are complex and can't simply be solved analytically. 
+Many of our biggest global problems are [[coordination failures - multipolar traps]]. If we're not able to make sense of the world in a coherent way, we won't be able to make the right decisions, particularly since the issues we face are complex and can't simply be solved analytically. 
 
 Collective sense-making is the precursor to [[Collective Decision-Making]]. You need to make sense of the World before you can make proper decisions.
 

@@ -1,10 +1,6 @@
 ---
 title: Talks - Samatha Retreat - Rob Burbea 
 ---
----
-title: Talks - Samatha Retreat - Rob Burbea
----
-
 - [Link to retreat](https://www.dharmaseed.org/retreats/1308) by [[Rob Burbea]]
 - Favorite Guided Meditation on Day 3
 

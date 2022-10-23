@@ -1,12 +1,7 @@
 ---
 title: Article - Meditations on Moloch 
 ---
----
-
-title: Article - Meditations on Moloch
- 
----
-[[coordination failures (multipolar traps)]]
+[[coordination failures - multipolar traps]]
 - Arms races
 - Capitalism
 - The Malthusian trap
@@ -19,7 +14,7 @@ title: Article - Meditations on Moloch
 
 ▪ A basic principle unites all of the multipolar traps above. In some competition optimizing for X, the opportunity arises to throw some other value under the bus for improved X. Those who take it prosper. Those who don’t take it die out. Eventually, everyone’s relative status is about the same as before, but everyone’s absolute status is worse than before. The process continues until all other values that can be traded off have been – in other words, until human ingenuity cannot possibly figure out a way to make things any worse.
 
-Multipolar traps – races to the bottom – threaten to destroy all human values. They are currently restrained by physical limitations, excess resources, utility maximization, and coordination.
+Multipolar traps – races to the bottom – threaten to destroy all human values. They are currently restrained by physical limitations, excess resources, utility maximization, and coordination. 
 
 
 ---
@@ -27,18 +22,18 @@ Multipolar traps – races to the bottom – threaten to destroy all human value
 ## Examples of Traps
 
 ### Education
-▪ People ask why we can’t reform the education system. But right now students’ incentive is to go to the most prestigious college they can get into so employers will hire them –
-whether or not they learn anything. Employers’ incentive is to get students from the most prestigious college they can so that they can defend their decision to their boss if it goes
-wrong – whether or not the college provides value added. And colleges’ incentive is to do whatever it takes to get more prestige, as measured in US News and World Report
-rankings – whether or not it helps students. Does this lead to huge waste and poor education? Yes. Could the Education God notice this and make some Education Decrees that lead to a vastly more efficient system? Easily! But since there’s no Education God everybody is just going to follow their own incentives, which are only partly correlated with education or
+▪ People ask why we can’t reform the education system. But right now students’ incentive is to go to the most prestigious college they can get into so employers will hire them – 
+whether or not they learn anything. Employers’ incentive is to get students from the most prestigious college they can so that they can defend their decision to their boss if it goes 
+wrong – whether or not the college provides value added. And colleges’ incentive is to do whatever it takes to get more prestige, as measured in US News and World Report 
+rankings – whether or not it helps students. Does this lead to huge waste and poor education? Yes. Could the Education God notice this and make some Education Decrees that lead to a vastly more efficient system? Easily! But since there’s no Education God everybody is just going to follow their own incentives, which are only partly correlated with education or 
 efficiency.
 
 ### Government corruption
-▪ I don’t know of anyone who really thinks, in a principled way, that corporate welfare is a good idea. But the government still manages to spend somewhere around (depending on how you calculate it) $100 billion dollars a year on it – which for example is three times the amount they spend on health care for the needy. Everyone familiar with the problem has come up with the same easy solution: stop giving so much corporate welfare. Why doesn’t it happen? Government are competing against one another to get elected or promoted. And suppose part of optimizing for electability is optimizing campaign donations from corporations – or maybe it isn’t,
+▪ I don’t know of anyone who really thinks, in a principled way, that corporate welfare is a good idea. But the government still manages to spend somewhere around (depending on how you calculate it) $100 billion dollars a year on it – which for example is three times the amount they spend on health care for the needy. Everyone familiar with the problem has come up with the same easy solution: stop giving so much corporate welfare. Why doesn’t it happen? Government are competing against one another to get elected or promoted. And suppose part of optimizing for electability is optimizing campaign donations from corporations – or maybe it isn’t, 
 but officials think it is. Officials who try to mess with corporate welfare may lose the support of corporations and be outcompeted by officials who promise to keep it intact. So although from a god’s-eye-view everyone knows that eliminating corporate welfare is the best solution, each individual official’s personal incentives push her to maintain it.
 
 ### Democracy (disconnect between good policymaking and electability)
-▪ I think it is less well appreciated that democracy has the same problems. Yes,
+▪ I think it is less well appreciated that democracy has the same problems. Yes, 
 in theory it’s optimizing for voter happiness which correlates with good policymaking. But as soon as there’s the slightest [[disconnect between good policymaking and electability]], good policymaking has to get thrown under the bus.
 
 ### Capitalism
@@ -53,7 +48,7 @@ in theory it’s optimizing for voter happiness which correlates with good polic
 ## Moloch Restrainers
 The limit of multipolar traps as technology approaches infinity is “very bad”.
 
-Multipolar traps – races to the bottom – threaten to destroy all human values. They are currently restrained by physical limitations, excess resources, utility maximization, and coordination.
+Multipolar traps – races to the bottom – threaten to destroy all human values. They are currently restrained by physical limitations, excess resources, utility maximization, and coordination. 
 
 ### physical limitations
 **Physical limitations** are most obviously conquered by increasing technology. The slavemaster’s old conundrum – that slaves need to eat and sleep – succumbs to Soylent and modafinil.
@@ -75,8 +70,8 @@ Comment: As tech improves, continuing to maximize utility is increasingly likely
 But coordination only works when you have 51% or more of the force on the side of the people doing the coordinating, and when you haven’t come up with some brilliant trick to make coordination impossible.
 
 #### Slavery Example In-Depth
-▪ Imagine a profit-maximizing slavemaster who decided to cut costs by not feeding his slaves or letting them sleep. He would soon find that his slaves’ productivity dropped off drastically, and that no amount of whipping them could restore it. Eventually after testing numerous strategies, he might find his slaves got the most work done when they were well-fed and well-rested and had at least a little bit of time to relax. Not because the slaves were voluntarily withholding their labor – we assume the fear of punishment is enough to make them work as hard as they can – but because the body has certain physical limitations that limit how mean you can
-get away with being. Thus, the “race to the bottom” stops somewhere short of the actual ethical bottom, when the physical limits are run into. John Moes, a historian of slavery, goes further and writes about how the slavery we are most familiar with – that of the antebellum South – is a historical aberration and probably economically inefficient. In most past forms of slavery – especially those of the ancient world – it was common for slaves to be paid wages, treated
+▪ Imagine a profit-maximizing slavemaster who decided to cut costs by not feeding his slaves or letting them sleep. He would soon find that his slaves’ productivity dropped off drastically, and that no amount of whipping them could restore it. Eventually after testing numerous strategies, he might find his slaves got the most work done when they were well-fed and well-rested and had at least a little bit of time to relax. Not because the slaves were voluntarily withholding their labor – we assume the fear of punishment is enough to make them work as hard as they can – but because the body has certain physical limitations that limit how mean you can 
+get away with being. Thus, the “race to the bottom” stops somewhere short of the actual ethical bottom, when the physical limits are run into. John Moes, a historian of slavery, goes further and writes about how the slavery we are most familiar with – that of the antebellum South – is a historical aberration and probably economically inefficient. In most past forms of slavery – especially those of the ancient world – it was common for slaves to be paid wages, treated 
 well, and often given their freedom. He argues that this was the result of rational economic calculation.
 
 
@@ -85,7 +80,7 @@ well, and often given their freedom. He argues that this was the result of ratio
 
 
 ### Relief of System as An Agent
-There’s [a passage](http://principiadiscordia.com/book/45.php) in the _Principia Discordia_ where Malaclypse complains to the Goddess about the evils of human society. “Everyone is hurting each other, the planet is rampant with injustices, whole societies plunder groups of their own people, mothers imprison sons, children perish while brothers war.”
+There’s [a passage](http://principiadiscordia.com/book/45.php) in the _Principia Discordia_ where Malaclypse complains to the Goddess about the evils of human society. “Everyone is hurting each other, the planet is rampant with injustices, whole societies plunder groups of their own people, mothers imprison sons, children perish while brothers war.” 
 
 The **Goddess** answers: “What is the matter with that, if it’s what you want to do?”
 
@@ -95,5 +90,5 @@ Goddess : “ Oh . Well , then stop.”
 The implicit question is – if everyone hates the current system, who perpetuates it? And Ginsberg answers : “Moloch” . It’s powerful not because it’s correct – nobody literally thinks an ancient Carthaginian demon causes everything – but because thinking of the system as an agent throws into relief the degree to which the system _isn’t_ an agent.
 
 ### We Live in a Dream Time
-▪ It’s as if a group of those rats who had abandoned art and turned to cannibalism suddenly was blown away to a new empty island with a much higher carrying capacity, where they would once again have the breathing room to live in peace and create artistic master pieces. This is an age of whalefall, an age of excess carrying capacity, an age when we suddenly find our selves with a thousandmile head star t on Malthus. As Hanson puts it, this is the dream time. As long as resources aren’t scarce enough to lock us in a war of all against all, we can do silly non-optimal things – like art and music and philosophy and love – and not be outcompeted by merci-
+▪ It’s as if a group of those rats who had abandoned art and turned to cannibalism suddenly was blown away to a new empty island with a much higher carrying capacity, where they would once again have the breathing room to live in peace and create artistic master pieces. This is an age of whalefall, an age of excess carrying capacity, an age when we suddenly find our selves with a thousandmile head star t on Malthus. As Hanson puts it, this is the dream time. As long as resources aren’t scarce enough to lock us in a war of all against all, we can do silly non-optimal things – like art and music and philosophy and love – and not be outcompeted by merci- 
 less killing machines most of the time.

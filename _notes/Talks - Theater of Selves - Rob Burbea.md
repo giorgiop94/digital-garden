@@ -1,9 +1,6 @@
 ---
 title: Talks - Theater of Selves - Rob Burbea 
 ---
----
-title: Talks - Theater of Selves - Rob Burbea
----
 Talks by [[Rob Burbea]]
 Concepts: [[Emptiness]]  | [[Emptiness of self]] | [[What is the Self]] |[[Imaginal practice]] | 
 

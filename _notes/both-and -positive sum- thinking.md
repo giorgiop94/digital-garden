@@ -1,10 +1,5 @@
 ---
-title: both-and (positive-sum) thinking 
----
----
-
-title: both-and (positive-sum) thinking
- 
+title: both-and -positive sum- thinking 
 ---
 Back to: [[Metamodernism]]
 

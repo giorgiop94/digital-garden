@@ -6,6 +6,11 @@
 title: Regeneration
  
 ---
+---
+
+title: Regeneration
+ 
+---
 ## Foundations
 - [[Systems Thinking]]
 	- [[Earth System Resilience]]

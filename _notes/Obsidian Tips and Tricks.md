@@ -12,7 +12,8 @@ You can filter out all of our daily notes from a search by adding the notation:
 -tag:journaling
 
 ### add front-matter to all notes for publishing (in powershell)
-```$files = Get-ChildItem -path INSERT PATH NAME -filter *.md -recurse -force
+```
+$files = Get-ChildItem -path /home/giorgio/github/my-digital-garden -filter *.md -recurse -force
 foreach ($file in $files)
 {
    	$content = Get-Content $file.FullName
@@ -22,5 +23,5 @@ foreach ($file in $files)
 	Write-Output "================================ `r `n inserting" $newString " in" $file.FullName
 	Set-Content $file.FullName -value $newString, $content
 }
-```
+
 ```

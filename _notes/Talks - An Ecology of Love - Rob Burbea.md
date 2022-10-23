@@ -1,10 +1,6 @@
 ---
 title: Talks - An Ecology of Love - Rob Burbea 
 ---
----
-title: Talks - An Ecology of Love - Rob Burbea
----
-
 *Opening up and Exploring our Love for Nature, its sacredness*
 
 *Love of Nature as a basis for activism*
