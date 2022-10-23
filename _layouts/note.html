@@ -5,11 +5,6 @@ layout: default
 <article id="note-main">
   <div id="note-header">
     <h1>{{ page.title }}</h1>
-    <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">
-      {% if page.type != 'pages' %}
-      Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }}
-      {% endif %}
-    </time>
   </div>
 
   <div id="note-content" class="backlink-wrapper">
@@ -48,7 +43,7 @@ layout: default
 
 <script type="text/javascript" src="js/sticky-sidebar.min.js"></script>
 <script type="text/javascript">
-  const sidebar = new StickySidebar('.sidebar', { 
+  const sidebar = new StickySidebar('.sidebar', {
     containerSelector: '#note-sidebar',
     innerWrapperSelector: '.sidebar__inner',
     minWidth: 900,
