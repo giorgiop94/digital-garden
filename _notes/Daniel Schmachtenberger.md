@@ -1,11 +1,7 @@
 ---
-title: Daniel Schmachtenberger 
+title: Daniel Schmachtenberger
 ---
 ## Key Ideas
-- Collective [[sense-making]] and [[choice-making]]
-- [[addiction is a signal of a less healthy and sovereign society]]
-	- [[Compersion]] may be the feature of individuals of a healthy society	
-- [[Epistemic Outsourcing]]
 - [[The Metacrisis]] -> [[Podcast - Green Pill with Daniel Schmachtenberger]]
 	- Useful to look at all our current biggest issues in a holistic way
 		- trying to solve one problem might make the other ones worse
@@ -13,6 +9,9 @@
 			- [[coordination failures - multipolar traps]]
 			- perverse incentives
 - [[Technology Is Not Values Neutral]]
+- Collective [[sense-making]] and [[choice-making]]
+- [[addiction is a signal of a less healthy and sovereign society]]
+	- [[Compersion]] may be the feature of individuals of a healthy society	
 
 - living a [[Meaningful Life]]
 	- being
