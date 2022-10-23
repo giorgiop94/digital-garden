@@ -1,7 +1,7 @@
 ---
 title: Daniel Schmachtenberger
 ---
-## Key Ideas
+## Some Key Ideas
 ### Avoiding/Addressing Existential and Catastrophic Risks
 - [[The Metacrisis]] -> [[Podcast - Green Pill with Daniel Schmachtenberger]]
 	- Useful to look at all our current biggest issues in a holistic way
