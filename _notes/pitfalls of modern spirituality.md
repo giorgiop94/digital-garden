@@ -1,5 +1,5 @@
 ---
-title: Pitfalls of Modern Spirituality 
+title: pitfalls of modern spirituality 
 ---
 ---
 title: Pitfalls of Modern Spirituality
@@ -12,7 +12,7 @@ title: Pitfalls of Modern Spirituality
         - "[[the Universe is unfolding exactly as it should]]"
     - Easy for it to be taken too far (**not wrong, but incomplete**)
 - [[Archetypes]] are extremely limited
-    - Only calm Buddha, where is the warrior, the erotic
+    - Only calm Buddha, where is the warrior, the erotic?
     - That single archetype won't be enough to fire up activists
 - The basis of Buddhist teaching ([[Four Noble Truths]]) focus on "healing of suffering"
 - Quieting, reducing or healing the Self

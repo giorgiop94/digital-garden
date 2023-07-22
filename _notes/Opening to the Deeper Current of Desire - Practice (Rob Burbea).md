@@ -1,5 +1,5 @@
 ---
-title: Opening to the Deeper Current of Desire - Practice 
+title: Opening to the Deeper Current of Desire - Practice (Rob Burbea) 
 ---
 ---
 title: Opening to the Deeper Current of Desire - Practice
@@ -11,7 +11,6 @@ Rob talks about this in Opening the Dharma of Desire pt 1 of the retreat ([[Talk
 "*Just let go*" is certainly an option, but it comes at a cost. What are we losing if we do so?
 
 ## 3 Steps to the practice
-
 ### 1. Ask what am I really/deeply wanting?
 - Sit with the question for some time
 	- Not seeking an answer from the mind, but from the whole being, the *citta*

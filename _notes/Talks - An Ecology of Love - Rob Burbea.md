@@ -29,7 +29,7 @@
 - Love includes, but is not limited to
 
 ### Metta
-- [[Metta -Loving Kindness- Meditation | Metta]] 
+- [[Metta | Metta]] 
 	- Unconditional, universal, well wishing
 		- It tends to fabricate less
 		- It brings to a sense of equality ("***everything is Love***")

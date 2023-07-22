@@ -26,10 +26,10 @@ The Ego judges us (and others) based on an image of perfection that we created. 
 	- This is difficult
 	- We learned to lie and to use words to spread our poison
 		- Anger, hate, envy, jealousy, gossip
-		- > We misuse the word so often, and this misuse is how we create and perpetuate the dream of hell. 
+		 > We misuse the word so often, and this misuse is how we create and perpetuate the dream of hell. 
 - Use the word to spread love and joy, starting from yourself.
-	- > You can measure the impeccability of your word by your level of self-love. How much you love yourself and how you feel about yourself are directly proportionate to the quality and integrity of your word. When you are impeccable with your word, you feel good; you feel happy and at peace.
-	- > Use the word in the correct way. Use the word to share your love. Use white magic, beginning with yourself. Tell yourself how wonderful you are, how great you are. Tell yourself how much you love yourself.
+	 > You can measure the impeccability of your word by your level of self-love. How much you love yourself and how you feel about yourself are directly proportionate to the quality and integrity of your word. When you are impeccable with your word, you feel good; you feel happy and at peace.
+	 > Use the word in the correct way. Use the word to share your love. Use white magic, beginning with yourself. Tell yourself how wonderful you are, how great you are. Tell yourself how much you love yourself.
  
  ### Don't take things Personally
  

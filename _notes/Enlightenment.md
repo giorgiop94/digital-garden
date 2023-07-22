@@ -10,7 +10,7 @@
 	- Truth seen as the experience in the present moment
 	- [[Truth is never expressed in words]]
 		- That's why no one can describe or point to enlightenment
-		- [[the map is not the territory -menu is not the food-]]
+		- [[the map is not the territory - misplaced concreteness -]]
 
 - [[Talks - Questioning Awakening Rob Burbea]]
 

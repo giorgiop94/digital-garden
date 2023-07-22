@@ -1,11 +1,11 @@
 ---
 title: Biodiversity 
 ---
-Back to: [[Planetary Boundaries]] | [[Food Systems]] | [[Earth System Resilience]]
+Back to: [[Planetary Boundaries]] | [[Food Systems]] | [[Earth System Resilience]] | [[resilience]]
 
-UN Convention on Biological Diversity’s (CBD) definition of biodiversity
-> 
-“‘Biological diversity’ means the variability among living organisms from all sources including, inter alia, terrestrial, marine and other aquatic ecosystems and the ecological complexes of which they are part; this includes diversity within species, between species and of ecosystems.”
+
+> [!NOTE] UN Convention on Biological Diversity’s (CBD) definition of biodiversity
+> ‘Biological diversity’ means the variability among living organisms from all sources including, inter alia, terrestrial, marine and other aquatic ecosystems and the ecological complexes of which they are part; this includes diversity within species, between species and of ecosystems.”
 
 ## Aspects Included
 - Functional diversity
@@ -17,7 +17,7 @@ UN Convention on Biological Diversity’s (CBD) definition of biodiversity
 - Species richness
 - Biotic interactions
 
-## Drivers of Loss
+## Key Drivers of Loss
 According to IPBES (in order of signifcance)
 
 1. Land/sea use change
@@ -48,3 +48,5 @@ Provides [[Ecosystem Services]]
 
 > Biodiversity underpins many public goods such as clean air, pollination, recreation, and stress relief
 
+## Resources:
+[[Dasgupta Review - Economics of Biodiversity]]

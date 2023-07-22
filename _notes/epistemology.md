@@ -11,7 +11,7 @@ The term “epistemology” comes from the Greek words “episteme” and “log
 
 
 - [[epistemic humility]]
-- [[Epistemic Outsourcing]]
+- [[epistemic outsourcing]]
 
 
 Related: [[ontology]] | [[Philosophy]] | [[sense-making]]

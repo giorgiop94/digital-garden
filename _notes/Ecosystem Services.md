@@ -1,7 +1,7 @@
 ---
 title: Ecosystem Services 
 ---
-Back to [[Earth System Resilience]] | [[biosphere stewardship]]
+Back to [[Earth System Resilience]] | [[biosphere stewardship]] | [[Biodiversity]]
 
 Ecosystems provide "services" such as food, water or timber, but also values that are less visible or not perceived at all.including supporting, regulating and cultural services. These were later categorised and systematised in the **Common International Classification of Ecosystem Services (CICES)**
 

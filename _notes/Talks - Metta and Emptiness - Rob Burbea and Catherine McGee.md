@@ -1,13 +1,13 @@
 ---
 title: Talks - Metta and Emptiness - Rob Burbea and Catherine McGee 
 ---
-[[Rob Burbea]]
+[[Rob Burbea]] and [[Catherine McGee]]
 [Link to retreat](https://dharmaseed.org/retreats/1277/)
 
 - Meditation as a balance between cultivation and investigation
 	- Cultivation of positive heart qualities, metta, generosity etc...
 	- Investigation in a way that brings freedom
-	- All practices is a practice of [[ways of looking]]
+	- All practices are a practice of [[ways of looking]]
 - Nice short [[Energy Body Practice]] in the Intro Talk (starting at 1:10:00)
 
 ## Metta Practice
@@ -22,10 +22,10 @@ There is not one specific feeling for Metta. It may manifest in many different f
 ### Practicing Metta
 - Different people have different preferred ways
 - Some prefer cultivating Metta through phrases
-	- Better to have 3 or 4 that you can easily remember
+	- Better to have 3 or 4 that you can easily remember (e.g. "may I be happy")
 	- Better to keep them general and broad (applicable to everyone at any time)
 	- Phrases not meant to be corrective - coming from a place of criticism - "May I be kind (because I'm not kind enough)"
-		- Pay attention to that Energy should be about well wishing
+		- Pay attention to that - Energy should be about well wishing
 	- Eventually phrases become not that important
 		- The body itself becomes the center of practice
 - Some through images or both
@@ -47,9 +47,9 @@ There is not one specific feeling for Metta. It may manifest in many different f
 	- Opening the hands up and visualizing Metta coming out of it
 	- Experiencing and expressing Metta through our lives, even to the inanimate objects
 
-Sometimes, you will feel a sense of metta, warmth and kindness, open to it and enjoy it. But just like everything else, it will be impermanent. No need to be bothered by that when it's not there. **If we put too much pressure on ourselves to feel metta, we lose the sensitivity to notice subtler sensations**.
+Sometimes, you will feel a sense of metta, warmth and kindness, open to it and enjoy it. But just like everything else, it will be impermanent. No need to be bothered when it's not there. **If we put too much pressure on ourselves to feel metta, we lose the sensitivity to notice subtler sensations**.
 
-Element of **faith**([[The 5 Heroic Motivations]]), we are planting the seeds with the phrases, knowing that they will eventually sprout (even if we don't feel it flowing right now)
+Element of **faith** ([[The 5 Heroic Motivations]]), we are planting the seeds with the phrases, knowing that they will eventually sprout (even if we don't feel it flowing right now)
 
 ### Using Samadhi to Cultivate Metta
 - We can start practicing with phrases and images to cultivate a sense of Metta in the body
@@ -79,15 +79,15 @@ Element of **faith**([[The 5 Heroic Motivations]]), we are planting the seeds wi
 	- **We crave and cling because of a deep misunderstanding about who we are, and how the world is**
 	- We don't see the emptiness of things, the dependent co-arising
 - Things neither exist nor they don't exist ([[The Middle Path]])
-		- We can see this through practice
-		- When we hold the Self too tightly, we suffer
+	- We can see this through practice
+	- When we hold the Self too tightly, we suffer
 - Emptiness is sometimes taught as the "teaching of disappointment"
-	- Everything becomes meaningless, [[nihilism]]
+	- Everything becomes meaningless -> [[nihilism]]
 - In reality there's a strong sense of beauty and meaning that can come from it 
 - Emptiness is a tool for freedom
 	- **It is a way of looking that we can pick up and put down**
 	- It is complementary to the "View of Self"
-		- We can learn to use the "View of Self" as another freeing, useful tool
+		- We can learn to use the "View of Self" as another freeing, useful tool in certain situations
 	- Both can be true
 
 ### Emptiness of Self
@@ -99,9 +99,9 @@ Element of **faith**([[The 5 Heroic Motivations]]), we are planting the seeds wi
 		- If it is not always true, we cannot say it to be true 
 - Positive self-definitions can be a good stepping stone, but eventually also lead to suffering and are not true
 	- We have to constantly prove our self-worth to others
-- **==Emptiness of Self doesn't mean there's an erasure of personality==**
+- **Emptiness of Self doesn't mean there's an erasure of personality**
 	- Are we moving to normalcy and conformity?
-	- **==Emptiness means we are free to express our individuality==**
+	- **Emptiness of Self means we are free to express our individuality**
 
 #### Practicing with Self-Definitions
 - Starting with suffering, notice how you are defining yourself or others (worthless, weak, wounded, sick passionate etc...)
@@ -117,7 +117,7 @@ Element of **faith**([[The 5 Heroic Motivations]]), we are planting the seeds wi
 - We can expand, open up our self-view by honoring and loving the fullness of self
 	- All the manifestations, parts of our self
 - "What do I overlook about my Self?"
-	- We often only focus n the self-definitions we acknowledge, while ignoring many other **beautiful** parts of our self
+	- We often only focus on the self-definitions we acknowledge, while ignoring many other **beautiful** parts of our self
 
 #### Practicing with Sense of Self
 - Sense of Self is different from self-definitions or thoughts about self
@@ -127,7 +127,7 @@ Element of **faith**([[The 5 Heroic Motivations]]), we are planting the seeds wi
 - **Paying attention to our sense of self throughout the day, as we practice etc...**
 	- Is the sense of self getting more contracted or expanded?
 	- Does sending love to oneself in Metta reinforce/contract the sense of Self?
-		- **Try it!**
+		- Try it!
 - Can we allow our self to feel a self sense that we usually don't allow?
 	- What is it like to feel vulnerable or strong, if we usually avoid them?
 
@@ -156,7 +156,7 @@ Element of **faith**([[The 5 Heroic Motivations]]), we are planting the seeds wi
 	- What does it feel like?
 
 ### (Perceived) Issues with Self-kindness
-- In society, people who like or love themselves aare often looked at with suspicion or contempt
+- In society, people who like or love themselves are often looked at with suspicion or contempt
 - Near enemy of Love
 	- Attached, clinging love
 - Far enemy
@@ -172,14 +172,16 @@ Element of **faith**([[The 5 Heroic Motivations]]), we are planting the seeds wi
 	- "I made a mistake because I was tired, my boss was breathing on my neck and many other conditions"
 	- Allows more love to flow
 	- Opens a self-view that's more in line with emptiness
-- The way we see things is the fundamental thing that gets us in trouble
+- The way we see things is the fundamental factor that gets us in trouble
 	- Avijja = Ignorance/Delusion
 	- The self, [[Ego]] wants to be the star of the show and that's why we blame ourselves ignoring the many conditions that were in place as well
 	- At lots of different levels we have a wrong view that hurts us
+	- the negative views of ourselves get reinforced through a [[Reinforcing Feedback Loops]] since our [[Confirmation Bias]] makes us notice much more the behaviors that confirm our (often negative) self views
+		- we think of ourselves as awkward, we have an awkward moment at work (and 10 non awkward), and we concentrate on it, reinforcing our self-view of awkwardness  
 - Unconsciously we interpret events or emotions as meaning something about our self
 	- e.g. "I'm feeling sad, it must mean I'm a failure" (it may also be non-verbalized thoughts, or images that we interpret in some ways)
 	- These thoughts crystallize the self
-- **We practice deliberately changing/flipping the view**
+- **We can practice deliberately changing/flipping the view**
 	- Of oneself, of other people, of our lives etc...
 	- Changing from a view of "how I feel, what I need" to "how can I support others?"
 - Metta softens our view, making it more flexible and malleable
@@ -273,7 +275,7 @@ Element of **faith**([[The 5 Heroic Motivations]]), we are planting the seeds wi
 	- In a way it is a reduction of freedom
 	- We pledge to commit
 
-[[Goethe]] on Commitment
+[[Goethe]] on [[Commitment]]
 > Until one is committed, there is hesitancy,
 the chance to draw back,
 always ineffectiveness.  
@@ -288,7 +290,7 @@ and meetings
 and material assistance which no man could have dreamt would have come his way.  
 Whatever you can do, or dream,  you can begin it.  
 Boldness has genius, power and magic in it.  
-Begin it now.
+Begin it now. #poetic
 
 The Buddha's Commitment to not get up from under the tree until reaching enlightenment
 

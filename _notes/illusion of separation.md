@@ -12,3 +12,5 @@ The failure to recognize that [[everything is interconnected -interbeing-]]
  
 
 > "What am I without the Sun? Without the electromagnetic field? Without the Higgs boson? Without plants, algae, biosphere, or ozone layer? I don't exist. Me as a separate thing is actually a misnomer. It doesn't even exist." — [[Daniel Schmachtenberger]]
+
+[[reductionism]] | [[Modernism]]

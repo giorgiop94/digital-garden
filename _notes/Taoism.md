@@ -12,22 +12,22 @@ It probably originated from shamanic and animist religions (which used to have a
 
 ## Key Concepts
 
-- Tao means the Way, and its core idea is to follow the laws of the Universe.
+- Tao means "the Way", and is used to describe the universal energy that underlies all things, that existed before matter and remains afterward
     - In the Universe [[everything constantly changes (impermanence)]]. 
     - Taoism is about **==adapting and being flexible, just like Nature==**
-    - The Tao is a way to describe the universal energy that underlies all things, that existed before matter and remains afterward.
 
 ### Everything is interconnected
 - [[everything is interconnected -interbeing-]]
 - The world is a sacred and complicated place, we shouldn't try to tamper with it because we don't understand all its connections ([[complex adaptive systems]])
     - Encourage people to get into different fields of knowledge and find connections, like [[Leonardo Da Vinci]]
 
-### Non Dogmatic
+### Non Dogmatic - embrace uncertainty
 Dogma gives the illusion of certainty. **==Taoism is about embracing doubt and uncertainty==**. Don't rely on rules, they can be useful as a guideline,but if they are too rigid not open to be flexible
 
 ### The Tao is unnamable, we could see it as the life force of nature
    - [[Truth is never expressed in words]] → Words, concepts can give a direction, but eventually need to be dropped if we want to experience reality
-   - > "*This is Lao Tzu's basic attitude: that truth cannot be told and truth cannot be taught. The moment you say something about truth, it is no longer true, the very saying falsifies it. You cannot teach it. At the most you can indicate it. And that indication should be your very being, your whole life – it cannot be indicated by words. He was against words. He was against language*". [[Osho]]
+	   - [[the map is not the territory - misplaced concreteness -]]
+   > "*This is Lao Tzu's basic attitude: that truth cannot be told and truth cannot be taught. The moment you say something about truth, it is no longer true, the very saying falsifies it. You cannot teach it. At the most you can indicate it. And that indication should be your very being, your whole life – it cannot be indicated by words. He was against words. He was against language*". [[Osho]]
    
 ### Paradoxes and Non-Duality
 - Taoism refuses the idea of duality that we have in the West of Good vs. Evil. Instead it asserts that opposites contain and complete each other, just like in the [[Yin Yang]] symbol
@@ -40,7 +40,7 @@ Dogma gives the illusion of certainty. **==Taoism is about embracing doubt and u
 ## Unlike other religions
 - Taoism does not conflict with science. 
     - Taoism is about the laws of the universe so it actually welcomes anything that can help us understand the universe better
-    -  > "*You cannot worship Tao because Tao does not give you the idea of a person. It is simply a principle, not a person. You cannot worship a principle – you cannot pray to Tao. It will look ridiculous; it will be utterly absurd, praying to a principle. You don’t pray to gravitation, you cannot pray to the theory of relativity*" [[Osho]]
+     > "*You cannot worship Tao because Tao does not give you the idea of a person. It is simply a principle, not a person. You cannot worship a principle – you cannot pray to Tao. It will look ridiculous; it will be utterly absurd, praying to a principle. You don’t pray to gravitation, you cannot pray to the theory of relativity*" [[Osho]]
 - Taoism does not rely on historical accuracy about its origins
     - In Catholicism, if we find out that Jesus was not resurrected it would put into question the whole religion
     - **For Taoism, it doesn't matter whether its foundation is true or a legend** 
@@ -55,10 +55,10 @@ Dogma gives the illusion of certainty. **==Taoism is about embracing doubt and u
 - Kindness towards all (including enemies)
 - True Humbleness
 
-### Morality
+### Ethics
 - As Taoism tends to embrace **flexibility**, it does also in laws and morality
 	- Laws and rules are not seen in a good way as they don't allow any flexibility
-- Men are encouraged to rely on their **internal moral compass** rather than on externally imposed rules
+- Men are encouraged to rely on their **internal moral compass** rather than on externally imposed rules ([[ethics vs. morality]])
 	- Connections to Anarchism
 
 ## Wealth 

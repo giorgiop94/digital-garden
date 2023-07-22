@@ -2,8 +2,8 @@
 title: resilience 
 ---
 ## Resilience 101
-*A system's ability to maintain its self-organizing capacity, its identity, or its regime.*
-	
+*A system's capacity to maintain its self-organizing capacity, its identity, or its regime.*
+
 **Resilience is not good or bad**, it is just a systems' property, making the system stay in a desirable or undesirable regime  
 
 **Diversity is the bedrock of resilience**
@@ -54,7 +54,7 @@ Basins of attraction represent different possible regimes that a system may end 
 
 ![Resilience Thinking.png](assets/Resilience Thinking.png)
 
-#### More on Making Systems more Resilient
+#### More on Making Systems Resilient
 - **Continuous Learning**
 	- Not assuming that we know - [[Embrace Uncertainty]]
 	- Set up social and institutional learning
@@ -76,6 +76,10 @@ Basins of attraction represent different possible regimes that a system may end 
 	- Interdisciplinary
 	- Participatory (include different perspectives)
 
+> the simplest and cross-system indicators used are based on recovery time [13](https://iopscience.iop.org/article/10.1088/1748-9326/ac73a8/meta#erlac73a8bib13), [17](https://iopscience.iop.org/article/10.1088/1748-9326/ac73a8/meta#erlac73a8bib17), [18](https://iopscience.iop.org/article/10.1088/1748-9326/ac73a8/meta#erlac73a8bib18)]. Complex systems when close to critical transitions leave statistical signatures in the time series of its observables known as _critical slowing down_ [1](https://iopscience.iop.org/article/10.1088/1748-9326/ac73a8/meta#erlac73a8bib1), [19](https://iopscience.iop.org/article/10.1088/1748-9326/ac73a8/meta#erlac73a8bib19), [20](https://iopscience.iop.org/article/10.1088/1748-9326/ac73a8/meta#erlac73a8bib20)]. It means that **the system takes longer to recover after a small disturbance, which translates into increases in variance, autocorrelation, and skewness or flickering** 
+
+Rocha, J. C. (2022). Ecosystems are showing symptoms of resilience loss. Environmental Research Letters, 17(6), 065013.
+
 ### Framework
 - Resilience of What?
 	- What social-ecological system?
@@ -87,9 +91,11 @@ Basins of attraction represent different possible regimes that a system may end 
 - Resilience for whom?
 	- Who is going to be affected by shocks?
 
-Resources:
+
+## Resources:
 - [For assessment information](https://wayfinder.earth/)
 - [For mapping complex systems](https://www.kumu.io/) 
+- [[Paper - Resilience as Pathway Diversity by Lade et al]]
 
 ## Meta
 -------------------

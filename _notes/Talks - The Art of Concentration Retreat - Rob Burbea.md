@@ -222,7 +222,7 @@
 	- **As we relax aversion to suffering, we may see the pain beginning to fade**
 
 - Sense of self ([[Ego]]) gets weaker in Samadhi
-	- It can be a gradual process, as [[Fear]] will come up
+	- It can be a gradual process, as [[fear]] will come up
 
 #### Practice
 - If we're struggling with a difficult situation

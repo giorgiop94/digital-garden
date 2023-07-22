@@ -116,19 +116,24 @@ Is it helpful to see **practice as sacred**?
     - hold and respond to the pain
 - Practice reduces some kinds of suffering but opening the heart opens us to different kinds
 - James Hillman - Psychotherapy as anesthesia
-- **[[Fear]] is not the same as concern** 
+- **[[fear]] is not the same as concern** 
     - The latter has a sense of stability 
 - **Part of practice is about taking risk**
     - Risk and insight reinforce each other
     - Do I have fear of speaking out?
         - Can I overcome that?
         -
-### Feeling at home in the Universe
+## At home in the Universe
 - The age of enlightenment became the age of convenience, the age of alienation and individualism
-- consumerism as a way to assert our identities
-- how can we open up our individualism, our sense of self even more in a good way?
-    - Feeling at home with existence involves opening to and accepting death ☠ 
-- Where am I seeking identity?  
+- consumerism is not just about greed, but now became a way to assert our identities
+- individualism is so entrenched in today's society it might not be possible to get rid of it. How can we work with it?
+	- we tend to associate our "self" with one personality
+	- how can we open up our individualism, our sense of self even more in a good way?
+	    - fully expressing ourselves can be a way to feel at home in the Universe.
+	    - Feeling at home with existence involves opening to and accepting death ☠
+- Asking ourselves:
+	- Where am I seeking identity?
+	- How am I expressing identity?
 
 ## Letting Go of Ways of Looking (Mystics Talk)
 - It's not that hard to have mystical experiences through meditation (e. G. Oneness etc) 

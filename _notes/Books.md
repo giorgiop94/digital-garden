@@ -1,3 +1,6 @@
+---
+title: Books 
+---
 
 
 ## Dancing with Complexity
@@ -8,6 +11,8 @@
 - [[Book - Doughnut Economics by Kate Raworth]]
 - [[Book - The Listening Society - Hanzi Freinacht]]
 - [[Book - Elephant in the Brain by Robin Hanson]]
+- [[Book - Collapse of Complex Societies by Joseph Tainter]]
+- [[Book - Sapiens - Yuval Noah Harari]]
 
 ### Collective Practices
 - [[Book - On Dialogue - David Bohm]]

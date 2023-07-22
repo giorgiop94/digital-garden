@@ -25,7 +25,9 @@ and no grandma ever bakes the wrong pie*
 > *So maybe things are unfolding as they should be.
 Maybe things are unfolding as they should be.
 Man, I see you thinking about how things could be, 
-but I'm just saying I think things are unfolding as they should be* by [[Jordan Bates]]
+but I'm just saying I think things are unfolding as they should be* 
+
+by [[Jordan Bates]]
 
 -------------------
 

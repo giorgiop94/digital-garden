@@ -6,8 +6,7 @@
 	- We already increased temperatures by over ~1 degree 
 - If efforts to constrain emissions fail, the global average temperature by 2100 is expected to increase 3–5C (IPCC 2014) above pre-industrial levels.
 	- Living with a temperature above 2C would be unknown terrain for humanity
-
-[[Earth carbon storage]]
+- **our ability to mitigate climate change largely depends on our ability to not just reduce emissions, but also to ensure we rapidly reduce the harm to our natural carbon sinks  - and the biodiversity that upholds them ([[Earth carbon storage]])**
 
 [[climate change is the quintessential market failure]]
 

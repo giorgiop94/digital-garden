@@ -106,7 +106,7 @@ When there are long delays in feedback loops, some sort of **foresight is essent
 You can see some things through the lens of the human eye, other things through the lens of a microscope, others through the lens of a telescope, and still others through the lens of systems theory. Everything seen through each kind of lens is actually there. Each way of seeing allows our knowledge of the wondrous world in which we live to become a little more complete. ([[ways of looking]])
 
 #### Map is Not the Territory
-- [[the map is not the territory -menu is not the food-]]
+- [[the map is not the territory - misplaced concreteness -]]
 
 Everything we think we know about the world is a model. Every word and every language is a model. All maps and statistics, books and databases, equations and computer programs are models. So are the ways I picture the world in my head
 
@@ -286,7 +286,7 @@ Even people within systems don’t often recognize what whole-system goal they a
 ### 2. Paradigms
 *The mind-set out of which the system—its goals, structure, rules, delays, parameters—arises*
 
-The shared idea in the minds of society, the great big unstated assumptions, constitute that society’s paradigm, or deepest set of beliefs about how the world works. (Giorgio's examples: growth is always good, money measures value, nature is to be used for our benefit, one can "own land") ([[InterSubjective Stories]])
+The shared idea in the minds of society, the great big unstated assumptions, constitute that society’s paradigm, or deepest set of beliefs about how the world works. (Giorgio's examples: growth is always good, money measures value, nature is to be used for our benefit, one can "own land") ([[Inter-subjective stories]])
 
 #### Everything follows Paradigms
 **Paradigms are the sources of systems. From them, from shared social agreements about the nature of reality, come system goals and information flows, feedbacks, stocks, flows, and everything else about systems**.

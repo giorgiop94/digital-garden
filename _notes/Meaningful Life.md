@@ -2,8 +2,9 @@
 title: Meaningful Life 
 ---
 ## Different Views
-### [[Daniel Schmachtenberger]]
-From https://civilizationemerging.com/how-to-live-a-meaningful-life/
+### Daniel Schmachtenberger
+From https://civilizationemerging.com/how-to-live-a-meaningful-life/ by [[Daniel Schmachtenberger]]
+
 A meaningful life involves three different modes.
 
 > Everything that is meaningful is one of these three. Engaging in all three consciously as a virtuous cycle leads to a maximally meaningful life. _All three are ultimately inspired by love._
@@ -28,5 +29,11 @@ A meaningful life involves three different modes.
 
 There's a virtuous relationship between these three. Each one of them on their own would be incomplete.
 
-### [[Derek Sivers]]
-![[Podcast - Derek Sivers on the Knowledge Project#Meaningful Life]]
+### Derek Sivers
+-   Life has no meaning. Everything is a blank slate that you can project whatever meaning we want on to.
+-   Meaning is not a fact, it's just a belief, a perspective
+    -   You can try on meanings and adopt the one that makes you take better actions.
+
+from [[Podcast - Derek Sivers on the Knowledge Project]] 
+
+[[Derek Sivers]]

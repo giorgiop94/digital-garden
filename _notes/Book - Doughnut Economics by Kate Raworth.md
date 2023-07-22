@@ -5,7 +5,7 @@ Thoughts
 - Funny how in econ school they don't even make us read Adam Smith. They just select quotes to confirm what they want to communicate
  - really shows how dangerous it is forgetting that our models are only models (gdp, human nature etc.. Math becomes misleading as it gives the illusion of accuracy
 	 - [[quantification infuses a false sense of security]]
-	 - [[the map is not the territory -menu is not the food-]]
+	 - [[the map is not the territory - misplaced concreteness -]]
 
 ## Summary of some policy suggestions:
 **General**

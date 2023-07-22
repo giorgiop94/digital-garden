@@ -19,7 +19,7 @@ Sovereignty as the volume created by the three axis and most limited by the leas
 
 
 ## Resources
-- Great summary by Daniel Schmachtenberger
-	- https://medium.com/@danielschmachtenberger/advancing-human-sovereignty-ef3c95860fff
 - Article by Jordan Greenhall
 	- https://medium.com/deep-code/on-jordan-peterson-and-the-future-51402a370d79
+- Great summary by Daniel Schmachtenberger
+	- https://medium.com/@danielschmachtenberger/advancing-human-sovereignty-ef3c95860fff

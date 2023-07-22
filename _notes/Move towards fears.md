@@ -6,4 +6,4 @@
 This helps you grow and overcome the fears, especially [[fear of the unknown]]
 
 -------------------
-Related: [[Fear]] | [[Stoicism]] | [[Practice Discomfort]]
+Related: [[fear]] | [[Stoicism]] | [[Practice Discomfort]]

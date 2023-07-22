@@ -15,7 +15,7 @@ Subject: [[Food Systems]] | [[Planetary Boundaries]] |
 > Another opportunity arises from redistribution of nitrogen and phosphorus use to close yield gaps. On a global scale, application of nitrogen and phosphorus fertiliser is highly unevenly distributed, ranging from nitrogen and phosphorus inputs insufficient to close yield gaps to excessive surplus application in many developed and rapidly growing economies.185 Many developed nations apply nitrogen in excess, with rates of nitrogen application exceeding those needed
 
 **Change in Diets**
-> Although food production practices have an important role,213,220,227 many studies highlight that a dietary change towards increased adoption of plant-based diets has high mitigation potential, which is probably needed to limit global warming to a less than 2°C increase.
+> Although food production practices have an important role, many studies highlight that a dietary change towards increased adoption of plant-based diets has high mitigation potential, which is probably needed to limit global warming to a less than 2°C increase.
 
 **Reduce Subsidies and marketing of Harmful stuff*
 > Subsidies on fertilisers, water, fuels, electricity, and pesticides should be critically reviewed, with some authorities arguing for their removal, and environmental and societal health costs of food supply and consumption should be fully reflected in pricing by introducing taxes. As a result, food prices might increase. Therefore, where appropriate, social protection or safety nets (eg, increasing income through cash transfers) can be established to protect vulnerable populations, particularly children and women, while keeping trade open.

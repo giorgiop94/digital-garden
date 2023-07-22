@@ -87,7 +87,7 @@
 ### What Helps to Develop Samatha
 - [[Happiness]] is what helps most to develop Samatha
 	- It is also the fruit of Samatha, creating [[Reinforcing Feedback Loops]]
-	- **Feeling gratitude and appreciation to develop happiness [[gratitude is a superpower (and gratitude practices)]]**
+	- **Feeling gratitude and appreciation to develop happiness [[gratitude is a superpower]]**
 - Receptivity, again is both a fruit and a cause of Samatha
 - Learning [[Working with the Hindrances]]
 	- Learning to expect and ride the waves and ups and downs

@@ -14,7 +14,7 @@
 -  [[Meditation]]
 	- Samadhi (concentration)
 	- Vipassana (insight) 
-	- [[Metta -Loving Kindness- Meditation]]
+	- [[Metta]]
 	- [[everything constantly changes (impermanence)]]
 - Nibbana (the goal of the path)
 	- The cessation of fabrications of the mind

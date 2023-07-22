@@ -14,7 +14,7 @@ title: Podcast - Rob Burbea on Emerge
 - Traditional Dharma is not creating the people set up to radically change the World
 	- Not able to do the social-political work that the world needs
 	- Reduces the journey to healing one's own traumas
-- [[Pitfalls of Modern Spirituality]] and attitudes
+- [[pitfalls of modern spirituality]] and attitudes
 
 
 ## Meditation Fantasies & The Soulmaking Dharma (Ep #3)

@@ -14,6 +14,6 @@ Difficult to implement globally, but can be done locally and have a global impac
 5. Gradual responding to moral and immoral behavior (start with gossip, then rewards and punishments, banishment)
 6. Provide accessible, low-cost means for dispute resolution.
 7. Authority to Self-Govern
-8. Collaborative relations with other, similar groups (fractal system of sub-groups)
+8. Collaborative relations with other, similar groups (==fractal system of sub-groups==)
 
 Related: [[economics]] | [[biosphere stewardship]] | [[Localism]] | [[market failure]]

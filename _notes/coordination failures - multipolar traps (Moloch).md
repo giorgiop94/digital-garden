@@ -1,12 +1,7 @@
 ---
-title: coordination failures (multipolar traps) 
+title: coordination failures - multipolar traps (Moloch) 
 ---
----
-
-title: coordination failures (multipolar traps)
- 
----
-Scenarios where each agent acting in their rational (short-term) best interest, leads to collective behavior that makes everyone being worse off in the long term. .
+Scenarios where each agent acting in their rational (short-term) best interest, leads to collective behavior that makes everyone worse off in the long term. .
 
 > Once one agent learns how to become more competitive by sacrificing a common value, all its competitors must also sacrifice that value or be outcompeted and replaced by the less scrupulous. Therefore, the system is likely to end up with everyone once again equally competitive, but the sacrificed value is gone forever. From a god’s-eye-view, the competitors know they will all be worse off if they defect, but from within the system, given insufficient coordination it’s impossible to avoid. [[Article - Meditations on Moloch]]
 
@@ -23,15 +18,32 @@ Agents often create [[Reinforcing Feedback Loops]] that increasingly move toward
 - [[Tragedy of the Commons]]
 - Arms Race
 	- AI/bio-weapon developments
+		- Focusing on opportunity rather than risks
 - Price wars
 - Pollution of the Planet by Individual Nations
-- Focusing on opportunity rather than risks
+- Beauty wars on social media
+	- all apps introduce filters converging to beauty standards
+		- the more you use them the more followers you get
+		- the more everyone uses them, the more you have to use them
+	- using these filters make you dislike your real appearance (without filters)
+	- no one wants to use them but everyone does
 -------------------
 ### Global Scale Coordination Failures
 - Governments currently "solve" (read: address) some of these coordination failures nationally (overlogging, overfishing etc...) with rule of law and enforcement (monopoly of violence)
 - Internationally, there's no ability to do rigorous enforcement
 	- sanctions are often not enough
 	- [[Ostrom's Framework to Managing Commons]] can work in small-scale, local applications. But it is much harder on a global scale, with complex power relations and catastrophic weapons
+
+# Moloch
+- The god of negative sum games/coordination failures
+	- incentivizes selfish actions that externalizes harm to all other actors
+
+## Why useful to think about Moloch
+- it helps to
+	- find a common denominator to many different problems
+	- realize that no one wants the final outcome, but we end up with it
+- the frame of a God stands for and simplifies an underlying emergent dynamic in human systems
+
 
 ---
 Created on: 2020-12-21

@@ -24,9 +24,12 @@ From [[Book - Thinking in Systems - Donella Meadows]]
 ## Different Views
 ### Self As Consciousness
 "You are consciousness, awareness, the observer of your mind."
-
 - Your mind is simply a mix of all the conditioning that you've received since birth and memories that you accumulated. It thinks thoughts that it already heard somewhere else ([[your thoughts are not yours]]). If you were born somewhere else you'd have different thoughts, a totally different mind. So that cannot be you.
 - The real you is the awareness behind it. Consciousness.
+
+### Self as interconnected
+- Self as a separate thing is a misnomer
+> "What am I without the Sun? Without the electromagnetic field? Without the Higgs boson? Without plants, algae, biosphere, or ozone layer? I don't exist. Me as a separate thing is actually a misnomer. It doesn't even exist." — [[Daniel Schmachtenberger]]
 
 ### Self as dynamic process
 Self as a fluid, everchanging process
@@ -50,6 +53,7 @@ You can shape your self
 
 ### Collection of Selves
 - [[Internal Family System (IFS)]]
+- [[narrating self and experiencing self]]
 
 ### Self as an Emerging Dividual
 > The self is a “dividual”, as described by [[Deleuze]], a transpersonal self. I am not the voice in my head, I am all that arises; you create me as I create you, we are not sealed containers, we are often more transparent to one another and controlled by one another than we are to/by ourselves. We co-emerge, we are just bodies and fictional stories; consciousness is transformable and all stories can be developed. " [[Hanzi Freinacht]]
@@ -77,4 +81,3 @@ Resources:
 Inspired by: [[Alan Watts]] | [[Osho]] | [[Anthony DeMello]]
 Related: [[Enlightenment]] | [[Ego]] 
 
-[[narrating self and experiencing self]]

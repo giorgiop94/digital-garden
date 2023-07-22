@@ -13,7 +13,7 @@
 	- All things without exception (including space and time and awareness) is empty of existing independent of the way you look at it - [[Rob Burbea]]
 	- There is no inherent way things are
 - **The way we perceive anything depends on our [[ways of looking]]**
-	- e.g. When we practice [[Metta -Loving Kindness- Meditation]] thinking about a "neutral" or even negative person, we may suddenly start to see them as beautiful, radiating kindness etc...
+	- e.g. When we practice [[Metta]] thinking about a "neutral" or even negative person, we may suddenly start to see them as beautiful, radiating kindness etc...
 
 ## Chair Example
 > consider a wooden chair thrown onto a big fire. The chair begins to burn, then gradually deform and fall apart, slowly turning to ashes. At what point exactly is it no longer a chair? Is it not the mind perceiving and conceiving of it one way or another that determines whether it is ‘a chair’ at a certain moment in time after catching fire? Its chair-ness is given by the mind, and does not reside in it independently of the mind. The lack of an inherently existing ‘official’ time when it stops ‘being a chair’ points to a certain emptiness, its lack of inherent chair-ness.

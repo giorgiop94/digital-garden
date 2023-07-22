@@ -11,9 +11,16 @@ Working Example:
 You can filter out all of our daily notes from a search by adding the notation:
 -tag:journaling
 
+### Add box around text
+
+> [!NOTE] box example
+> sample text
+
+
+
 ### add front-matter to all notes for publishing (in powershell)
 ```
-$files = Get-ChildItem -path /home/giorgio/github/my-digital-garden -filter *.md -recurse -force
+$files = Get-ChildItem -path /home/giorgio/github/my-digital-garden/_notes -filter *.md -recurse -force
 foreach ($file in $files)
 {
    	$content = Get-Content $file.FullName

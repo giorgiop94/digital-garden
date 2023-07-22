@@ -4,7 +4,7 @@
 Back to [[Books]] | [[Metamodernism]]
 
 Reality is much more than the facts of the matter. The real reality resides at the crossroads of fact and fiction. It is born precisely at the point where our imaginations, the stories we tell ourselves, meet the facts of the world and put them into context. 
-([[InterSubjective Stories]])
+([[Inter-subjective stories]])
 
 # Summary Quotes on Metamodernism
 To see that God is dead and humanism dying (humanism is the humanity-centered worldview originating in the Renaissance) and to accept and celebrate this by taking **meaning-creation** into one’s own hands
@@ -171,7 +171,7 @@ If you, like me, tend towards liberal stances on narcotics, you are also saying 
 It is a question of choosing totality over partiality. Partiality is only possible if you believe in the liberal innocent. Once you choose totality, once you begin to see society as a whole, liberal innocence is lost.
 
 ### You cannot choose not to act
-Non action doesn't exist
+Non action doesn't exist - [[you  cannot choose not to act]]
 
 And that leads us to a second, even deeper, belief of the liberal innocent: **That you can choose not to act, and just be a normal citizen, and that you are thereby innocent**. The belief holds that, if you “don’t want to control others” and “just live your life”, you are innocent; that only the politicians, reformists and dictators bear the true responsibility. 
 But you are society as a whole
@@ -294,8 +294,7 @@ In mainstream society, we generally pretend to have less depth than we really do
 **A crucial aspect of the maturation of humanity is that we not only begin to actively and deliberately cultivate depth in all three aspects** (beauty, mystery and tragedy) as well as depth in both its light and dark form—**but also that we create institutions and social settings in everyday life that are much more proficient when it comes to accommodating our inner depths** 
 
 ## Sense and Soul
- Ideally speaking, the metamodern mind marries sense and soul—avoiding both magic beliefs and reductionism. Of course, that is what everybody will say, a cliché anybody can agree to. But it is easier said than done. The world strives for an always-impossible balance
-
+Ideally speaking, the metamodern mind marries sense and soul—avoiding both magic beliefs and reductionism. Of course, that is what everybody will say, a cliché anybody can agree to. But it is easier said than done. The world strives for an always-impossible balance
 
 ### Dangers of Magical Thinking
 If there is magic in the world, anyone who you believe has more contact with this magic than you do, gains arbitrary power over you. You surrender your own mental faculties to them, and from there on, very bad things can and will happen. It is the royal road to totalitarianism. 

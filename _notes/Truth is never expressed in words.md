@@ -28,7 +28,7 @@ is not the eternal Tao
 Created on: 2020-08-26
 Inspired by: [[Anthony DeMello]] | [[Lao Tzu]]
 Topics: [[Enlightenment]] | [[Buddhism]]
-Related to: [[the map is not the territory -menu is not the food-]] 
+Related to: [[the map is not the territory - misplaced concreteness -]] 
 Resources:
 - [[Book - Awareness - Anthony DeMello#Words take us away from reality]]
 - [[Tao Te Ching 1 - The tao that can be told is not the eternal Tao]]

@@ -15,7 +15,7 @@ Your aspirations create your understanding of the path
 	- Feelings of well-being
 - Escapism
 - For the benefit of all beings
-- Sense of [[Sacredness]] or Beauty (Artistic)
+- Sense of Sacredness or Beauty (Artistic)
     - Seeing the practice as Art and doing it for its own sake
 - Research Approach
     - Practicing to discover things about oneself or consciousness
@@ -53,7 +53,7 @@ Could be seen as [[reductionism]]
 	- [[Energy Body Practice]]
 - Insight
 	- [[Emptiness Practice]]
-	- [[Metta -Loving Kindness- Meditation]]
+	- [[Metta]]
 
 - [[Shi-Ne (opening awareness)]]
 

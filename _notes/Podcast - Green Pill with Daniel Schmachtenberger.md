@@ -1,7 +1,7 @@
 ---
 title: Podcast - Green Pill with Daniel Schmachtenberger 
 ---
-Relevant Notes: [[The Metacrisis]] | [[coordination failures - multipolar traps]] | [[Daniel Schmachtenberger]]
+Relevant Notes: [[The Metacrisis]] | [[coordination failures - multipolar traps (Moloch)]] | [[Daniel Schmachtenberger]]
 
 # Part 1 - The Metacrisis
 [Link to Podcast](https://www.youtube.com/watch?v=WVEP0zAK-xQ)
@@ -16,7 +16,7 @@ Solving climate change is not only going against the oil industry, but it is goi
 Looking at all of our biggest crises together we can find the common underlying patterns contributing to them. Doing so gives us something to start with that can move us in the right direction on all these issues.
 
 **Core questions institutions, corporations should be asking all the time (addressing generator functions)**
-- how do we identify where there are perverse incentives and [[coordination failures - multipolar traps]] and correct them?
+- how do we identify where there are perverse incentives and [[coordination failures - multipolar traps (Moloch)]] and correct them?
 	- very hard to solve a problem if you're incentivizing the behavior creating the problem
 	- Resource: [[Article - Meditations on Moloch]]
 - how do we identify and internalize externalities?
@@ -93,7 +93,7 @@ Catastrophes and dystopias could mutually reinforce each other
 	- we can't get everyone in a townhall
 	- AI tools can use semantic analysis to analyze and group together our values and help us find solutions that work for all parties (similar to [[Taiwan's Digital Democracy Process - A primer]])
 
-#### We can up-regulate HUman Nature to move towards that 3rd attractor
+#### We can up-regulate Human Nature to move towards that 3rd attractor
 - Examples of Buddhist and Jewish communities creating a culture of non-violence and valuing education (respectively)
 - Example of lead pollution reducing IQ and increasing propensity to violence
 

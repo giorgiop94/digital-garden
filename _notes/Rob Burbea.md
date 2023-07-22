@@ -12,17 +12,17 @@ title: Rob Burbea
 		- > *We participate in the creation of the world at the most fundamental level* - [[Rob Burbea]]
 - 2 wings of practice:
 	- [[Feeling Through Emotions]]
-	- cultivating positive ones ([[Samadhi]])
+	- cultivating positive ones ([[Samadhi]], [[Metta]]])
 - [[Emptiness]] as the basis of Dharma
 	- Insight defined by its capacity to decrease dukkha
-	- [[Insight as a result vs. insight as a practice]] 
+	- [[Insight as  a practice vs. insight as a result]] 
 - [[SoulMaking Dharma]]
 	- Eros-Psyche-Logos Dynamic
 - Dharma as art → [[Talks - Questioning Awakening Rob Burbea]]
 	- Creative, Desire, Play, Beauty, Not one truth
 - [[Goals in Spiritual Practice]]
-- [[Pitfalls of Modern Spirituality]]
-- **Our Modernist Worldview has impregnated the Dharma with its assumptions and views**
+- [[pitfalls of modern spirituality]]
+- **Our [[Modernism | Modernist]] Worldview has impregnated the Dharma with its assumptions and views**
 	- We assume we can strip off our beliefs and experience reality as it really is
 		- What if we drop the assumption of what is reality?
 - Traditional Dharma is not creating the people set up to radically change the World 
@@ -64,7 +64,7 @@ title: Rob Burbea
 	- [Giving Voice To Compassion](https://gaiahouse.co.uk/wp-content/uploads/newsletter-spring-2010.pdf)
 	-  somehow it felt like there were also other dimensions and reasons for going, reasons which perhaps may not make much sense to a solely ‘practical’ or ‘rational’ mind-set. A desire to be there to give voice to something very deep and very (dare I say it?) precious. Regardless of the outcome. To stand and walk in alignment with our deepest care and truth. To sing the indestructible song of human care, no matter what. We wanted to make a pilgrimage, to pray.
 	-  [[Compassion]] in the Dharma is a mix of qualities, including empathy and the desire or energy to heal, to alleviate suffering. Often in compassion practice these two qualities can become imbalanced.  Practitioners can tend to unwittingly focus too much on the empathy (taking in and opening to the suffering of others) at the expense of  feeling the lovely, even pleasant, qualities of the outflow of ‘healing’ energy. This will usually result in ‘compassion fatigue’ and fear of opening to suffering. So if we want our compassion to sustain and be steady, and if we want to be courageous in the face of the suffering in the world, we need to play with this balance in our practice so that compassion feels, on the whole, to be a ‘happy’ state. Yet there are times when we should, and will naturally want to, let ourselves descend to the dark places, to feel the magnitude of the pain in the world, the scope of the unfolding tragedy, to open to the unimaginable enormity of it all, trusting and knowing that we can rebalance ourselves again and regain our buoyancy, so that we can serve in some way
-	-  One potential dark shadow side of spiritual and psychological inner work is that it becomes just another manifestation of ‘me first’- ‘me and my practice, me and my process, me and my problems’ ([[Pitfalls of Modern Spirituality]])
+	-  One potential dark shadow side of spiritual and psychological inner work is that it becomes just another manifestation of ‘me first’- ‘me and my practice, me and my process, me and my problems’ ([[pitfalls of modern spirituality]])
 
 
 -------------------

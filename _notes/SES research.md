@@ -35,7 +35,7 @@
 ### Behavioral Experiments
 - explanatory
 - connections to surveys, statistical analysis, serious games
-- dealing with [[coordination failures - multipolar traps]]
+- dealing with [[coordination failures - multipolar traps (Moloch)]]
 
 ### Network Analysis
 -  descriptive, exploratory and explanatory

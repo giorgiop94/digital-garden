@@ -1,5 +1,5 @@
 ---
-title: Metta -Loving Kindness- Meditation 
+title: Metta 
 ---
 ---
 title: Metta -Loving Kindness- Meditation 
@@ -16,7 +16,7 @@ Metta softens the [[comparison trap]] of the mind
 #### Phrases I like
 - I love you
 - May you be filled with happiness/joy
-- May you live with ease and kindness
+- May you live with courage and kindness
 - May you be healthy and beautiful
 
 ## Resources

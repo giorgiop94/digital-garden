@@ -7,8 +7,10 @@
 	- expect and embrace surprise and uncertainty, to be reflexive and acknowledge the limits of what is knowable or controllable
 - [[epistemic humility]]
 	- [[changing your mind is one of the best ways of finding out whether or not you still have one]]
-	- [[the map is not the territory -menu is not the food-]]
+	- [[the map is not the territory - misplaced concreteness -]]
 	- [[what is the model ignoring]]
+	- **Suspend disbelief.** Give each idea enough of a shot to test it rigorously for yourself.
+	- **Withhold definition.** Notice the tendency to label things as one way or the other and explore life in the space just before that moment.
 
 ## Adopt a Growth Mindset
 - [[growth vs fixed mindset]]
@@ -17,7 +19,7 @@
 ## Embrace Multiple Perspectives
 - [[Coherent pluralism]]
 - [[post tragic]]
-- [[both-and -positive sum- thinking]]
+- [[both-and thinking]]
 - [[we co-create our reality]]
 
 ## Tell the Truth
@@ -32,12 +34,15 @@
 
 ### Taking care of oneself
 - [[To be of service you have to be fit for service]]
-- 
+- engaging in the world for its own sake (not as a mean to an end)
+> One of the most simple ways to change one's life is to ask: of all activities I currently engage as means, how can I find elements in them to engage as ends? [[Tyler Alterman]]
 
 ## Mindset Strategies to Improve 
 - [[Detachment from results makes you more relaxed and better performing]]
 - [[Move towards fears]] 
 - [[Embrace Uncertainty]]
+- [[dedicate yourself to giving every gift you have to give]]
+- 
 
 - Develop [[Mental Override - Willpower]] everyday
 	- [[delayed gratification]]

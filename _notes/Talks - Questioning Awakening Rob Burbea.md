@@ -10,13 +10,13 @@ Links to talks
 
 ## Questioning Awakening (Talk 1)
 - Questioning the underlying assumptions that we don't even know we have
-- Are We really Free to Inquire or Are We Blinded by Assumptions we Don't know we Have?
+- **Are We really Free to Inquire or Are We Blinded by Assumptions we Don't know we Have?**
 
 ### Changes in idea of Enlightenment in Buddhism Today
 - In modern Dharma the term awakening has kind of disappeared
 - The meaning of the term has been lowered
 	- It tends to mean "being in the world without selfing"
-		- Without thinking of oneself as a separate self
+		- Without thinking of oneself as a separate self ([[What is the Self]])
 		- Without papancha
 - Ossification
 	- Rigidity of the idea
@@ -43,7 +43,7 @@ Links to talks
 #### Buddha's Third Noble Truth and Re-defining Dharma
 - The Buddha's goal involved not being reborn in the cycle of rebirth
 	- Today we don't talk about it and try to push it to the side
-- Liberation is open to be re-defined
+- **Liberation is open to being re-defined**
 	- So are all the other noble truths
 	- The way we re-define those will affect the whole package of our Dharma
 
@@ -67,7 +67,7 @@ Links to talks
 ### Questioning the Mindfulness Goal
 - Mindfulness
 	- Goal: live in the present, live fully (maybe kindness)
-	- This is not just a Dharma view
+	- This is not just a Dharma view, it's embedded in modernity (in movies etc..)
 		- Bungee jumping people also want to live to the fullest
 - Do we dare to ask why we have that goal?
 	- Is this what the Buddha taught? NOT AT ALL
@@ -128,7 +128,6 @@ Links to talks
 #### Modernist Dharma ([Consensus Buddhism](https://vividness.live/consensus-buddhism)) 
 - Primacy of matter
 - impermanence is the ultimate truth
-- Process View
 - The idea of bare attention, is similar to the Modernism's idea of a singular reality
     - We cannot live in bare attention 
 
@@ -166,7 +165,7 @@ Links to talks
 	- Sometimes it wants to be energized, danger, excitement
 
 ### Different Archetypes On Homelessness
-1. The Buddha also advocated for a certain homelessness
+1. Renunciative: The Buddha embodied it
 	- Renunciation of everything, including his own home
 		- There's no much talk of monasteries
 2. Homelessness of the seeker in search of truth
@@ -212,14 +211,15 @@ Links to talks
 	- In science there's a sense of endless desire for truth
 	- Traditional Dharma's strong focus on renunciation and dukkha removed the space for desire
 		- May have reduced the possibility for art in the Dharma scene
+			- "Enso art" - simplicity, no self involved
 		- Idea of awakened life, being purged of eros
 	- But even the Buddha doesn't say we should stop our search
-			- Makes desire ok
+		- Makes desire ok
 - **[[Beauty]]** is part of all of them too
 	- Scientists see everything in nature as beautiful
 	- Religions are imbued with beauty tied to the idea of God and Heaven, and we see it in their heart
 	- Art, needless to say
-	- Some beauty is imbued in Dharma as well (even though it's marketed as just reduction of suffering)
+	- Some beauty is imbued in Dharma as well (even though it's often "marketed" as just reduction of suffering)
 		- We may not even be aware of it
 		- The beauty of the kindness, or appreciation of Nature
 
@@ -230,6 +230,8 @@ Links to talks
 - Freedom (from suffering, ignorance)
 	- What are the limits we set to our freedoms?
 		- Evolutionary biology would say there's a limit to how free our behavior can be
+	- After a while, we can reach a point where reduction of suffering does not seem as important as it once used to
+		- what then?
 
 #### Dharma as Art
 - **Wonder, Amazement, Beauty**

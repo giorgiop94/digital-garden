@@ -13,7 +13,7 @@
 	- **The more we focus our attention on it, the more it loses power**
 
 ### Effects on Us
-- Creates a sense of inadequacy, not being enough, [[Fear]]
+- Creates a sense of inadequacy, not being enough, [[fear]]
 - It suppresses deep seated needs of human beings:
 	- Capacity for self-expression and [[Creativity]]
 	- Capacity for intimacy and revealing oneself
@@ -43,7 +43,7 @@
 
 ### Metta
 - **The IC is just a mental habit of negative thinking**
-- Practicing [[Metta -Loving Kindness- Meditation]] we create new habits of thinking
+- Practicing [[Metta]] we create new habits of thinking
 	- Sow the seeds of kindness towards ourselves and all beings
 - When IC is very strong, the Metta phrases may seem ridiculous, fake
 	- Over time this has tremendous effects

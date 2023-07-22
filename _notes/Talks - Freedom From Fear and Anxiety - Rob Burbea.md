@@ -77,4 +77,4 @@ Our natural tendency to run away from fear only makes it worse
 
 
 -------------------
-[[Rob Burbea]] | [[Fear]]
+[[Rob Burbea]] | [[fear]]

@@ -12,4 +12,4 @@ If you see your fears over and over in your mind, you'll be less scared and surp
 -------------------
 Created on: 2020-09-16
 Link: https://www.aubreymarcus.com/pages/go-for-your-win-course#/entry/conquer-fear-the-samurai-way
-Topics: [[Fear]] | [[Stoicism]] | [[Imagination]]
+Topics: [[fear]] | [[Stoicism]] | [[Imagination]]

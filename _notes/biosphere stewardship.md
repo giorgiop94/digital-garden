@@ -38,6 +38,12 @@ from [[Paper - Our Future in the Anthropocene - Folke 2021]]
 
 [Our future in the Anthropocene biosphere](https://link.springer.com/article/10.1007/s13280-021-01544-8)) by [[Stockholm Resilience Center]]
 
+### Target Space
+Defining a sustainable development target space for 2030 and 2050 - van Vuuren, [[Sarah Cornell]], [[Johan Rockstrom]] et al 2022 [link](https://www.sciencedirect.com/science/article/pii/S2590332222000033)
+
+![[a sustainable development target space.png]]
+
+
 ## Resources
 - [Thread of interesting projects and initiatives](https://twitter.com/giorgiop_/status/1368983685404430341)
 -------------------

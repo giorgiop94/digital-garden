@@ -3,7 +3,9 @@
 ---
 Aerosol = liquid droplets or particles suspended in the atmosphere
 
-Changing the atmosphere's chemistry risks creating unexpected [[tipping points]]
+Changing the atmosphere's chemistry risks creating unexpected [[tipping points]].
+
+Aerosol emissions are masking some of the [[climate change|warming]] we would otherwise see.
 
 Not one general boundary defined, but a strong case to define sub-boundaries for different types of aerosol 
 

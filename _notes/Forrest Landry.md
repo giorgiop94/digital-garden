@@ -5,4 +5,6 @@
 
 [[Podcast - Forrest Landry and Daniel Schmachtenberger on Neurohacker Collective]]
 
+[[ethics vs. morality]]
+
 Related: [[Philosophy]]

@@ -1,7 +1,9 @@
 ---
 title: quantification infuses a false sense of security 
 ---
-One possible critique of [[Effective Altruism]]'s approach? Surely of the traditional [[economics]] models, as also explained in [[Book - Doughnut Economics by Kate Raworth]]
+One possible critique of [[Effective Altruism]]'s approach.?
+
+Surely one criticism of the traditional [[economics]] models, as also explained in [[Book - Doughnut Economics by Kate Raworth]]
 
 This is especially important when in complex situations there are many variables that are impacted and we're not even considering. - [[what is the model ignoring]]
 

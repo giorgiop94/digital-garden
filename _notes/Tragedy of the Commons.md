@@ -13,7 +13,7 @@ Each individual seeks to be better off in the short-term, at the expense of the 
 
 Things may get worse as people increase their efforts to deplete the resource as quickly as possible to get more themselves and prevent others from taking it. This becomes similar to the idea of Arms race as it creates a [[Reinforcing Feedback Loops]].
 
-More broadly, this system dynamic is defined as a [[coordination failures - multipolar traps]]
+More broadly, this system dynamic is defined as a [[coordination failures - multipolar traps (Moloch)]]
 
 ### Dealing with it
 - [[Ostrom's Framework to Managing Commons]]

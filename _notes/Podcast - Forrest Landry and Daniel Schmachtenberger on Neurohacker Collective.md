@@ -17,7 +17,7 @@
 - Exists: Content/context relationship
 
 - Objective: measurable by more than one person (intersubjective)
-	- Basis of the [[science| scientific method]]
+	- Basis of the [[science|scientific method]]
 
 - Real: Subject object relationship/interaction (capacity to sense)
 	- Choice and ethics rely on what's real more than what's objective (?)

@@ -28,7 +28,7 @@ One of the Earth's [[Planetary Boundaries]], measured in terms of Aragonite satu
 ### Governance Difficulties
 From Ekstrom, J. A., & Crona, B. I. (2017). [Institutional misfit and environmental change: A systems approach to address ocean acidification](https://doi.org/10.1016/j.scitotenv.2016.10.114).
 
-- Perfect cocktail of [[coordination failures - multipolar traps]] dilutes incentives for sovereign states to act, individually or in collaboration
+- Perfect cocktail of [[coordination failures - multipolar traps (Moloch)]] dilutes incentives for sovereign states to act, individually or in collaboration
 	- Global sources - Local effects
 	- Interactions are not well understood
 	- Interventions would interact with other institutions

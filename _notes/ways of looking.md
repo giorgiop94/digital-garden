@@ -6,7 +6,7 @@ title: Ways of Looking
 ---
 Back to: [[Rob Burbea]] | [[Emptiness]]
 
-> The only true voyage of discovery would be not to visit strange lands but to possess other eyes, to behold the universe through the eyes of another, of a hundred others, to behold the hundred universes that each of them beholds, that each of them is - Marcel Proust
+> The only true voyage of discovery would be not to visit strange lands but to possess other eyes, to behold the universe through the eyes of another, of a hundred others, to behold the hundred universes that each of them beholds, that each of them is - Marcel Proust #poetic
 
 
 # Rob Burbea
@@ -88,11 +88,12 @@ A few examples that he talks about
 [[perspectival knowing]]
 
 # David Bohm
-the key point – is that this representation is not only present in thought or in imagination, but it fuses with the actual perception or experience. In other words, the representation fuses with the “presentation,” so that what is “presented” (as perception) is already in large part a re-presentation. So it “presents again.” You then get what we might call a “net presentation,” which is the result of the senses, of thought, and possibly some insight. It all comes together in one net presentation. The way you experience something, therefore, depends on how you represent it – or mis-represent it.
 
-Take the example of a forest. It could be represented as a source of lumber, and it would then be presented to a lumberman in that way. To the artist it could be represented as something worth painting. To someone who wants to take a walk, it would be represented as a place he could enjoy himself walking along the path. There are countless representations of the forest, which will present the forest in different ways.
+> the key point – is that this representation is not only present in thought or in imagination, but it fuses with the actual perception or experience. In other words, the representation fuses with the “presentation,” so that what is “presented” (as perception) is already in large part a re-presentation. So it “presents again.” You then get what we might call a “net presentation,” which is the result of the senses, of thought, and possibly some insight. It all comes together in one net presentation. The way you experience something, therefore, depends on how you represent it – or mis-represent it.
 
-Another example would be a rainbow – everybody sees the same rainbow. There’s a collective representation of the rainbow – we all have a consensus about it. But physics, which looks at things “literally,” says, “No, there is no rainbow. There are a lot of droplets of water, the sun is in back of you and it’s being reflected and refracted off the water and forming colors. In seeing this, each person is forming his own perception of a rainbow. It happens they all look very similar, therefore they all think they’re all looking at the same rainbow.”
+> Take the example of a forest. It could be represented as a source of lumber, and it would then be presented to a lumberman in that way. To the artist it could be represented as something worth painting. To someone who wants to take a walk, it would be represented as a place he could enjoy himself walking along the path. There are countless representations of the forest, which will present the forest in different ways.
+
+> Another example would be a rainbow – everybody sees the same rainbow. There’s a collective representation of the rainbow – we all have a consensus about it. But physics, which looks at things “literally,” says, “No, there is no rainbow. There are a lot of droplets of water, the sun is in back of you and it’s being reflected and refracted off the water and forming colors. In seeing this, each person is forming his own perception of a rainbow. It happens they all look very similar, therefore they all think they’re all looking at the same rainbow.”
 
 More quotes in [[Book - On Dialogue - David Bohm]] - Section Ways of Looking
 # Philosophy
@@ -100,9 +101,11 @@ More quotes in [[Book - On Dialogue - David Bohm]] - Section Ways of Looking
 > every subjective phenomenon is essentially connected with a single point of view, and it seems inevitable that an objective, physical theory will abandon that point of view
 
 > in discovering sound to be, in reality, a wave phenomenon in air or other media, we leave behind one viewpoint to take up another, and the auditory, human or animal viewpoint that we leave behind remains unreduced.
-Thomas Nagel - What is it like to be a bat?
+
+[[Thomas Nagel]] - What is it like to be a bat?
+
 -------------------
 
 # Meta
 Created on: 2021-03-21
-Related: [[Buddhism]] | [[Meditation]] | [[sense-making]] #curate
+Related: [[Buddhism]] | [[Meditation]] | [[sense-making]]

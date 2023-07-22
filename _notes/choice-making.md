@@ -11,7 +11,7 @@
 - Decision - de-cide - to cut off available options
 	- Assume there's no win-win possible
 	- Assumes completeness of information
-- Choice is about increasing the field of options available until the right option becomes obvious
+- Choice is about increasing the field of options available until the right option becomes obvious (similar to [[Paper - Resilience as Pathway Diversity by Lade et al]])
 	- Assumes we can never have perfect information
 	- Assumes win-win choice is always possible (we may not be able to find it, but it exists), which makes it worthwhile to search
 

@@ -1,5 +1,5 @@
 ---
-title: the map is not the territory -menu is not the food- 
+title: the map is not the territory - misplaced concreteness - 
 ---
 Fallacy of misplaced concreteness, [[everything constantly changes (impermanence)]]
 
@@ -16,7 +16,10 @@ From [[Book - Thinking in Systems - Donella Meadows]]
 
 > **We became so fascinated with words and concepts that we confuse the world as it is, with the world as it is described (talked about, thought about).**
 
+[[Truth is never expressed in words]] - [[Book - Tao Te Ching - Lao Tzu]]
+
 We're like people eating menus instead of dinners
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0K5M0hIXP00" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -53,4 +56,4 @@ We're like people eating menus instead of dinners
  --------------------------------
 
 Created on: 2020-09-06
-Topics: [[Decision-Making]] | [[Zen]] | [[090 Finances]] | [[Embrace Uncertainty]] | [[reductionism]] | [[Alfred North Whitehead]]
+Topics: [[Decision-Making]] | [[Zen]] | [[090 Finances]] | [[Embrace Uncertainty]] | [[reductionism]] | [[Taoism]] | [[Alfred North Whitehead]]
