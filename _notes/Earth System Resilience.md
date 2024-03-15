@@ -7,7 +7,7 @@ through regulating [[Ecosystem Services]]
 ![Earth System Resilience](assets/Earth System Resilience.png)
 
 ### Feedback Loops Keep The Earth Resilient
-- [[Balancing Feedback Loops]]
+- [[balancing feedback loops]]
 - [[Earth carbon storage]]
 - White polar regions reflect sunlight helping to cool the Earth
 	- If they melt they'd start absorbing heat reversing the feedback loop

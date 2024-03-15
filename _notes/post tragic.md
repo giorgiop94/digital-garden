@@ -9,6 +9,12 @@ Post-tragic - **committed to being in service of the sacredness of life whether 
 
 > how can we be with the beauty of life while working to try to preserve this beauty for future generations?
 
+related: 
+> I respect despair as an emotion but don't mistake it for an analysis - Rebecca Solnis
+
+### let yourself be depressed
+https://youtu.be/4kBoLVvoqVY?feature=shared&t=2526
+
 -------------------
 
-Related: [[biosphere stewardship]] | [[Daniel Schmachtenberger]] | [[Mindset]] | [[sacred duty]]
+Related: [[biosphere stewardship]] | [[Daniel Schmachtenberger]] | [[Mindset]] | [[sacred duty]] 

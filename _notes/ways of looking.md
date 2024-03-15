@@ -8,7 +8,7 @@ Back to: [[Rob Burbea]] | [[Emptiness]]
 
 > The only true voyage of discovery would be not to visit strange lands but to possess other eyes, to behold the universe through the eyes of another, of a hundred others, to behold the hundred universes that each of them beholds, that each of them is - Marcel Proust #poetic
 
-
+a more philosophical way of saying this would be "epistemiological frames"
 # Rob Burbea
 > *We participate in the creation of the world at the most fundamental level* - Rob Burbea
 

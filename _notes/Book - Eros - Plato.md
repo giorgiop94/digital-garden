@@ -13,6 +13,8 @@ the example of Alcestis, the daughter of Pelias. She was the only person willing
 ### Lover > Beloved
 Although the gods show particular honour to the kind of excellence that comes from passionate love, 180b it is those cases where the beloved shows his devotion51 to his lover rather than the other way round that they appreciate and admire more and reward more generously, because **a lover has a god within him and he is thus more akin to the divine than the beloved**. This is why the gods paid more honour to Achilles than to Alcestis and sent him to the Isles of the Blest.
 
+[[ Love Rewards the Lover More than the Loved]] 
+
 ## Pausania
 ### Right Love
 To begin with, it is true of every activity that it is in itself neither right nor wrong.55 181a Take what we are doing now, drinking or singing or talking. None of these activities is right in itself; the manner of its doing decides how it will turn out. Only if it is done in the right and proper way is it right; if not, it is wrong. Now, the same is true of loving and of Love: not every Love is right and deserves our praise,56 only the Love who directs us to love in the right way.
@@ -24,8 +26,8 @@ Socrates and Agathon
 ‘Certainly Love is love of something’. 200a 
 ‘Well then, keep this138 in your mind, remembering what it is that Love is love of’, said Socrates, ‘and for now tell me this: does Love desire139 that thing which he is love of, or not?’ ‘Certainly he desires it’. ‘And does he desire and love it when he has in his possession that thing which he desires and loves, or when he does not have it?’ ‘Probably when he does not have it’, said Agathon
 
-‘Now, instead of saying ‘‘probably’’ ’, said Socrates, ‘consider whether it isn’t necessarily true that that which desires, desires what it lacks, or, put another way, there is no desire if there is no lack. That 200b seems to me, Agathon, an inescapable conclusion. What do you think?’
-It seems so to me too’. ‘Very good. So, would a man who was tall wish140 to be tall, or a man who was strong wish to be strong?’ ‘From what has just been agreed that is impossible’. ‘Exactly, because someone who has these attributes would not be lacking in them’
+‘Now, instead of saying ‘‘probably’’ ’, said Socrates, ‘consider whether it isn’t necessarily true that that which desires, desires what it lacks, or, put another way, there is no desire if there is no lack. That seems to me, Agathon, an inescapable conclusion. What do you think?’
+It seems so to me too’. ‘Very good. So, would a man who was tall wish to be tall, or a man who was strong wish to be strong?’ ‘From what has just been agreed that is impossible’. ‘Exactly, because someone who has these attributes would not be lacking in them’
 
 ### Love as Daimon 
 
@@ -34,15 +36,14 @@ Socrates and Diotima
 
 ‘And I protested. ‘‘What do you mean, Diotima? Are you actually saying Love is ugly and bad?’’ 
 ‘‘Watch what you say!’’ she exclaimed. ‘‘Do you really think that if something is not beautiful it has to be ugly?’’
-‘‘I certainly do’’. 202a ‘
-‘And something that is not wise is ignorant, I suppose? Have you not noticed that there is something in between wisdom147 and ignorance?’’ ‘
+‘‘I certainly do’’. 
+‘And something that is not wise is ignorant, I suppose? Have you not noticed that there is something in between wisdom and ignorance?’’ ‘
 ‘And what is that?’’ 
-‘‘Correct belief.148 I am talking about having a correct belief without being able to give a reason for it. Don’t you realise that this state cannot be called knowing – for how can it be knowledge149 if it lacks reason? And it is not ignorance either – for how can it be ignorance if it has hit upon the truth? **==Correct belief clearly occupies just such a middle state, between wisdom150 and ignorance’==**’.
-‘‘That is true’’, I said. 202b 
+‘‘Correct belief. I am talking about having a correct belief without being able to give a reason for it. Don’t you realise that this state cannot be called knowing – for how can it be knowledge if it lacks reason? And it is not ignorance either – for how can it be ignorance if it has hit upon the truth? **==Correct belief clearly occupies just such a middle state, between wisdom and ignorance’==**’.
+‘‘That is true’’, I said. 
 ‘‘Don’t then insist that what is not beautiful has to be ugly, and what is not good has to be bad. Similarly with Love. When you yourself admit that Love is not good and not beautiful that is no reason for thinking he has to be ugly and bad. He is something between the two’’
 
-
-- Those who are completely stupid are not even aware that they lack wisdom, and so do not search for it, whilst those in possession of knowledge do not search for what they already possess. Lovers of wisdom are those who are in between a state of lack and possession (204b). In more general terms, lovers are those who are aware of a lack of the beautiful and good things they desire (whatever these may be), and who strive towards the possession of those things
+- Those who are completely stupid are not even aware that they lack wisdom, and so do not search for it, whilst those in possession of knowledge do not search for what they already possess. **Lovers of wisdom are those who are in between a state of lack and possession. In more general terms, lovers are those who are aware of a lack of the beautiful and good things they desire (whatever these may be), and who strive towards the possession of those things**
 
 
 #### Love as Connection to the Divine for Humans

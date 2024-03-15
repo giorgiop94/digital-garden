@@ -51,7 +51,7 @@ Dogma gives the illusion of certainty. **==Taoism is about embracing doubt and u
 
 ## Qualities emphasized
 - Moderation [[The Middle Path]] and Balance 
-	- [[Detachment from results makes you more relaxed and better performing]]
+	- [[Detachment makes you perform better]]
 - Kindness towards all (including enemies)
 - True Humbleness
 

@@ -35,10 +35,11 @@ Winkel 2017))
 ### Risk of Tipping point (nonlinear) effects increasing dramatically
 - The Earth's [[resilience]] is decreasing
 
-
 - Science indicates that at the range of between 350 ppm and 450 ppm (of carbon dioxide) we have a risk of crossing catastrophic thresholds
 
-
+- 1.5 degrees target still poses substantial risks of irreversible change
+ > “The 1.5°C target is one that science increasingly demonstrates is associated with substantial risk of triggering irreversible large change and that crossing tipping points cannot be excluded even at lower temperature increases (18)"
+ [[Paper - Earth beyond six of nine planetary boundaries by Richardson et al 2023]]
 ## IPCC August 21 Report
 Link to [Summary Report](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM.pdf)
 ### Temperature Scenarios

@@ -7,7 +7,7 @@
 	- sincere irony
 	- magical realism [[haruki murakami]]
 
-- [[perspective shifting]]
+- [[collecting perspectives]]
 > The only true voyage of discovery would be not to visit strange lands but to possess other eyes, to behold the universe through the eyes of another, of a hundred others, to behold the hundred universes that each of them beholds, that each of them is - Marcel Proust 
 
 
@@ -36,4 +36,4 @@ of Science in a Postmodern WorldDragnet Ecology—“Just the Facts, Ma’am”:
 > Instead of retreating to naive objectivism, scientists need to adapt to a postmodern age by becoming conscious of the significance of their narratives. Reconceptualizing science and scientific privilege at the science–policy interface is not just exciting, it is necessary
 
 
-[[Hanzi Freinacht]] | [[Book - The Listening Society - Hanzi Freinacht]]
+[[Hanzi Freinacht]] | [[Book - The Listening Society - Hanzi Freinacht]] | [[Book - 12 Commandments For Extraordinary People To Master Ordinary Life by Hanzi Freinacht]]

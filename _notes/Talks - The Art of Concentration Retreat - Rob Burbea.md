@@ -4,7 +4,7 @@
 [Link to retreat](https://www.dharmaseed.org/retreats/1183/)
 
 ## Talk One
-- As Samadhi deepens it is supposed to lead to a sense of happiness, well-being and pleasure
+- As Samadhi deepens it leads to a sense of happiness, well-being and pleasure
 	- Buddha placed large emphasis on it
 - **Happiness leads to samadhi and viceversa** ([[Reinforcing Feedback Loops]])
 - Meditation as an Art
@@ -53,7 +53,7 @@
 	- An open, giving heart
 	- **When meditation feels dry, recall times when you acted generously**
 		- It brings self-esteem, warmth, encouragement, into the moment
-		- We need to practice generosity in our lives
+		- ==We need to practice generosity in our lives==
 - Sila (Ethics)
 	- Acting and living ethically makes us calmer, we worry less
 	- People can trust us more
@@ -79,7 +79,7 @@
 - Avoid getting taken for a ride by them
 	- See them arise and work with them
 
-- Stupor
+- Torpor
 	- Align the posture
 	- Use long, energizing breath
 	- Imagine a gold/white bright light in the middle of your head
@@ -122,17 +122,15 @@
 	- The problem arises in the Self view that we create with goals
 		- The Self measurement
 - The Buddha used the word **"striving"** a lot
-	- > It is by relying on craving that craving is to be abandoned
+	 > It is by relying on craving that craving is to be abandoned
 - Is it possible that we don't desire (awakening) enough?
 	- [[Talks - Beauty of Desire - Rob Burbea]]
 	- Or maybe we spread our desire to many meaningless things
 
 ### Wise Effort
-
 #### 1. Effort towards what?
 - Cultivating beautiful qualities of the mind
 - Letting go and preventing unwholesome qualities 
-
 #### 2. What's involved in Wise effort?
 - Wise Attachment is involved
 	- We actually need to get attached (with balance) to Ethics, Samadhi etc...
@@ -157,7 +155,7 @@
 - Some degree of dissatisfaction may be skillful
 - It becomes problematic when we judge ourselves harshly for not achieving our result
 - **Can we judge ourselves based on intentions rather than results?**
-	- We don't have full control over results ([[Internalize your goals]], [[Detachment from results makes you more relaxed and better performing]])
+	- We don't have full control over results ([[Internalize your goals]], [[Detachment makes you perform better]])
 	- Respecting ourselves for our level of care, kindness
 		- Instead of the way we look, the money we earn etc..
 - Can we dwell, appreciate and cherish our beautiful aspirations, our nobility?
@@ -165,7 +163,7 @@
 	- Yet, we continue dwelling in how we are not good enough
 		- Still building self, but cultivating negative states of mind
 
-- **Shifting from essence to actions**
+**Shifting from "essence" to actions**
 - Not making conclusions about your essence based on one action you took
 - What exactly am I criticizing?
 - We usually judge ourselves, but that's a big, fuzzy concept
@@ -178,8 +176,6 @@
 
 - Even when meditation doesn't feel good, what are we cultivating?
 	- Patience, non-judgmentalism, mindfulness, spirit of questioning
-	
-
 #### 3. Balancing
 - Continuous responsiveness of our effort ([[The Middle Path]])
 	- Am I putting too much or too little effort?
@@ -196,11 +192,9 @@
 - Practicing the Jhanas also helps us develop [[Love]] and confidence. It serves as healing for the body and mind
 	- We realize we can be happy without needing anything
 	- Helps us [[avoid greed and compulsive consumption]]
-- Buddha talked about practicing Samadhi leads to [[Enlightenment]]
-
+- Buddha talked about practicing Samadhi leading to [[Enlightenment]]
 
 ## Talk Five - Concentration and Insight
-
 - **Developing concentration, can be a preparation for insight practices** (vipassana)
 	- As you go deeper you see that Samadhi and Vipassana feed each other and blend into each other
 	- Samadhi is the most fertile ground for insight to take root
@@ -211,7 +205,7 @@
 - Deep understanding of how the mind fabricates
 	- We assume the mind receives the experience
 	- In reality, the mind is constantly fabricating, by gluing pieces together
-	- I can fabricate a nightmare world
+	- It can fabricate a nightmare world
 	- Even the present moment, and the Jhanas are fabricated, although there's less and less fabrication in those states
 - Understanding how the mind is constantly fabricating our experience, we can mold the experience
 	- Fine-tuning the mind frequencies to the pleasant

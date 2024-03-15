@@ -1,6 +1,8 @@
 ---
 title: Podcast - Deep(er) Ecology - Great Simplification 
 ---
+[Link to talk](https://www.youtube.com/watch?v=GE39xfNRRyw)
+
 William Rees, [[Nora Bateson]], Rex Weyler, [[Nate Hagens]]
 
 ## What Is Ecology?

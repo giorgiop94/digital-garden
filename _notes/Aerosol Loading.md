@@ -21,7 +21,7 @@ Not one general boundary defined, but a strong case to define sub-boundaries for
 - Ocean waves bubble bursting
 	- microcrystals of salt ejected in the air
 - Fire
-- Volacanoes
+- Volcanoes
 - Vegetation emits tiny compounds that react in the atmosphere
 
 ### Human Sources

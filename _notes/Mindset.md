@@ -28,7 +28,7 @@
 
 ## Take Responsibility (Internal Locus)
 - [[Focus on What You Can Control (Internal vs External)]]
-	 - [[Focus on the process not the outcome]]
+	 - [[select systems and processes not goals]]
 	 - [[Internalize your goals]]
 - [[we co-create our reality]]
 
@@ -38,7 +38,7 @@
 > One of the most simple ways to change one's life is to ask: of all activities I currently engage as means, how can I find elements in them to engage as ends? [[Tyler Alterman]]
 
 ## Mindset Strategies to Improve 
-- [[Detachment from results makes you more relaxed and better performing]]
+- [[Detachment makes you perform better]]
 - [[Move towards fears]] 
 - [[Embrace Uncertainty]]
 - [[dedicate yourself to giving every gift you have to give]]
@@ -48,7 +48,7 @@
 	- [[delayed gratification]]
 	-  [[Easy choices, hard life. Hard choices, easy life]]
 
-- [[e. Complaining is not an effective strategy]] 
+- [[Complaining is not an effective strategy]] 
 
 ## Archetypes
 - [[Warrior Poet]]

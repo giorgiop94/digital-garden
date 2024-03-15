@@ -23,7 +23,7 @@ Fear and [[attachment]]
 	- stress is the fear of failing to live up to expectations?
 	- anxiety is a state of constant fearful anticipation.  
 	- The harsher your [[Inner Critic]] punishes you for not meeting expectations, the more stress and anxiety you will feel.
-- Sometimes, the fear of acting towards your goal may **masks itself as non-attachment to a goal** ([[Detachment from results makes you more relaxed and better performing]])
+- Sometimes, the fear of acting towards your goal may **masks itself as non-attachment to a goal** ([[Detachment makes you perform better]])
 	- It manages to prevent you from acting
 	- You don't even realize you're not acting out of fear
 
@@ -40,7 +40,7 @@ Fear and [[attachment]]
 - [[choose faith over fear]]
 
 - Craving and attachment make us fearful of not having whatever we crave and less likely to get it
-	- [[Detachment from results makes you more relaxed and better performing]]
+	- [[Detachment makes you perform better]]
 
 Related: [[Emotions]]
 #MOC 

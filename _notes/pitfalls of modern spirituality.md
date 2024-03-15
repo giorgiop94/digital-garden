@@ -4,6 +4,7 @@
 ---
 title: Pitfalls of Modern Spirituality
 ---
+## Rob Burbea on Modern, Mainstream Buddhism in the West
 - Common western, [[consensus buddhism]] is so obsessed with the **individual's** inner growth and path
     - End up missing the outer socio-economic-environmental crises
     - Can reinforce the sense of separation
@@ -19,6 +20,7 @@ title: Pitfalls of Modern Spirituality
     - Different than growing the wildness, uniqueness, individuation of the Self
 - Mindfulness is one approach, we need flame, passion, sexuality and much more
 
+# Meta
 -------------------
 Created on: 2021-03-21
 Inspired by: [[Rob Burbea]]

@@ -27,10 +27,11 @@
 	- Full attentiveness
 	- Ingenuity
 
+# Meta
 -------------------
 Created on: 2021-02-26
 Inspired by: [[Rob Burbea]]
 Related: [[Meditation]] | [[Buddhism]] | [[Goals]]
-Tags: #curate 
+
 
 Resources: [Dharma Talk by Rob Burbea](https://www.dharmaseed.org/talks/audio_player/210/11516.html)

@@ -33,6 +33,7 @@ Agents often create [[Reinforcing Feedback Loops]] that increasingly move toward
 - Internationally, there's no ability to do rigorous enforcement
 	- sanctions are often not enough
 	- [[Ostrom's Framework to Managing Commons]] can work in small-scale, local applications. But it is much harder on a global scale, with complex power relations and catastrophic weapons
+- coordination among companies is further discouraged by antitrust laws
 
 # Moloch
 - The god of negative sum games/coordination failures
@@ -43,6 +44,12 @@ Agents often create [[Reinforcing Feedback Loops]] that increasingly move toward
 	- find a common denominator to many different problems
 	- realize that no one wants the final outcome, but we end up with it
 - the frame of a God stands for and simplifies an underlying emergent dynamic in human systems
+
+### dealing with Moloch
+- races to the top
+	- Tesla, creating a market race to make better electric cars
+- "*beat it without becoming it*"
+	- aware and literate about the games of power, but not using the,
 
 
 ---

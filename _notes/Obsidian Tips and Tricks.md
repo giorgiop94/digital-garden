@@ -19,6 +19,8 @@ You can filter out all of our daily notes from a search by adding the notation:
 
 
 ### add front-matter to all notes for publishing (in powershell)
+in Linux type pwsh in terminal to access powershell
+
 ```
 $files = Get-ChildItem -path /home/giorgio/github/my-digital-garden/_notes -filter *.md -recurse -force
 foreach ($file in $files)

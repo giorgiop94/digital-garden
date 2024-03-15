@@ -1,10 +1,5 @@
 ---
-title: Detachment from results makes you more relaxed and better performing 
----
----
-
-title: Detachment from results makes you more relaxed and better performing
- 
+title: Detachment makes you perform better 
 ---
 - **Can we judge ourselves based on intentions rather than results?** [[Rob Burbea]]
 
@@ -25,4 +20,4 @@ From [[Tao Te Ching 2 - Nonduality]]
 ------------------
 
 Created on: 2020-09-14
-Topics: [[Internalize your goals]] ||[[Focus on What You Can Control (Internal vs External)]] | [[Taoism]] [[Attachment]]
+Topics: [[Internalize your goals]] | [[Focus on What You Can Control (Internal vs External)]] | [[Taoism]] [[Attachment]]

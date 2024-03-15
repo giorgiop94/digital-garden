@@ -3,7 +3,7 @@
 ---
 ## Attitudes
 - [[Focus on What You Can Control (Internal vs External)]]
-	   - [[Focus on the process not the outcome]]
+	   - [[select systems and processes not goals]]
 	   - [[Internalize your goals]]
    - [[Amor Fati]]
 

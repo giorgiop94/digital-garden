@@ -18,19 +18,23 @@ title: Rob Burbea
 	- [[Insight as  a practice vs. insight as a result]] 
 - [[SoulMaking Dharma]]
 	- Eros-Psyche-Logos Dynamic
+	- **The deepest objective of the practice is not to get images, it is to open up to a new way of sensing life, opening the perceptions of self, other and world**
+	- **expanding our felt sense of sacredness and re-enchant the cosmos**
 - Dharma as art → [[Talks - Questioning Awakening Rob Burbea]]
 	- Creative, Desire, Play, Beauty, Not one truth
 - [[Goals in Spiritual Practice]]
 - [[pitfalls of modern spirituality]]
-- **Our [[Modernism | Modernist]] Worldview has impregnated the Dharma with its assumptions and views**
+- **Our [[Modernism |Modernist]] Worldview has impregnated the Dharma with its assumptions and views**
 	- We assume we can strip off our beliefs and experience reality as it really is
 		- What if we drop the assumption of what is reality?
-- Traditional Dharma is not creating the people set up to radically change the World 
+	- To be with "things as they are" is not the ultimate goal or truth
+- ==Modern Dharma is not creating the people set up to radically change the World== 
 
 ## Notes on Talks/Retreats
 - [[Talks - Approaching the Dharma - Rob Burbea]]
 - [[Talks - Questioning Awakening Rob Burbea]]
 - [[Talks - Engagement & Activism - Rob Burbea]]
+- [[Talks - Views in Practice - Rob Burbea]]
 - [[Podcast - Rob Burbea on Emerge]]
 
 ### Samadhi

@@ -68,7 +68,7 @@ The information delivered by a feedback loop—even nonphysical feedback—can o
 **Changing the delays in a system can make it much easier or much harder to manage.** You can see why system thinkers are somewhat fanatic on the subject of delays. We’re always on the alert to see where delays occur in systems, how long they are, whether they are delays in information streams or in physical processes. **We can’t begin to understand the dynamic behavior of systems unless we know where and how long the delays are** → [[The ability to delay gratification is a demonstration of wisdom]]
 
 #### Balancing Loops
-[[Balancing Feedback Loops]] are goal-seeking or stability-seeking. Each tries to keep a stock at a given value or within a range of values.
+[[balancing feedback loops]] are goal-seeking or stability-seeking. Each tries to keep a stock at a given value or within a range of values.
 
 Any balancing feedback loop needs a goal (the thermostat setting), a monitoring and signaling device to detect deviation from the goal (the thermostat), and a response mechanism (the furnace and/or air conditioner, fans, pumps, pipes, fuel, etc.). 
 

@@ -23,3 +23,4 @@
 - [Complexity theory and financial regulation](https://www.nature.com/articles/srep00541.) - [[Stefano Battiston]] et al 2016
 
 Related: [[economics]] | [[Ecological Economics]] | [[Social Ecological Systems (SES)]] | [[complex adaptive systems]]
+#academic

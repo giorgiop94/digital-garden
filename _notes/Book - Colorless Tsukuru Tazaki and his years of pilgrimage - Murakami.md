@@ -1,5 +1,5 @@
 ---
-title: Book - Colorless Tsukuru Tazaki and his years of pilgrimage - Murakami 
+title: Book - Colorless Tsukuru Tazaki and his years of pilgrimage - Murakami
 ---
 **Themes**: [[Abandonment]], Cruel and unfair world, Realize one's own worth, Psychology, Dreams, [[Self-doubt]] | [[Self-Acceptance]] | [[Self-Worth]]
 
@@ -74,4 +74,3 @@ Suoni diversi confluivano in un unico, acuto rumore che andava a sbattere sul fo
 Quando riaprí gli occhi, gli parve che il mondo avesse cam biato forma. Il tavolino in plastica, la semplice tazza da caffè bianca, il panino lasciato a metà, il vecchio Tag Heuer automa tico che portava al polso sinistro (un ricordo del padre)
 
 ---
- 

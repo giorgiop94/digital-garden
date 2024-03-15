@@ -15,6 +15,8 @@ We often see our Self, as an autonomous, independent entity, separate from other
 
 [Alan Watts Mash up](https://soundcloud.com/farhar/how-to-grow-alan-watts-mash-up)
 
+![[Pasted image 20231210165350.png]]
+pic from[Seeing Like a Superorganism - by Richard D. Bartlett](https://richdecibels.substack.com/p/seeing-like-a-superorganism?publication_id=25193&post_id=138362243&isFreemail=true&r=4qc73) 
 
 [Cosmic Eye Video](<iframe width="560" height="315" src="https://www.youtube.com/embed/8Are9dDbW24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
 

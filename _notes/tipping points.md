@@ -34,6 +34,7 @@ When a system fundamentally changes structure and function, settling into a new 
 
 ![Global Tipping Elements](assets/Global Tipping Elements.png)
 
+![[global_tipping_elements.png]]
 ## Example of Coral Reefs
 - shifts from diverse coral reefs
 	- dominated by coral, have rich fish populations,

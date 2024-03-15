@@ -161,7 +161,7 @@
 5. Multiplicity of self being given an equal validity and sense of beauty can be scary
 
 ### Imaginal to Update/Upgrade our Practice
-- Imaginal may legitimize aspects of life that had been put aside or repressed
+- **Imaginal may legitimize aspects of life that had been put aside or repressed**
 	- Eros, trickster quality, divine madness
 - As we practice we realize that fantasy and image imbue our lives anyway, and imbue our Dharma
 - Our notion of self is very different from that at the time of the Buddha
@@ -177,7 +177,6 @@
 	- **We can empower and bring to life these characters**
 	- **We open a flexibility of self view and world view**
 		- [[Emptiness]] becomes easier to get to
-
 
 ## 2 - Doorways and Directions
 What we're interested with this practice is **expanding our felt sense of sacredness and re-enchant the cosmos**
@@ -201,8 +200,7 @@ What we're interested with this practice is **expanding our felt sense of sacred
 4. Including and nourishing Soulfulness 
 	- Expansion of what we consider beautiful and meaningful
 	- Expansion of range of Self
-5. Giving validity to Imagination as a "way of knowing"
-	
+5. Giving validity to Imagination as a "way of knowing"	
 
 ### Conceptions of the Dharma
 - Popular Dharma

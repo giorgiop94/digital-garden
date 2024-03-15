@@ -367,4 +367,4 @@ Talks about [[Goals in Spiritual Practice]] and motivation
 
 ### Questioning Reality
 - Realizing the [[Emptiness]] in things will free us from [[Attachment]] to them
-	- Important to know that there's also [[Healthy Clinging]]
+	- Important to know that there's also [[healthy clinging]]

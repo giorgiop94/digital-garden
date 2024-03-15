@@ -5,7 +5,7 @@
 [Link to transcripts](https://airtable.com/shr9OS6jqmWvWTG5g/tblHlCKWIIhZzEFMk/viw3k0IfSo0Dve9ZJ/rec1yr8vEnWFkOxvK/fldJfzyMJCDaGCKom/attCi6Mvl3kfpsYfW))
 
 ## The Way of Non-Clinging
-[[Healthy Clinging]] - [[non-clinging]] 
+[[healthy clinging]] - [[non-clinging]] 
 
 - Difference between craving and clinging is important, but is not the main thing Rob wants to address
 	- Craving is the momentary impulse towards or away from something

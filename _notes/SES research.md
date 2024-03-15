@@ -8,6 +8,7 @@
 	- the ‘collaborative process of bringing a plurality of knowledge sources and types together to address a defined problem and build an integrated or systems-oriented understanding of that problem’ (Armitage et al. 2011)
 - transdisciplinarity required to apply research to policy and practice
 	- diverse teams as a way to integrate "multiple ways of knowing" ([[ways of looking]])
+- [[Earth System Science]]
 
 ## Research Methods
 ### System Scoping

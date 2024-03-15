@@ -66,6 +66,7 @@ Could be seen as [[reductionism]]
 				- You compare yourself to others who seem to have no pain
 				- The experience may become more painful than if you labeled it as "warmth"
 
+[[meditation is not about having no thoughts]]
 ### Other Techniques
 - [[Bioemotive Meditation]]
 - [[Feeling Through Emotions]]

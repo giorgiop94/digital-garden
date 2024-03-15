@@ -6,6 +6,8 @@ Back to: [[Metamodernism]]
 *the ability to hold contradictory realities in your mind for long enough to consider what each has to offer and appreciate ideas that don't belong to any of them*
 
 - informed naivete
+	> The sci- fi author Ursula Le Guin once noted that, in times prior to democracy, the end of the divine right of kings was unimaginable, and that today, the end of capitalism is equally so. Yet, democracy did emerge, once the conditions were ripe for it. It is by being students of such conditions of transformation and change that we can adopt and live by an informed naivety. Such naivety keeps some of our childlike qualities, like innocence and directness of experience, but attempts to marry them to the discerning and protective mind of the educated adult. ([[Book - 12 Commandments For Extraordinary People To Master Ordinary Life by Hanzi Freinacht]])
+
 - pragmatic romanticism
 - sincere irony
 - magical realism [[haruki murakami]]

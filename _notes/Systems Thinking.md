@@ -16,7 +16,7 @@ A useful way of thinking about problems that involve [[complex adaptive systems]
 1. System Paradigms
 2. System Goals
 3. [[Reinforcing Feedback Loops]]
-4. [[Balancing Feedback Loops]]
+4. [[balancing feedback loops]]
 5. Physical Structure
 
 

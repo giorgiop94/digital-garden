@@ -6,6 +6,9 @@ title: Decision-Making
 ---
 ## Principles
 - Do not take rushed decision (if decision requires you to be rushed and you can avoid taking the decision, avoid it) 
+- ·Distinguishing what action is coming from the mind and what from the body
+	- Not necessarily judging either as better
+	- Knowing what's coming from where can help with decisions
 - [[Decision Journals]] help us mitigate some of the biases in our decisions
 	- [[narrating self and experiencing self]]
 - Look to falsify the beliefs you hold to be true to counter the [[Confirmation Bias]]

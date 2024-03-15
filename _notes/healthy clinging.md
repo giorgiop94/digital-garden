@@ -1,10 +1,5 @@
 ---
-title: Healthy Clinging 
----
----
-
-title: Healthy Clinging
- 
+title: healthy clinging 
 ---
 ## Rob Burbea on Healthy Clinging
 From [[Talks - Metta and Emptiness - Rob Burbea and Catherine McGee#Questioning Reality]]

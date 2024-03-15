@@ -3,7 +3,7 @@
 ---
 - One interesting thing, connected to what I wrote yesterday about [[Take a Moment to re-assess]], Derek mentioned about himself when running his business. He felt he didn't have the time to train his employees well enough so that he could delegate more. Then he just broke down and he had to do it and it was one of the most rewarding things he could do, as now he was able to only work form home and only on the innovative creative parts of the business.
 - He mentions that Awaken the giant within by [[Tony Robbins]] was a huge influence on him and that he internalized everything from that book
-    - events are neutral, your reaction is not (example of a funeral in New Orleans where people start dancing). [[e. You have choice over your emotions]][[Emotions]]
+    - events are neutral, your reaction is not (example of a funeral in New Orleans where people start dancing). [[You have choice over your emotions]][[Emotions]]
 
 ### [[Meaningful Life]]
 - Life has no meaning. Everything is a blank slate that you can project whatever meaning we want on to. 

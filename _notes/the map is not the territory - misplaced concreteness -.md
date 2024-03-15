@@ -2,6 +2,7 @@
 title: the map is not the territory - misplaced concreteness - 
 ---
 Fallacy of misplaced concreteness, [[everything constantly changes (impermanence)]]
+There is real danger in this fallacy because [[ideas are tremendously powerful]]
 
 > In assigning fixed labels we commit the fallacy of misplaced concreteness. According to Whitehead, by mistaking abstractions, beliefs or mental constructs for physical or “concrete” reality, we hypnotise ourselves. Larry G. Maguire in [Whitehead: The Fallacy of Misplaced Concreteness](https://larrygmaguire.com/misplaced-concreteness/) 
 

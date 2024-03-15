@@ -171,7 +171,7 @@ If you, like me, tend towards liberal stances on narcotics, you are also saying 
 It is a question of choosing totality over partiality. Partiality is only possible if you believe in the liberal innocent. Once you choose totality, once you begin to see society as a whole, liberal innocence is lost.
 
 ### You cannot choose not to act
-Non action doesn't exist - [[you  cannot choose not to act]]
+Non action doesn't exist - [[you cannot choose not to act]]
 
 And that leads us to a second, even deeper, belief of the liberal innocent: **That you can choose not to act, and just be a normal citizen, and that you are thereby innocent**. The belief holds that, if you “don’t want to control others” and “just live your life”, you are innocent; that only the politicians, reformists and dictators bear the true responsibility. 
 But you are society as a whole

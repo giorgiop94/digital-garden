@@ -16,7 +16,7 @@
 	- *The pleasure of calmness is a pleasure I'll allow myself*
 - The more we develop it, the less needy and greedy we become
 	- We also become more available to others
-	- **Calmness, like other mindstates, is developable**
+	- **Calmness, like other mindstates, is "developable"**
 		- We are not victim of our environment for our mindstates
 - The Buddha placed a strong emphasis on the 5 ethical precepts
 
@@ -33,7 +33,7 @@
 	- Expect hindrances to come, they will
 	- Working with hindrances in meditation as opportunity to free ourselves from them in our life
 - Hindrances shrink awareness
-	- Focusing on expanding awareness
+	- Focusing on expanding awareness (related: [[Course - Alexander Technique]])
 - Hindrances may come as a way to distract us from difficult emotions
 	- Check in with yourself for that
 
@@ -59,14 +59,14 @@
 
 ### Restlessness and Worry
 - Literal translation related to guilt over past actions
-	- Ethics is an important part of the path
+	- **Ethics is an important part of the path**
 - Worry can be a habit
 	- Depends on some of our beliefs
 - Working with it
 	- Focus on outbreath (calming)
 - With time practicing, worry naturally decreases
 - Too focused attention can bring agitation, too little focus can bring torpor
-	- Finding [[The Middle Path#The Middle Path]]
+	- Finding [[The Middle Path]]
 
 ### Doubt
 - Doubting is good in practice
@@ -87,7 +87,7 @@
 ### What Helps to Develop Samatha
 - [[Happiness]] is what helps most to develop Samatha
 	- It is also the fruit of Samatha, creating [[Reinforcing Feedback Loops]]
-	- **Feeling gratitude and appreciation to develop happiness [[gratitude is a superpower]]**
+	- **Feeling gratitude and appreciation to develop happiness -> [[gratitude is a superpower]]**
 - Receptivity, again is both a fruit and a cause of Samatha
 - Learning [[Working with the Hindrances]]
 	- Learning to expect and ride the waves and ups and downs

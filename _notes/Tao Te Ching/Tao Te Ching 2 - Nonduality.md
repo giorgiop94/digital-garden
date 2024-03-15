@@ -33,7 +33,7 @@ That is why it lasts forever.
 1: [[Yin Yang]]
 2: [[Wu Wei]], [[go with the flow]]
 3: [[What you own owns you]], [[avoid greed and compulsive consumption]]
-4: [[Detachment from results makes you more relaxed and better performing]]
+4: [[Detachment makes you perform better]]
 
 -------------------
 
